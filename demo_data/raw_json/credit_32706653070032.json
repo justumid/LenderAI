@@ -1,0 +1,645 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "0",
+      "max_uninter_overdue_percent_days": "0",
+      "max_overdue_principal_days": "0",
+      "total_overdue_percent_sum": "0",
+      "credit_request_qty": "11",
+      "claims_qty": "8",
+      "average_monthly_payment": "115791079",
+      "subscriptions_qty": "0",
+      "contracts_qty": "1",
+      "overdue_principal_qty": "0",
+      "actual_average_monthly_payment": "0"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.7",
+      "scoring_grade": "279",
+      "scoring_class": "C3",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "RET",
+      "claim_id": "a83bc8e07584be2bb46",
+      "report_type": "077",
+      "branch": "20531",
+      "demand_id": "RET2025071509364",
+      "user_id": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi (20531), System S.S",
+      "consent_date": "2025-03-12",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+      "demand_date_time": "2025-03-12 10:27",
+      "consent_id": "0",
+      "claim_date": "2025-03-12"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "a83bc8e07584be2bb46",
+          "report_type": "077",
+          "consent_date": "2025-03-12",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "demand_date_time": "2025-03-12 10:27",
+          "branch": "20531",
+          "consent_id": "0"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "d6038f9824524c6a91b1",
+          "report_type": "077",
+          "consent_date": "2025-03-12",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "demand_date_time": "2025-03-12 10:27",
+          "branch": "20531",
+          "consent_id": "0"
+        },
+        {
+          "org": "MKO",
+          "user_id": "System S.S.",
+          "claim_id": "37524100000000",
+          "report_type": "177",
+          "consent_date": "2025-02-11",
+          "org_name": "\"FORTUNA BIZNES MIKROKREDIT TASHKILOTI\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ",
+          "demand_date_time": "2025-02-11 15:50",
+          "branch": "06050",
+          "consent_id": "13-330/25"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac2677048a3297237",
+          "report_type": "022",
+          "consent_date": "2024-08-24",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-08-24 10:21",
+          "branch": "20038",
+          "consent_id": "3297237"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac2677048a3297237",
+          "report_type": "077",
+          "consent_date": "2024-08-24",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-08-24 10:22",
+          "branch": "20038",
+          "consent_id": "3297237"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "P001074152",
+          "report_type": "008",
+          "consent_date": "2024-07-18",
+          "org_name": "TBC FIN SERVICE",
+          "demand_date_time": "2024-07-18 14:35",
+          "branch": "20002",
+          "consent_id": "P001074152"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "P001074152",
+          "report_type": "077",
+          "consent_date": "2024-07-18",
+          "org_name": "TBC FIN SERVICE",
+          "demand_date_time": "2024-07-18 14:35",
+          "branch": "20002",
+          "consent_id": "P001074152"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac2677048a3120366",
+          "report_type": "022",
+          "consent_date": "2024-07-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-07-18 14:42",
+          "branch": "20038",
+          "consent_id": "3120366"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac2677048a3120366",
+          "report_type": "077",
+          "consent_date": "2024-07-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-07-18 14:43",
+          "branch": "20038",
+          "consent_id": "3120366"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "f68eb984d9e6fc71241d",
+          "report_type": "023",
+          "consent_date": "2024-04-30",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2024-04-30 16:43",
+          "branch": "20100",
+          "consent_id": "f68eb984d9"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "f68eb984d9e6fc71241d",
+          "report_type": "077",
+          "consent_date": "2024-04-30",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2024-04-30 16:43",
+          "branch": "20100",
+          "consent_id": "f68eb984d9"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "32706653070032",
+      "live_address": "",
+      "registration_region": "33",
+      "gender": "M",
+      "registration_district": "172",
+      "birth_date": "1965-06-27",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "998937524580",
+            "phone_number_change": "2025-03-12"
+          },
+          {
+            "phone_number": "998900774580",
+            "phone_number_change": "2024-04-30"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2025-03-12",
+      "katm_sir": "P2053120250312915447",
+      "juridical_status": "2",
+      "name": "SALAYEV MASHARIB YUSUPOVICH",
+      "live_address_change": "2025-03-12",
+      "registration_address": "Дехкон Бозар",
+      "email": "н/д",
+      "registration_address_change": "2025-03-12"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "115791080",
+      "open_contract": {
+        "monthly_average_payment": "115791080",
+        "overdue_debt_sum": "0",
+        "org": "MKO",
+        "contract_id": "375277",
+        "total_debt_sum": "2072849311",
+        "currency": "000",
+        "org_name": "\"FORTUNA BIZNES MIKROKREDIT TASHKILOTI\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ",
+        "branch": "06050"
+      },
+      "all_debt_sum": "2072849311",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "P001074152",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "TBC FIN SERVICE",
+          "branch": "20002",
+          "claim_date": "2024-07-18"
+        },
+        {
+          "rejection_date": "2025-02-07",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "ac2677048a3120366",
+          "credit_duration": "",
+          "rejection_reason": "3",
+          "currency": "н\\д",
+          "org_name": "Alif Moliya",
+          "branch": "20038",
+          "claim_date": "2024-07-18"
+        },
+        {
+          "rejection_date": "2025-02-07",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "ac2677048a3297237",
+          "credit_duration": "",
+          "rejection_reason": "3",
+          "currency": "н\\д",
+          "org_name": "Alif Moliya",
+          "branch": "20038",
+          "claim_date": "2024-08-24"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "imanIzvaAN0b2SiwViAf",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "IMAN HALAL INVESTMENTS KOMMANDITNOE TOVARISHESTVO",
+          "branch": "20071",
+          "claim_date": "2024-07-18"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "f68eb984d9e6fc71241d",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "SOLUTIONS LAB",
+          "branch": "20100",
+          "claim_date": "2024-04-30"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "a83bc8e07584be2bb46",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "branch": "20531",
+          "claim_date": "2025-03-12"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "d6038f9824524c6a91b1",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "branch": "20531",
+          "claim_date": "2025-03-12"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": {
+        "reserve_bal_change": "2025-02-11",
+        "contract_id": "375277",
+        "security_qty": "1",
+        "contract_status": "1",
+        "revised_principal_sum": "0",
+        "offbalance_princial_sum_change": "2025-02-11",
+        "branch": "06050",
+        "securities": {
+          "security": {
+            "pinfl": "41507 7631 50032",
+            "amount": "25000000",
+            "subject_type": "",
+            "contract_id": "13-330 25",
+            "inn": "",
+            "security_change": "2025-02-11",
+            "contract_date": "",
+            "juridical_status": "2",
+            "name": "Sobirova Feruza",
+            "currency": "000",
+            "consent_date": "",
+            "security_type": "23",
+            "consent_id": ""
+          }
+        },
+        "class_asset_quality": "",
+        "forecasted_schedule": {
+          "forecasted_schedule_change": "2025-02-11",
+          "forecasted_schedule_change_qty": "1",
+          "forecasted_payment": [
+            {
+              "forecasted_payment_period": "2025-03",
+              "principal_sum": "55600000",
+              "percent_sum": "85917804"
+            },
+            {
+              "forecasted_payment_period": "2025-04",
+              "principal_sum": "55600000",
+              "percent_sum": "92478859"
+            },
+            {
+              "forecasted_payment_period": "2025-05",
+              "principal_sum": "55600000",
+              "percent_sum": "89834435"
+            },
+            {
+              "forecasted_payment_period": "2025-06",
+              "principal_sum": "55600000",
+              "percent_sum": "84377430"
+            },
+            {
+              "forecasted_payment_period": "2025-07",
+              "principal_sum": "55600000",
+              "percent_sum": "81818310"
+            },
+            {
+              "forecasted_payment_period": "2025-08",
+              "principal_sum": "55600000",
+              "percent_sum": "81901163"
+            },
+            {
+              "forecasted_payment_period": "2025-09",
+              "principal_sum": "55600000",
+              "percent_sum": "79256708"
+            },
+            {
+              "forecasted_payment_period": "2025-10",
+              "principal_sum": "55600000",
+              "percent_sum": "79083648"
+            },
+            {
+              "forecasted_payment_period": "2025-11",
+              "principal_sum": "55600000",
+              "percent_sum": "69195740"
+            },
+            {
+              "forecasted_payment_period": "2025-12",
+              "principal_sum": "55600000",
+              "percent_sum": "69022680"
+            },
+            {
+              "forecasted_payment_period": "2026-01",
+              "principal_sum": "55600000",
+              "percent_sum": "70894464"
+            },
+            {
+              "forecasted_payment_period": "2026-02",
+              "principal_sum": "55600000",
+              "percent_sum": "63904440"
+            },
+            {
+              "forecasted_payment_period": "2026-03",
+              "principal_sum": "55600000",
+              "percent_sum": "57255632"
+            },
+            {
+              "forecasted_payment_period": "2026-04",
+              "principal_sum": "55600000",
+              "percent_sum": "64664820"
+            },
+            {
+              "forecasted_payment_period": "2026-05",
+              "principal_sum": "55600000",
+              "percent_sum": "52478608"
+            },
+            {
+              "forecasted_payment_period": "2026-06",
+              "principal_sum": "55600000",
+              "percent_sum": "55456892"
+            },
+            {
+              "forecasted_payment_period": "2026-07",
+              "principal_sum": "55600000",
+              "percent_sum": "54516064"
+            },
+            {
+              "forecasted_payment_period": "2026-08",
+              "principal_sum": "55600000",
+              "percent_sum": "46931367"
+            },
+            {
+              "forecasted_payment_period": "2026-09",
+              "principal_sum": "55600000",
+              "percent_sum": "47523589"
+            },
+            {
+              "forecasted_payment_period": "2026-10",
+              "principal_sum": "55600000",
+              "percent_sum": "44879165"
+            },
+            {
+              "forecasted_payment_period": "2026-11",
+              "principal_sum": "55600000",
+              "percent_sum": "40872330"
+            },
+            {
+              "forecasted_payment_period": "2026-12",
+              "principal_sum": "55600000",
+              "percent_sum": "38313210"
+            },
+            {
+              "forecasted_payment_period": "2027-01",
+              "principal_sum": "55600000",
+              "percent_sum": "36945893"
+            },
+            {
+              "forecasted_payment_period": "2027-02",
+              "principal_sum": "55600000",
+              "percent_sum": "34301469"
+            },
+            {
+              "forecasted_payment_period": "2027-03",
+              "principal_sum": "55600000",
+              "percent_sum": "28593460"
+            },
+            {
+              "forecasted_payment_period": "2027-04",
+              "principal_sum": "55600000",
+              "percent_sum": "29948480"
+            },
+            {
+              "forecasted_payment_period": "2027-05",
+              "principal_sum": "55600000",
+              "percent_sum": "24666994"
+            },
+            {
+              "forecasted_payment_period": "2027-06",
+              "principal_sum": "55600000",
+              "percent_sum": "23723742"
+            },
+            {
+              "forecasted_payment_period": "2027-07",
+              "principal_sum": "55600000",
+              "percent_sum": "21079318"
+            },
+            {
+              "forecasted_payment_period": "2027-08",
+              "principal_sum": "55600000",
+              "percent_sum": "17840220"
+            },
+            {
+              "forecasted_payment_period": "2027-09",
+              "principal_sum": "55600000",
+              "percent_sum": "16809210"
+            },
+            {
+              "forecasted_payment_period": "2027-10",
+              "principal_sum": "55600000",
+              "percent_sum": "11873848"
+            },
+            {
+              "forecasted_payment_period": "2027-11",
+              "principal_sum": "55600000",
+              "percent_sum": "10501622"
+            },
+            {
+              "forecasted_payment_period": "2027-12",
+              "principal_sum": "55600000",
+              "percent_sum": "8110656"
+            },
+            {
+              "forecasted_payment_period": "2028-01",
+              "principal_sum": "55600000",
+              "percent_sum": "4863126"
+            },
+            {
+              "forecasted_payment_period": "2028-02",
+              "principal_sum": "54000000",
+              "percent_sum": "1900329"
+            }
+          ]
+        },
+        "contract_end_date_change": "2025-02-11",
+        "remaining_limit_sum": "0",
+        "ID": "1",
+        "overdue_principals": "",
+        "percent_change": "2025-02-11",
+        "immediate_percent_sum": "72849311",
+        "amount_issued_change": "2025-02-11",
+        "overdue_principal_sum": "0",
+        "contract_date_change": "2025-02-11",
+        "reserve_bal_sum": "0",
+        "credit_type": "32",
+        "offbalance_percent_sum": "0",
+        "immediate_percent_sum_change": "2025-03-09",
+        "offbalance_princial_sum": "0",
+        "lawsuit_principal_sum_change": "2025-02-11",
+        "total_debt_sum_change": "2025-02-11",
+        "claim_date": "2025-02-11",
+        "contract_closing_date": "",
+        "claim_id": "37524100000000",
+        "overdue_principal_sum_change": "2025-02-11",
+        "offbalance_percent_sum_change": "2025-02-11",
+        "overdue_percent_sum": "0",
+        "claim_id_change": "2025-02-11",
+        "percent": "56",
+        "amount_change": "2025-02-11",
+        "immediate_principal_sum_change": "2025-02-11",
+        "actual_schedule": "",
+        "contract_end_date": "2028-02-03",
+        "balances": {
+          "balance": [
+            {
+              "month": "02/2025",
+              "begin_sum": "0",
+              "end_sum": "2000000000"
+            },
+            {
+              "month": "03/2025",
+              "begin_sum": "0",
+              "end_sum": "2000000000"
+            }
+          ]
+        },
+        "contract_date": "2025-02-11",
+        "total_debt_sum": "2072849311",
+        "currency": "000",
+        "immediate_principal_sum": "2000000000",
+        "org_name": "\"FORTUNA BIZNES MIKROKREDIT TASHKILOTI\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ",
+        "amount": "2000000000",
+        "org": "MKO",
+        "overdue_procents": "",
+        "org_type": "МФО",
+        "amount_issued": "2000000000",
+        "revised_principal_sum_change": "2025-02-11",
+        "lawsuit_principal_sum": "0",
+        "juridical_status": "08",
+        "overdue_percent_sum_change": "2025-02-11",
+        "class_asset_quality_change": "2025-02-11"
+      }
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": [
+        {
+          "period": "04.2024",
+          "score_point": "301",
+          "score_date": "2024-04-30 16:43"
+        },
+        {
+          "period": "07.2024",
+          "score_point": "301",
+          "score_date": "2024-07-18 14:35"
+        },
+        {
+          "period": "08.2024",
+          "score_point": "301",
+          "score_date": "2024-08-24 10:21"
+        },
+        {
+          "period": "02.2025",
+          "score_point": "301",
+          "score_date": "2025-02-11 15:50"
+        },
+        {
+          "period": "03.2025",
+          "score_point": "279",
+          "score_date": "2025-03-12 10:27"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "44000000",
+      "max_uninter_overdue_percent_days": "1",
+      "max_overdue_principal_days": "2",
+      "total_overdue_percent_sum": "4357441",
+      "credit_request_qty": "10",
+      "claims_qty": "4",
+      "average_monthly_payment": "0",
+      "subscriptions_qty": "0",
+      "contracts_qty": "1",
+      "overdue_principal_qty": "3",
+      "actual_average_monthly_payment": "0"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "294",
+      "scoring_class": "C3",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "8f7fba48594339abb8",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2024255008064",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2024- 09-11",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2024-09-11 07:12",
+      "consent_id": "628",
+      "claim_date": "2024- 09-11"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "8f7fba48594339abb8",
+          "report_type": "077",
+          "consent_date": "2024-09-11",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2024-09-11 19:12",
+          "branch": "40004",
+          "consent_id": "628"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "e3e3c1d988bb48d5973b",
+          "report_type": "077",
+          "consent_date": "2024-09-11",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2024-09-11 10:52",
+          "branch": "40004",
+          "consent_id": "0"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac911876a3210634",
+          "report_type": "022",
+          "consent_date": "2024-08-06",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-08-06 09:19",
+          "branch": "20038",
+          "consent_id": "3210634"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac911876a3210634",
+          "report_type": "077",
+          "consent_date": "2024-08-06",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-08-06 09:20",
+          "branch": "20038",
+          "consent_id": "3210634"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "1669966",
+          "report_type": "422",
+          "consent_date": "2023-01-18",
+          "org_name": "E-Auksion",
+          "demand_date_time": "2023-01-24 07:25",
+          "branch": "40002",
+          "consent_id": "1669966"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "1658680",
+          "report_type": "422",
+          "consent_date": "2023-01-14",
+          "org_name": "E-Auksion",
+          "demand_date_time": "2023-01-20 19:29",
+          "branch": "40002",
+          "consent_id": "1658680"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "550905830",
+          "report_type": "008",
+          "consent_date": "2022-06-06",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2022-06-06 16:31",
+          "branch": "01183",
+          "consent_id": "550905830"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "550905830",
+          "report_type": "039",
+          "consent_date": "2022-06-06",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2022-06-06 16:31",
+          "branch": "01183",
+          "consent_id": "550905830"
+        },
+        {
+          "org": "053",
+          "user_id": "Yunus M.S.",
+          "claim_id": "33200",
+          "report_type": "008",
+          "consent_date": "2021-06-16",
+          "org_name": "НАВОИЙ Ш., \"INVEST FINANCE BANK\" АЖ НАВОИЙ ВИЛОЯТ ФИЛИАЛИ",
+          "demand_date_time": "2021-06-14 17:00",
+          "branch": "01148",
+          "consent_id": "33200"
+        },
+        {
+          "org": "009",
+          "user_id": "Фаррух Э.Ф.",
+          "claim_id": "594433",
+          "report_type": "022",
+          "consent_date": "2021-06-07",
+          "org_name": "НАВОИЙ Ш., АТБ \"КИШЛОК КУРИЛИШ БАНК\"НИНГ НАВОИЙ МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2021-06-07 16:38",
+          "branch": "00202",
+          "consent_id": "1"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "40204842330015",
+      "live_address": "",
+      "registration_region": "12",
+      "gender": "Ж",
+      "registration_district": "058",
+      "birth_date": "1984-04-02",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "998913357077",
+            "phone_number_change": "2024-09-11"
+          },
+          {
+            "phone_number": "998919861877",
+            "phone_number_change": "2024-08-06"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2024-09-11",
+      "katm_sir": "P4000420240911773890",
+      "juridical_status": "2",
+      "name": "MUXAMEDOVA GULCHEHRA MIRZAYEVNA",
+      "live_address_change": "2024-09-11",
+      "registration_address": "НАВОИ Ш., ЎЗБЕКИСТОН МФЙ, 1-ДАХА А.ТЕМУР КЎЧАСИ,  uy:14 xonadon:11",
+      "email": "н/д",
+      "registration_address_change": "2024-09-11"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "0",
+      "all_debt_sum": "0",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "2022-06-06",
+          "summa": "",
+          "org": "063",
+          "claim_id": "550905830",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01183",
+          "claim_date": "2022-06-06"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "ac911876a3210634",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Alif Moliya",
+          "branch": "20038",
+          "claim_date": "2024-08-06"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": {
+        "closed_lawsuit_principal_sum": "0",
+        "actual_monthly_average_payment": "",
+        "contract_closing_date": "2023-05-24",
+        "closed_offbalance_percent_sum_change": "",
+        "contract_id": "33200",
+        "security_qty": "1",
+        "contract_status": "2",
+        "claim_id": "33200",
+        "branch": "01148",
+        "claim_id_change": "2021-06-14",
+        "percent": "26.99",
+        "amount_change": "2021-06-16",
+        "closed_offbalance_percent_sum": "0",
+        "actual_schedule": "",
+        "contract_end_date": "2022-12-14",
+        "balances": {
+          "balance": [
+            {
+              "month": "06/2021",
+              "begin_sum": "519808446",
+              "end_sum": "522742820"
+            },
+            {
+              "month": "07/2021",
+              "begin_sum": "557591486",
+              "end_sum": "719266110"
+            },
+            {
+              "month": "08/2021",
+              "begin_sum": "292254767",
+              "end_sum": "292470875"
+            },
+            {
+              "month": "09/2021",
+              "begin_sum": "243721919",
+              "end_sum": "243902140"
+            },
+            {
+              "month": "10/2021",
+              "begin_sum": "248998984",
+              "end_sum": "249183107"
+            },
+            {
+              "month": "11/2021",
+              "begin_sum": "254955608",
+              "end_sum": "255144136"
+            },
+            {
+              "month": "12/2021",
+              "begin_sum": "260477892",
+              "end_sum": "260670503"
+            },
+            {
+              "month": "01/2022",
+              "begin_sum": "260477892",
+              "end_sum": "260670503"
+            },
+            {
+              "month": "02/2022",
+              "begin_sum": "260670503",
+              "end_sum": "230670503"
+            },
+            {
+              "month": "03/2022",
+              "begin_sum": "230670503",
+              "end_sum": "190670503"
+            },
+            {
+              "month": "04/2022",
+              "begin_sum": "120670503",
+              "end_sum": "125027944"
+            },
+            {
+              "month": "05/2022",
+              "begin_sum": "125027944",
+              "end_sum": "127517708"
+            },
+            {
+              "month": "06/2022",
+              "begin_sum": "127517708",
+              "end_sum": "130440798"
+            },
+            {
+              "month": "07/2022",
+              "begin_sum": "130440798",
+              "end_sum": "133623804"
+            },
+            {
+              "month": "08/2022",
+              "begin_sum": "133623804",
+              "end_sum": "135866685"
+            },
+            {
+              "month": "09/2022",
+              "begin_sum": "139282559",
+              "end_sum": "109282559"
+            },
+            {
+              "month": "10/2022",
+              "begin_sum": "109282559",
+              "end_sum": "96000000"
+            },
+            {
+              "month": "11/2022",
+              "begin_sum": "96000000",
+              "end_sum": "52000000"
+            },
+            {
+              "month": "12/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "04/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "09/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "10/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "11/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "12/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "04/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            }
+          ]
+        },
+        "contract_date": "2021-06-16",
+        "class_asset_quality": "1",
+        "actual_monthly_average_payment_change": "2024-09-11",
+        "contract_end_date_change": "2021-06-16",
+        "currency": "000",
+        "ID": "1",
+        "org_name": "НАВОИЙ Ш., \"INVEST FINANCE BANK\" АЖ НАВОИЙ ВИЛОЯТ ФИЛИАЛИ",
+        "overdue_principals": {
+          "overdue_principal": [
+            {
+              "overdue_principal_sum": "24675020",
+              "overdue_date": "2021-08-10",
+              "overdue_principal_change": "2021-08-13",
+              "overdue_principal_days": "2"
+            },
+            {
+              "overdue_principal_sum": "13282559",
+              "overdue_date": "2022-10-10",
+              "overdue_principal_change": "2022-10-12",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "44000000",
+              "overdue_date": "2022-11-10",
+              "overdue_principal_change": "2022-11-14",
+              "overdue_principal_days": "1"
+            }
+          ]
+        },
+        "percent_change": "2021-06-16",
+        "amount_issued_change": "2023-05-24",
+        "closed_lawsuit_principal_sum_change": "",
+        "amount": "800000000",
+        "contract_date_change": "2021-06-16",
+        "org": "053",
+        "overdue_procents": {
+          "overdue_procent": {
+            "overdue_principal_sum": "4357441",
+            "overdue_date": "2022-04-13",
+            "overdue_principal_change": "2022-04-14",
+            "overdue_principal_days": "1"
+          }
+        },
+        "closed_offbalance_princial_sum": "0",
+        "org_type": "БАНК",
+        "amount_issued": "783622152",
+        "credit_type": "54",
+        "closed_offbalance_princial_sum_change": "",
+        "juridical_status": "08",
+        "claim_date": "2021-06-14",
+        "class_asset_quality_change": "2021-06-16"
+      }
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": [
+        {
+          "period": "08.2024",
+          "score_point": "294",
+          "score_date": "2024-08-06 09:19"
+        },
+        {
+          "period": "09.2024",
+          "score_point": "294",
+          "score_date": "2024-09-11 10:52"
+        }
+      ]
+    }
+  }
+}

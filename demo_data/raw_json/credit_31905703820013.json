@@ -1,0 +1,1936 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "0",
+      "max_uninter_overdue_percent_days": "0",
+      "max_overdue_principal_days": "0",
+      "total_overdue_percent_sum": "0",
+      "credit_request_qty": "55",
+      "claims_qty": "29",
+      "average_monthly_payment": "275817500",
+      "subscriptions_qty": "0",
+      "contracts_qty": "9",
+      "overdue_principal_qty": "0",
+      "actual_average_monthly_payment": "0"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.7",
+      "scoring_grade": "387",
+      "scoring_class": "B3",
+      "scoring_level": "ХОРОШИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "RET",
+      "claim_id": "35c28bc65e894ad89af3",
+      "report_type": "077",
+      "branch": "20531",
+      "demand_id": "RET2025085230165",
+      "user_id": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi (20531), System S.S",
+      "consent_date": "2025-03-26",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+      "demand_date_time": "2025-03-26 03:40",
+      "consent_id": "0",
+      "claim_date": "2025-03-26"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "35c28bc65e894ad89af3",
+          "report_type": "077",
+          "consent_date": "2025-03-26",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "demand_date_time": "2025-03-26 15:40",
+          "branch": "20531",
+          "consent_id": "0"
+        },
+        {
+          "org": "MKO",
+          "user_id": "System S.S.",
+          "claim_id": "392be31f78495996a497",
+          "report_type": "023",
+          "consent_date": "2025-03-01",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "demand_date_time": "2025-03-02 11:53",
+          "branch": "06098",
+          "consent_id": "13241001"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_PS787266-J",
+          "report_type": "055",
+          "consent_date": "2024-11-09",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2024-11-09 16:21",
+          "branch": "00451",
+          "consent_id": "1117418"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_PS787266-H",
+          "report_type": "155",
+          "consent_date": "2024-11-09",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2024-11-09 16:21",
+          "branch": "00451",
+          "consent_id": "1117418"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "N730522679P",
+          "report_type": "177",
+          "consent_date": "2024-11-02",
+          "org_name": "ТОШКЕНТ Ш., ТИФ МИЛЛИЙ БАНКИНИНГ БОШ ОФИСИ",
+          "demand_date_time": "2024-11-02 09:39",
+          "branch": "00450",
+          "consent_id": "522679"
+        },
+        {
+          "org": "MKO",
+          "user_id": "System S.S.",
+          "claim_id": "1491b3f0ad3382699d00",
+          "report_type": "023",
+          "consent_date": "2024-06-07",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "demand_date_time": "2024-06-14 17:21",
+          "branch": "06098",
+          "consent_id": "4983696"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01918501",
+          "report_type": "008",
+          "consent_date": "2024-04-18",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2024-04-18 17:12",
+          "branch": "00283",
+          "consent_id": "F01918501"
+        },
+        {
+          "org": "MKO",
+          "user_id": "System S.S.",
+          "claim_id": "f071c37832311fcb0b85",
+          "report_type": "023",
+          "consent_date": "2024-02-14",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "demand_date_time": "2024-02-22 10:51",
+          "branch": "06098",
+          "consent_id": "3206196"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01464888",
+          "report_type": "008",
+          "consent_date": "2023-12-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-12-07 15:12",
+          "branch": "00283",
+          "consent_id": "F01464888"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_ML4965#0-J",
+          "report_type": "055",
+          "consent_date": "2023-10-27",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2023-10-27 15:31",
+          "branch": "00451",
+          "consent_id": "259212"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_ML4965#0-H",
+          "report_type": "155",
+          "consent_date": "2023-10-27",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2023-10-27 15:41",
+          "branch": "00451",
+          "consent_id": "259212"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_PS10678-J",
+          "report_type": "055",
+          "consent_date": "2023-10-20",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2023-10-20 22:05",
+          "branch": "00451",
+          "consent_id": "237641"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_PS10678-H",
+          "report_type": "155",
+          "consent_date": "2023-10-20",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2023-10-20 22:05",
+          "branch": "00451",
+          "consent_id": "237641"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "712209f34f632ad2f26b",
+          "report_type": "023",
+          "consent_date": "2023-08-21",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2023-08-21 11:28",
+          "branch": "20100",
+          "consent_id": "712209f34f"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "712209f34f632ad2f26b",
+          "report_type": "039",
+          "consent_date": "2023-08-21",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2023-08-21 11:28",
+          "branch": "20100",
+          "consent_id": "712209f34f"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "712209f34f632ad2f26b",
+          "report_type": "077",
+          "consent_date": "2023-08-21",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2023-08-21 11:28",
+          "branch": "20100",
+          "consent_id": "712209f34f"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "712209f34f632ad2f26b",
+          "report_type": "177",
+          "consent_date": "2023-08-21",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2023-08-21 11:28",
+          "branch": "20100",
+          "consent_id": "712209f34f"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01128548",
+          "report_type": "008",
+          "consent_date": "2023-08-17",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-08-17 16:22",
+          "branch": "00283",
+          "consent_id": "F01128548"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01128548",
+          "report_type": "008",
+          "consent_date": "2023-08-17",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-08-31 21:12",
+          "branch": "00283",
+          "consent_id": "F01128548"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-08 15:36",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-10 09:37",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-11 11:44",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-11 16:41",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-12 18:34",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-16 17:33",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-17 11:38",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-20 10:52",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-24 19:35",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-25 12:08",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01005112",
+          "report_type": "008",
+          "consent_date": "2023-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-29 18:57",
+          "branch": "00283",
+          "consent_id": "F01005112"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_SL50325#1-J",
+          "report_type": "055",
+          "consent_date": "2023-06-23",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-23 11:57",
+          "branch": "00451",
+          "consent_id": "53550"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "NBU_SL50325#1-H",
+          "report_type": "155",
+          "consent_date": "2023-06-23",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-23 11:57",
+          "branch": "00451",
+          "consent_id": "53550"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-07 19:41",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-08 10:10",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-08 12:53",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-08 19:26",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-14 11:36",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-16 09:24",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-19 16:26",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-19 19:16",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-21 19:02",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-22 17:41",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-23 16:23",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-06-28 09:03",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-06 18:43",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-07 16:25",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00918343",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-07 17:59",
+          "branch": "00283",
+          "consent_id": "F00918343"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13486833",
+          "report_type": "008",
+          "consent_date": "2023-06-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-06-07 11:58",
+          "branch": "01180",
+          "consent_id": "13486833"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13486833",
+          "report_type": "039",
+          "consent_date": "2023-06-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-06-07 12:06",
+          "branch": "01180",
+          "consent_id": "13486833"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13486833",
+          "report_type": "077",
+          "consent_date": "2023-06-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-06-07 11:59",
+          "branch": "01180",
+          "consent_id": "13486833"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13466602",
+          "report_type": "008",
+          "consent_date": "2023-06-05",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-06-05 13:28",
+          "branch": "01180",
+          "consent_id": "13466602"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13466602",
+          "report_type": "077",
+          "consent_date": "2023-06-05",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-06-05 13:28",
+          "branch": "01180",
+          "consent_id": "13466602"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "12819772",
+          "report_type": "008",
+          "consent_date": "2023-04-11",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-04-11 13:54",
+          "branch": "01180",
+          "consent_id": "12819772"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "12819772",
+          "report_type": "077",
+          "consent_date": "2023-04-11",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-04-11 13:55",
+          "branch": "01180",
+          "consent_id": "12819772"
+        },
+        {
+          "org": "014",
+          "user_id": "Jonibek X.M.",
+          "claim_id": "F00126723",
+          "report_type": "008",
+          "consent_date": "2021-07-08",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "demand_date_time": "2021-07-08 07:29",
+          "branch": "00283",
+          "consent_id": "F00126723"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "31905703820013",
+      "live_address": "",
+      "registration_region": "18",
+      "gender": "M",
+      "registration_district": "092",
+      "birth_date": "1970-05-19",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "9989281030",
+            "phone_number_change": "2021-07-08"
+          },
+          {
+            "phone_number": "979281030",
+            "phone_number_change": "2023-12-07"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2025-03-26",
+      "katm_sir": "P2053120250326351868",
+      "juridical_status": "2",
+      "name": "MIRTASHEV ALISHER RUSTAMOVICH",
+      "live_address_change": "2025-03-26",
+      "registration_address": "Ibn Sino 42-15",
+      "email": "н/д",
+      "registration_address_change": "2025-03-26"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "275817500",
+      "open_contract": {
+        "monthly_average_payment": "275817500",
+        "overdue_debt_sum": "0",
+        "org": "MKO",
+        "contract_id": "13241001",
+        "total_debt_sum": "1654905000",
+        "currency": "000",
+        "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+        "branch": "06098"
+      },
+      "all_debt_sum": "1654905000",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "002",
+          "claim_id": "1055167",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., ТИФ МИЛЛИЙ БАНКИНИНГ БОШ ОФИСИ",
+          "branch": "00450",
+          "claim_date": "2023-06-26"
+        },
+        {
+          "rejection_date": "2024-11-02",
+          "summa": "",
+          "org": "002",
+          "claim_id": "N730522679P",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., ТИФ МИЛЛИЙ БАНКИНИНГ БОШ ОФИСИ",
+          "branch": "00450",
+          "claim_date": "2024-11-02"
+        },
+        {
+          "rejection_date": "2023-10-27",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_ML4965#0-H",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2023-10-27"
+        },
+        {
+          "rejection_date": "2023-10-27",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_ML4965#0-J",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2023-10-27"
+        },
+        {
+          "rejection_date": "2023-10-21",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_PS10678-H",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2023-10-20"
+        },
+        {
+          "rejection_date": "2023-10-21",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_PS10678-J",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2023-10-20"
+        },
+        {
+          "rejection_date": "2024-11-10",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_PS787266-H",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2024-11-09"
+        },
+        {
+          "rejection_date": "2024-11-10",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_PS787266-J",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2024-11-09"
+        },
+        {
+          "rejection_date": "2023-07-05",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_SL50325#1-H",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2023-06-23"
+        },
+        {
+          "rejection_date": "2023-07-05",
+          "summa": "",
+          "org": "002",
+          "claim_id": "NBU_SL50325#1-J",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ТИФ МИЛЛИЙ БАНКИ\" АЖ TОШКЕНТ ШАХАР БОШ БОШКАРМАСИ ФИЛИАЛИ",
+          "branch": "00451",
+          "claim_date": "2023-06-23"
+        },
+        {
+          "rejection_date": "2021-08-08",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F00126723",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "branch": "00283",
+          "claim_date": "2021-07-08"
+        },
+        {
+          "rejection_date": "2023-07-08",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F00918343",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "branch": "00283",
+          "claim_date": "2023-06-07"
+        },
+        {
+          "rejection_date": "2023-08-08",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F01005112",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "branch": "00283",
+          "claim_date": "2023-07-08"
+        },
+        {
+          "rejection_date": "2023-09-17",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F01128548",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "branch": "00283",
+          "claim_date": "2023-08-17"
+        },
+        {
+          "rejection_date": "2024-01-07",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F01464888",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "branch": "00283",
+          "claim_date": "2023-12-07"
+        },
+        {
+          "rejection_date": "2024-05-19",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F01918501",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "САМАРКАНД Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ УМАР МИНТАКАВИЙ ФИЛИАЛИ",
+          "branch": "00283",
+          "claim_date": "2024-04-18"
+        },
+        {
+          "rejection_date": "",
+          "summa": "1000000000",
+          "org": "062",
+          "claim_id": "12819772",
+          "credit_duration": "006.01",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2023-04-11"
+        },
+        {
+          "rejection_date": "",
+          "summa": "500000000",
+          "org": "062",
+          "claim_id": "13466602",
+          "credit_duration": "003.00",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2023-06-05"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "712209f34f632ad2f26b",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "SOLUTIONS LAB",
+          "branch": "20100",
+          "claim_date": "2023-08-21"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "35c28bc65e894ad89af3",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "branch": "20531",
+          "claim_date": "2025-03-26"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": [
+        {
+          "reserve_bal_change": "2025-03-01",
+          "contract_id": "13241001",
+          "security_qty": "0",
+          "contract_status": "1",
+          "revised_principal_sum": "0",
+          "offbalance_princial_sum_change": "",
+          "branch": "06098",
+          "securities": "",
+          "class_asset_quality": "",
+          "forecasted_schedule": {
+            "forecasted_schedule_change": "2025-03-02",
+            "forecasted_schedule_change_qty": "1",
+            "forecasted_payment": [
+              {
+                "forecasted_payment_period": "2025-04",
+                "principal_sum": "330981000",
+                "percent_sum": "0"
+              },
+              {
+                "forecasted_payment_period": "2025-05",
+                "principal_sum": "330981000",
+                "percent_sum": "0"
+              },
+              {
+                "forecasted_payment_period": "2025-06",
+                "principal_sum": "330981000",
+                "percent_sum": "0"
+              },
+              {
+                "forecasted_payment_period": "2025-07",
+                "principal_sum": "330981000",
+                "percent_sum": "0"
+              },
+              {
+                "forecasted_payment_period": "2025-08",
+                "principal_sum": "330981000",
+                "percent_sum": "0"
+              },
+              {
+                "forecasted_payment_period": "2025-09",
+                "principal_sum": "330981000",
+                "percent_sum": "0"
+              }
+            ]
+          },
+          "contract_end_date_change": "2025-03-02",
+          "remaining_limit_sum": "0",
+          "ID": "1",
+          "overdue_principals": "",
+          "percent_change": "2025-03-02",
+          "immediate_percent_sum": "0",
+          "amount_issued_change": "2025-03-22",
+          "overdue_principal_sum": "0",
+          "contract_date_change": "2025-03-02",
+          "reserve_bal_sum": "0",
+          "credit_type": "32",
+          "offbalance_percent_sum": "0",
+          "immediate_percent_sum_change": "",
+          "offbalance_princial_sum": "0",
+          "lawsuit_principal_sum_change": "",
+          "total_debt_sum_change": "2025-03-22",
+          "claim_date": "2025-03-01",
+          "contract_closing_date": "",
+          "claim_id": "392be31f78495996a497",
+          "overdue_principal_sum_change": "2025-03-01",
+          "offbalance_percent_sum_change": "",
+          "overdue_percent_sum": "0",
+          "claim_id_change": "2025-03-02",
+          "percent": "0",
+          "amount_change": "2025-03-02",
+          "immediate_principal_sum_change": "2025-03-22",
+          "actual_schedule": "",
+          "contract_end_date": "2025-09-01",
+          "balances": {
+            "balance": {
+              "month": "03/2025",
+              "begin_sum": "1985886000",
+              "end_sum": "1654905000"
+            }
+          },
+          "contract_date": "2025-03-01",
+          "total_debt_sum": "1654905000",
+          "currency": "000",
+          "immediate_principal_sum": "1654905000",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "amount": "1985886000",
+          "org": "MKO",
+          "overdue_procents": "",
+          "org_type": "МФО",
+          "amount_issued": "1985886000",
+          "revised_principal_sum_change": "",
+          "lawsuit_principal_sum": "0",
+          "juridical_status": "08",
+          "overdue_percent_sum_change": "",
+          "class_asset_quality_change": "2025-03-02"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2025-03-22",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "11193959",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "aac31ff06bab34aad15c",
+          "branch": "06098",
+          "claim_id_change": "2025-01-16",
+          "percent": "0",
+          "amount_change": "2025-01-16",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2025-04-01",
+          "balances": {
+            "balance": [
+              {
+                "month": "01/2025",
+                "begin_sum": "184800000",
+                "end_sum": "123200000"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "123200000",
+                "end_sum": "61600000"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "61600000",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2025-01-15",
+          "class_asset_quality": "",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2025-01-16",
+          "currency": "000",
+          "ID": "2",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "overdue_principals": "",
+          "percent_change": "2025-01-16",
+          "amount_issued_change": "2025-03-22",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "184800000",
+          "contract_date_change": "2025-01-16",
+          "org": "MKO",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "МФО",
+          "amount_issued": "184800000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2025-01-15",
+          "class_asset_quality_change": "2025-01-16"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2025-03-22",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "11180630",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "d28f9435403a7cafddb9",
+          "branch": "06098",
+          "claim_id_change": "2025-01-16",
+          "percent": "0",
+          "amount_change": "2025-01-16",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2025-04-01",
+          "balances": {
+            "balance": [
+              {
+                "month": "01/2025",
+                "begin_sum": "58576000",
+                "end_sum": "39050667"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "39050667",
+                "end_sum": "19525334"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "19525334",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2025-01-15",
+          "class_asset_quality": "",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2025-01-16",
+          "currency": "000",
+          "ID": "3",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "overdue_principals": "",
+          "percent_change": "2025-01-16",
+          "amount_issued_change": "2025-03-22",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "58576000",
+          "contract_date_change": "2025-01-16",
+          "org": "MKO",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "МФО",
+          "amount_issued": "58576000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2025-01-15",
+          "class_asset_quality_change": "2025-01-16"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2025-03-22",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "10792803",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "80480ff88cc390fb3ff0",
+          "branch": "06098",
+          "claim_id_change": "2025-01-05",
+          "percent": "0",
+          "amount_change": "2025-01-05",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2025-04-01",
+          "balances": {
+            "balance": [
+              {
+                "month": "01/2025",
+                "begin_sum": "297684800",
+                "end_sum": "198456533"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "198456533",
+                "end_sum": "99228266"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "99228266",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2025-01-04",
+          "class_asset_quality": "",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2025-01-05",
+          "currency": "000",
+          "ID": "4",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "overdue_principals": "",
+          "percent_change": "2025-01-05",
+          "amount_issued_change": "2025-03-22",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "297684800",
+          "contract_date_change": "2025-01-05",
+          "org": "MKO",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "МФО",
+          "amount_issued": "297684800",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2025-01-04",
+          "class_asset_quality_change": "2025-01-05"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2024-08-31",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "4983696",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "1491b3f0ad3382699d00",
+          "branch": "06098",
+          "claim_id_change": "2024-06-14",
+          "percent": "0",
+          "amount_change": "2024-06-14",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2024-09-01",
+          "balances": {
+            "balance": [
+              {
+                "month": "06/2024",
+                "begin_sum": "358400000",
+                "end_sum": "238933333"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "358400000",
+                "end_sum": "238933333"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2024",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2024",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2024",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2024",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2025",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "119466666",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2024-06-07",
+          "class_asset_quality": "",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2024-06-14",
+          "currency": "000",
+          "ID": "5",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "overdue_principals": "",
+          "percent_change": "2024-06-14",
+          "amount_issued_change": "2024-08-31",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "358400000",
+          "contract_date_change": "2024-06-14",
+          "org": "MKO",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "МФО",
+          "amount_issued": "358400000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2024-06-07",
+          "class_asset_quality_change": "2024-06-14"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2024-04-28",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "3206196",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "f071c37832311fcb0b85",
+          "branch": "06098",
+          "claim_id_change": "2024-02-22",
+          "percent": "0",
+          "amount_change": "2024-02-22",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2024-05-01",
+          "balances": {
+            "balance": [
+              {
+                "month": "02/2024",
+                "begin_sum": "245616000",
+                "end_sum": "163744000"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "245616000",
+                "end_sum": "163744000"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2024",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2025",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "81872000",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2024-02-14",
+          "class_asset_quality": "",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2024-02-22",
+          "currency": "000",
+          "ID": "6",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "overdue_principals": "",
+          "percent_change": "2024-02-22",
+          "amount_issued_change": "2024-04-28",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "245616000",
+          "contract_date_change": "2024-02-22",
+          "org": "MKO",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "МФО",
+          "amount_issued": "245616000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2024-02-14",
+          "class_asset_quality_change": "2024-02-22"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2023-10-23",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "1348007",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "14fcc83d6f449f07284e",
+          "branch": "06098",
+          "claim_id_change": "2023-09-22",
+          "percent": "0",
+          "amount_change": "2023-09-22",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2023-11-01",
+          "balances": {
+            "balance": [
+              {
+                "month": "08/2023",
+                "begin_sum": "0",
+                "end_sum": "84800000"
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "84800000",
+                "end_sum": "56533333"
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2024",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2025",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "84800000",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2023-08-21",
+          "class_asset_quality": "",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2023-09-22",
+          "currency": "000",
+          "ID": "7",
+          "org_name": "\"SHAFFOF-MOLIYA\" МАСЪУЛИЯТИ ЧЕКЛАНГАН ЖАМИЯТИ МИКРОМОЛИЯ ТАШКИЛОТИ",
+          "overdue_principals": "",
+          "percent_change": "2023-09-22",
+          "amount_issued_change": "2023-10-23",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "84800000",
+          "contract_date_change": "2023-09-22",
+          "org": "MKO",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "МФО",
+          "amount_issued": "84800000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2023-08-21",
+          "class_asset_quality_change": "2023-09-22"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "887535",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "1055387",
+          "branch": "00450",
+          "claim_id_change": "2023-06-26",
+          "percent": "0",
+          "amount_change": "2023-06-27",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2025-06-25",
+          "balances": {
+            "balance": [
+              {
+                "month": "06/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "07/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "08/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "09/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "10/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "11/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "12/2024",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "01/2025",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "",
+                "end_sum": ""
+              }
+            ]
+          },
+          "contract_date": "2023-06-27",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2023-06-27",
+          "currency": "000",
+          "ID": "8",
+          "org_name": "ТОШКЕНТ Ш., ТИФ МИЛЛИЙ БАНКИНИНГ БОШ ОФИСИ",
+          "overdue_principals": "",
+          "percent_change": "2023-06-27",
+          "amount_issued_change": "",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "500000000",
+          "contract_date_change": "2023-06-27",
+          "org": "002",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "",
+          "credit_type": "60",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2023-06-26",
+          "class_asset_quality_change": "2023-06-27"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2023-06-21",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "13486833",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "13486833",
+          "branch": "01180",
+          "claim_id_change": "2023-06-07",
+          "percent": "49",
+          "amount_change": "2023-06-07",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2023-11-07",
+          "balances": {
+            "balance": [
+              {
+                "month": "06/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2024",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2025",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2025",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2025",
+                "begin_sum": "500000000",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2023-06-07",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2025-03-26",
+          "contract_end_date_change": "2023-06-07",
+          "currency": "000",
+          "ID": "9",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "overdue_principals": "",
+          "percent_change": "2023-06-07",
+          "amount_issued_change": "2023-06-21",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "500000000",
+          "contract_date_change": "2023-06-07",
+          "org": "062",
+          "overdue_procents": "",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "500000000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2023-06-07",
+          "class_asset_quality_change": "2023-06-07"
+        }
+      ]
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": [
+        {
+          "period": "08.2024",
+          "score_point": "333",
+          "score_date": "2024-08-26 12:24"
+        },
+        {
+          "period": "11.2024",
+          "score_point": "355",
+          "score_date": "2024-11-02 09:39"
+        },
+        {
+          "period": "03.2025",
+          "score_point": "387",
+          "score_date": "2025-03-26 15:41"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2120 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "104084796",
+      "max_uninter_overdue_percent_days": "79",
+      "max_overdue_principal_days": "47",
+      "total_overdue_percent_sum": "95602557",
+      "credit_request_qty": "9",
+      "claims_qty": "7",
+      "average_monthly_payment": "210812905",
+      "subscriptions_qty": "0",
+      "contracts_qty": "4",
+      "overdue_principal_qty": "46",
+      "actual_average_monthly_payment": "82787230.63"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "283",
+      "scoring_class": "C3",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "619e3927f8d145e1b9f0",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2024242426882",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2024- 08-29",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2024-08-29 02:34",
+      "consent_id": "0",
+      "claim_date": "2024- 08-29"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "619e3927f8d145e1b9f0",
+          "report_type": "077",
+          "consent_date": "2024-08-29",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2024-08-29 14:34",
+          "branch": "40004",
+          "consent_id": "0"
+        },
+        {
+          "org": "033",
+          "user_id": "System S.S.",
+          "claim_id": "3488070162",
+          "report_type": "008",
+          "consent_date": "2023-11-29",
+          "org_name": "ТОШКЕНТ Ш., \"ИПОТЕКА-БАНК\" АТИБ БОШ АМАЛИЁТ БОШКАРМАСИ",
+          "demand_date_time": "2023-11-29 14:42",
+          "branch": "00937",
+          "consent_id": "3488070162"
+        },
+        {
+          "org": "055",
+          "user_id": "System S.S.",
+          "claim_id": "497554",
+          "report_type": "008",
+          "consent_date": "2023-09-15",
+          "org_name": "КАРШИ Ш., \"ASIA ALLIANCE BANK\" АТБ КАРШИ ФИЛИАЛИ",
+          "demand_date_time": "2023-09-15 09:46",
+          "branch": "01099",
+          "consent_id": "1"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "616417dc8826c10c4f10",
+          "report_type": "077",
+          "consent_date": "2022-08-03",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2022-08-03 00:29",
+          "branch": "20100",
+          "consent_id": "616417dc88"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ec8a1bd56d",
+          "report_type": "023",
+          "consent_date": "2022-06-20",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2022-06-20 20:55",
+          "branch": "20100",
+          "consent_id": "ec8a1bd56d"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ec8a1bd56d",
+          "report_type": "039",
+          "consent_date": "2022-06-20",
+          "org_name": "SOLUTIONS LAB",
+          "demand_date_time": "2022-06-20 20:55",
+          "branch": "20100",
+          "consent_id": "ec8a1bd56d"
+        },
+        {
+          "org": "013",
+          "user_id": "Komil S.Q.",
+          "claim_id": "304527",
+          "report_type": "008",
+          "consent_date": "2017-08-11",
+          "org_name": "КАРШИ Ш., \"АСАКАБАНК\" АЖ КАРШИ ФИЛИАЛИ",
+          "demand_date_time": "2021-02-02 15:31",
+          "branch": "00194",
+          "consent_id": "1"
+        },
+        {
+          "org": "013",
+          "user_id": "Komil S.Q.",
+          "claim_id": "304527",
+          "report_type": "008",
+          "consent_date": "2017-08-11",
+          "org_name": "КАРШИ Ш., \"АСАКАБАНК\" АЖ КАРШИ ФИЛИАЛИ",
+          "demand_date_time": "2021-03-10 12:08",
+          "branch": "00194",
+          "consent_id": "1"
+        },
+        {
+          "org": "013",
+          "user_id": "Komil S.Q.",
+          "claim_id": "304527",
+          "report_type": "008",
+          "consent_date": "2017-08-11",
+          "org_name": "КАРШИ Ш., \"АСАКАБАНК\" АЖ КАРШИ ФИЛИАЛИ",
+          "demand_date_time": "2021-03-10 19:55",
+          "branch": "00194",
+          "consent_id": "1"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "30504832520026",
+      "live_address": "",
+      "registration_region": "10",
+      "gender": "M",
+      "registration_district": "050",
+      "birth_date": "1983-04-05",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "998995808371",
+            "phone_number_change": "2022-06-20"
+          },
+          {
+            "phone_number": "009981717020",
+            "phone_number_change": "2023-12-17"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2024-08-29",
+      "katm_sir": "P4000420240829576925",
+      "juridical_status": "2",
+      "name": "NORQULOV ALIMARDON SHODIYOROVICH",
+      "live_address_change": "2024-08-29",
+      "registration_address": "Ko`kdala tumani Baxt MFY",
+      "email": "н/д",
+      "registration_address_change": "2024-08-29"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "210812905",
+      "open_contract": [
+        {
+          "monthly_average_payment": "47415615",
+          "overdue_debt_sum": "0",
+          "org": "033",
+          "contract_id": "2491714",
+          "total_debt_sum": "956074711",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"ИПОТЕКА-БАНК\" АТИБ БОШ АМАЛИЁТ БОШКАРМАСИ",
+          "branch": "00937"
+        },
+        {
+          "monthly_average_payment": "163397291",
+          "overdue_debt_sum": "0",
+          "org": "055",
+          "contract_id": "570174",
+          "total_debt_sum": "3126369085",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"ASIA ALLIANCE BANK\" АТ БАНКИ",
+          "branch": "01095"
+        }
+      ],
+      "all_debt_sum": "4082443796",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "033",
+          "claim_id": "3488070162",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ИПОТЕКА-БАНК\" АТИБ БОШ АМАЛИЁТ БОШКАРМАСИ",
+          "branch": "00937",
+          "claim_date": "2023-11-29"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "616417dc8826c10c4f10",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "SOLUTIONS LAB",
+          "branch": "20100",
+          "claim_date": "2022-08-03"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "ec8a1bd56d",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "SOLUTIONS LAB",
+          "branch": "20100",
+          "claim_date": "2022-06-20"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": [
+        {
+          "reserve_bal_change": "",
+          "contract_id": "2491714",
+          "security_qty": "0",
+          "contract_status": "1",
+          "revised_principal_sum": "",
+          "offbalance_princial_sum_change": "",
+          "branch": "00937",
+          "securities": "",
+          "class_asset_quality": "1",
+          "forecasted_schedule": {
+            "forecasted_schedule_change": "2023-12-01",
+            "forecasted_schedule_change_qty": "1",
+            "forecasted_payment": [
+              {
+                "forecasted_payment_period": "2023-12",
+                "principal_sum": "41317037",
+                "percent_sum": "7196114"
+              },
+              {
+                "forecasted_payment_period": "2024-01",
+                "principal_sum": "19006921",
+                "percent_sum": "29506230"
+              },
+              {
+                "forecasted_payment_period": "2024-02",
+                "principal_sum": "22915505",
+                "percent_sum": "25597646"
+              },
+              {
+                "forecasted_payment_period": "2024-03",
+                "principal_sum": "25949734",
+                "percent_sum": "22563417"
+              },
+              {
+                "forecasted_payment_period": "2024-04",
+                "principal_sum": "20776543",
+                "percent_sum": "27736608"
+              },
+              {
+                "forecasted_payment_period": "2024-05",
+                "principal_sum": "24517648",
+                "percent_sum": "23995503"
+              },
+              {
+                "forecasted_payment_period": "2024-06",
+                "principal_sum": "24300639",
+                "percent_sum": "24212512"
+              },
+              {
+                "forecasted_payment_period": "2024-07",
+                "principal_sum": "25640736",
+                "percent_sum": "22872415"
+              },
+              {
+                "forecasted_payment_period": "2024-08",
+                "principal_sum": "26230613",
+                "percent_sum": "22282538"
+              },
+              {
+                "forecasted_payment_period": "2024-09",
+                "principal_sum": "25388788",
+                "percent_sum": "23124363"
+              },
+              {
+                "forecasted_payment_period": "2024-10",
+                "principal_sum": "27418142",
+                "percent_sum": "21095009"
+              },
+              {
+                "forecasted_payment_period": "2024-11",
+                "principal_sum": "28731051",
+                "percent_sum": "19782100"
+              },
+              {
+                "forecasted_payment_period": "2024-12",
+                "principal_sum": "27389663",
+                "percent_sum": "21123488"
+              },
+              {
+                "forecasted_payment_period": "2025-01",
+                "principal_sum": "28700889",
+                "percent_sum": "19812262"
+              },
+              {
+                "forecasted_payment_period": "2025-02",
+                "principal_sum": "29383176",
+                "percent_sum": "19129975"
+              },
+              {
+                "forecasted_payment_period": "2025-03",
+                "principal_sum": "31865373",
+                "percent_sum": "16647778"
+              },
+              {
+                "forecasted_payment_period": "2025-04",
+                "principal_sum": "30839196",
+                "percent_sum": "17673955"
+              },
+              {
+                "forecasted_payment_period": "2025-05",
+                "principal_sum": "33211751",
+                "percent_sum": "15301400"
+              },
+              {
+                "forecasted_payment_period": "2025-06",
+                "principal_sum": "31319816",
+                "percent_sum": "17193335"
+              },
+              {
+                "forecasted_payment_period": "2025-07",
+                "principal_sum": "33603374",
+                "percent_sum": "14909777"
+              },
+              {
+                "forecasted_payment_period": "2025-08",
+                "principal_sum": "34847659",
+                "percent_sum": "13665492"
+              },
+              {
+                "forecasted_payment_period": "2025-09",
+                "principal_sum": "33844620",
+                "percent_sum": "14668531"
+              },
+              {
+                "forecasted_payment_period": "2025-10",
+                "principal_sum": "35956734",
+                "percent_sum": "12556417"
+              },
+              {
+                "forecasted_payment_period": "2025-11",
+                "principal_sum": "36392962",
+                "percent_sum": "12120189"
+              },
+              {
+                "forecasted_payment_period": "2025-12",
+                "principal_sum": "37621174",
+                "percent_sum": "10891977"
+              },
+              {
+                "forecasted_payment_period": "2026-01",
+                "principal_sum": "38486667",
+                "percent_sum": "10026484"
+              },
+              {
+                "forecasted_payment_period": "2026-02",
+                "principal_sum": "38762666",
+                "percent_sum": "9750485"
+              },
+              {
+                "forecasted_payment_period": "2026-03",
+                "principal_sum": "40813780",
+                "percent_sum": "7699371"
+              },
+              {
+                "forecasted_payment_period": "2026-04",
+                "principal_sum": "40959086",
+                "percent_sum": "7554065"
+              },
+              {
+                "forecasted_payment_period": "2026-05",
+                "principal_sum": "42569589",
+                "percent_sum": "5943562"
+              },
+              {
+                "forecasted_payment_period": "2026-06",
+                "principal_sum": "42585506",
+                "percent_sum": "5927645"
+              },
+              {
+                "forecasted_payment_period": "2026-07",
+                "principal_sum": "44104083",
+                "percent_sum": "4409068"
+              },
+              {
+                "forecasted_payment_period": "2026-08",
+                "principal_sum": "45005571",
+                "percent_sum": "3507580"
+              },
+              {
+                "forecasted_payment_period": "2026-09",
+                "principal_sum": "46075458",
+                "percent_sum": "2437693"
+              },
+              {
+                "forecasted_payment_period": "2026-10",
+                "principal_sum": "47257383",
+                "percent_sum": "1255768"
+              },
+              {
+                "forecasted_payment_period": "2026-11",
+                "principal_sum": "9210467",
+                "percent_sum": "346089"
+              }
+            ]
+          },
+          "contract_end_date_change": "2023-11-30",
+          "remaining_limit_sum": "0",
+          "ID": "1",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "41317037",
+                "overdue_date": "2023-12-07",
+                "overdue_principal_change": "2023-12-15",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "19006921",
+                "overdue_date": "2024-01-10",
+                "overdue_principal_change": "2024-01-22",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "20054087",
+                "overdue_date": "2024-02-09",
+                "overdue_principal_change": "2024-02-15",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "5169593",
+                "overdue_date": "2024-03-07",
+                "overdue_principal_change": "2024-03-19",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "20776543",
+                "overdue_date": "2024-04-13",
+                "overdue_principal_change": "2024-04-17",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "24517648",
+                "overdue_date": "2024-05-10",
+                "overdue_principal_change": "2024-05-24",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "24300639",
+                "overdue_date": "2024-06-10",
+                "overdue_principal_change": "2024-06-25",
+                "overdue_principal_days": "14"
+              }
+            ]
+          },
+          "percent_change": "2023-11-30",
+          "immediate_percent_sum": "13730087",
+          "amount_issued_change": "2024-08-09",
+          "overdue_principal_sum": "0",
+          "contract_date_change": "2023-11-30",
+          "reserve_bal_sum": "",
+          "credit_type": "32",
+          "offbalance_percent_sum": "",
+          "immediate_percent_sum_change": "2024-08-27",
+          "offbalance_princial_sum": "",
+          "lawsuit_principal_sum_change": "",
+          "total_debt_sum_change": "2024-08-09",
+          "claim_date": "2023-11-29",
+          "contract_closing_date": "",
+          "claim_id": "2013762",
+          "overdue_principal_sum_change": "2024-06-24",
+          "offbalance_percent_sum_change": "",
+          "overdue_percent_sum": "0",
+          "claim_id_change": "2023-11-29",
+          "percent": "27.99",
+          "amount_change": "2023-11-30",
+          "immediate_principal_sum_change": "2024-08-09",
+          "actual_schedule": "",
+          "contract_end_date": "2026-11-27",
+          "balances": {
+            "balance": [
+              {
+                "month": "11/2023",
+                "begin_sum": "0",
+                "end_sum": "1173000000"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "1173000000",
+                "end_sum": "1131682963"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "1131682963",
+                "end_sum": "1112676042"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "1112676042",
+                "end_sum": "1089760537"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "1089760537",
+                "end_sum": "1063810803"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "1063810803",
+                "end_sum": "1043034260"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "1043034260",
+                "end_sum": "1018516612"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "1018516612",
+                "end_sum": "994215973"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "994215973",
+                "end_sum": "968575237"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "968575237",
+                "end_sum": "942344624"
+              }
+            ]
+          },
+          "contract_date": "2023-11-29",
+          "total_debt_sum": "956074711",
+          "currency": "000",
+          "immediate_principal_sum": "942344624",
+          "org_name": "ТОШКЕНТ Ш., \"ИПОТЕКА-БАНК\" АТИБ БОШ АМАЛИЁТ БОШКАРМАСИ",
+          "amount": "1173000000",
+          "org": "033",
+          "overdue_procents": {
+            "overdue_procent": [
+              {
+                "overdue_principal_sum": "37035141",
+                "overdue_date": "2024-01-10",
+                "overdue_principal_change": "2024-01-12",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "30249398",
+                "overdue_date": "2024-04-13",
+                "overdue_principal_change": "2024-04-17",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "21667672",
+                "overdue_date": "2024-05-10",
+                "overdue_principal_change": "2024-05-24",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "24579270",
+                "overdue_date": "2024-06-10",
+                "overdue_principal_change": "2024-06-25",
+                "overdue_principal_days": "14"
+              }
+            ]
+          },
+          "org_type": "БАНК",
+          "amount_issued": "1173000000",
+          "revised_principal_sum_change": "",
+          "lawsuit_principal_sum": "",
+          "juridical_status": "08",
+          "overdue_percent_sum_change": "2024-06-24",
+          "class_asset_quality_change": "2023-11-30"
+        },
+        {
+          "reserve_bal_change": "",
+          "contract_id": "570174",
+          "security_qty": "0",
+          "contract_status": "1",
+          "revised_principal_sum": "",
+          "offbalance_princial_sum_change": "",
+          "branch": "01095",
+          "securities": "",
+          "class_asset_quality": "1",
+          "forecasted_schedule": {
+            "forecasted_schedule_change": "2024-01-24",
+            "forecasted_schedule_change_qty": "1",
+            "forecasted_payment": [
+              {
+                "forecasted_payment_period": "2023-10",
+                "principal_sum": "104084796",
+                "percent_sum": "61347945"
+              },
+              {
+                "forecasted_payment_period": "2023-11",
+                "principal_sum": "69830184",
+                "percent_sum": "95602557"
+              },
+              {
+                "forecasted_payment_period": "2023-12",
+                "principal_sum": "80345851",
+                "percent_sum": "85086890"
+              },
+              {
+                "forecasted_payment_period": "2024-01",
+                "principal_sum": "76387798",
+                "percent_sum": "89044943"
+              },
+              {
+                "forecasted_payment_period": "2024-02",
+                "principal_sum": "78203714",
+                "percent_sum": "87229027"
+              },
+              {
+                "forecasted_payment_period": "2024-03",
+                "principal_sum": "85570536",
+                "percent_sum": "79862205"
+              },
+              {
+                "forecasted_payment_period": "2024-04",
+                "principal_sum": "82097009",
+                "percent_sum": "83335732"
+              },
+              {
+                "forecasted_payment_period": "2024-05",
+                "principal_sum": "84048646",
+                "percent_sum": "81384095"
+              },
+              {
+                "forecasted_payment_period": "2024-06",
+                "principal_sum": "88607519",
+                "percent_sum": "76825222"
+              },
+              {
+                "forecasted_payment_period": "2024-07",
+                "principal_sum": "90645977",
+                "percent_sum": "74786764"
+              },
+              {
+                "forecasted_payment_period": "2024-08",
+                "principal_sum": "90307951",
+                "percent_sum": "75124790"
+              },
+              {
+                "forecasted_payment_period": "2024-09",
+                "principal_sum": "92454782",
+                "percent_sum": "72977959"
+              },
+              {
+                "forecasted_payment_period": "2024-10",
+                "principal_sum": "92369418",
+                "percent_sum": "73063323"
+              },
+              {
+                "forecasted_payment_period": "2024-11",
+                "principal_sum": "101273274",
+                "percent_sum": "64159467"
+              },
+              {
+                "forecasted_payment_period": "2024-12",
+                "principal_sum": "101390719",
+                "percent_sum": "64042022"
+              },
+              {
+                "forecasted_payment_period": "2025-01",
+                "principal_sum": "99609296",
+                "percent_sum": "65823445"
+              },
+              {
+                "forecasted_payment_period": "2025-02",
+                "principal_sum": "106014821",
+                "percent_sum": "59417920"
+              },
+              {
+                "forecasted_payment_period": "2025-03",
+                "principal_sum": "112252342",
+                "percent_sum": "53180399"
+              },
+              {
+                "forecasted_payment_period": "2025-04",
+                "principal_sum": "105596503",
+                "percent_sum": "59836238"
+              },
+              {
+                "forecasted_payment_period": "2025-05",
+                "principal_sum": "116929945",
+                "percent_sum": "48502796"
+              },
+              {
+                "forecasted_payment_period": "2025-06",
+                "principal_sum": "114512914",
+                "percent_sum": "50919827"
+              },
+              {
+                "forecasted_payment_period": "2025-07",
+                "principal_sum": "115680392",
+                "percent_sum": "49752349"
+              },
+              {
+                "forecasted_payment_period": "2025-08",
+                "principal_sum": "122917248",
+                "percent_sum": "42515493"
+              },
+              {
+                "forecasted_payment_period": "2025-09",
+                "principal_sum": "122907174",
+                "percent_sum": "42525567"
+              },
+              {
+                "forecasted_payment_period": "2025-10",
+                "principal_sum": "125828964",
+                "percent_sum": "39603777"
+              },
+              {
+                "forecasted_payment_period": "2025-11",
+                "principal_sum": "130001261",
+                "percent_sum": "35431480"
+              },
+              {
+                "forecasted_payment_period": "2025-12",
+                "principal_sum": "132992002",
+                "percent_sum": "32440739"
+              },
+              {
+                "forecasted_payment_period": "2026-01",
+                "principal_sum": "135072174",
+                "percent_sum": "30360567"
+              },
+              {
+                "forecasted_payment_period": "2026-02",
+                "principal_sum": "138283154",
+                "percent_sum": "27149587"
+              },
+              {
+                "forecasted_payment_period": "2026-03",
+                "principal_sum": "143879719",
+                "percent_sum": "21553022"
+              },
+              {
+                "forecasted_payment_period": "2026-04",
+                "principal_sum": "144331406",
+                "percent_sum": "21101335"
+              },
+              {
+                "forecasted_payment_period": "2026-05",
+                "principal_sum": "149519389",
+                "percent_sum": "15913352"
+              },
+              {
+                "forecasted_payment_period": "2026-06",
+                "principal_sum": "151976340",
+                "percent_sum": "13456401"
+              },
+              {
+                "forecasted_payment_period": "2026-07",
+                "principal_sum": "155589172",
+                "percent_sum": "9843569"
+              },
+              {
+                "forecasted_payment_period": "2026-08",
+                "principal_sum": "159486110",
+                "percent_sum": "5946631"
+              },
+              {
+                "forecasted_payment_period": "2026-09",
+                "principal_sum": "99001500",
+                "percent_sum": "2277577"
+              }
+            ]
+          },
+          "contract_end_date_change": "2023-12-15",
+          "remaining_limit_sum": "0",
+          "ID": "2",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "76387798",
+                "overdue_date": "2024-01-05",
+                "overdue_principal_change": "2024-01-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "78203714",
+                "overdue_date": "2024-02-05",
+                "overdue_principal_change": "2024-02-07",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "85570536",
+                "overdue_date": "2024-03-05",
+                "overdue_principal_change": "2024-03-07",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "82097009",
+                "overdue_date": "2024-04-05",
+                "overdue_principal_change": "2024-04-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "84048646",
+                "overdue_date": "2024-05-06",
+                "overdue_principal_change": "2024-05-10",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "88607519",
+                "overdue_date": "2024-06-05",
+                "overdue_principal_change": "2024-06-10",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "90645977",
+                "overdue_date": "2024-07-05",
+                "overdue_principal_change": "2024-07-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "90307951",
+                "overdue_date": "2024-08-05",
+                "overdue_principal_change": "2024-08-07",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "percent_change": "2023-12-15",
+          "immediate_percent_sum": "56499066",
+          "amount_issued_change": "2024-08-05",
+          "overdue_principal_sum": "0",
+          "contract_date_change": "2023-12-15",
+          "reserve_bal_sum": "",
+          "credit_type": "32",
+          "offbalance_percent_sum": "",
+          "immediate_percent_sum_change": "2024-08-28",
+          "offbalance_princial_sum": "",
+          "lawsuit_principal_sum_change": "",
+          "total_debt_sum_change": "2024-08-05",
+          "claim_date": "2023-09-15",
+          "contract_closing_date": "",
+          "claim_id": "538426",
+          "overdue_principal_sum_change": "2024-08-06",
+          "offbalance_percent_sum_change": "",
+          "overdue_percent_sum": "0",
+          "claim_id_change": "2023-12-15",
+          "percent": "27.99",
+          "amount_change": "2023-12-15",
+          "immediate_principal_sum_change": "2024-08-05",
+          "actual_schedule": {
+            "actual_schedule_change": "2024-08-06",
+            "actual_repayment": [
+              {
+                "principal_sum": "13719908",
+                "repayment_date": "2024-01-06",
+                "remaining_principal_sum": "3732019261",
+                "percent_sum": "89115237"
+              },
+              {
+                "principal_sum": "62667890",
+                "repayment_date": "2024-01-08",
+                "remaining_principal_sum": "3669351371",
+                "percent_sum": "115336"
+              },
+              {
+                "principal_sum": "78203714",
+                "repayment_date": "2024-02-06",
+                "remaining_principal_sum": "3591147657",
+                "percent_sum": "87300991"
+              },
+              {
+                "principal_sum": "85570536",
+                "repayment_date": "2024-03-06",
+                "remaining_principal_sum": "3505577121",
+                "percent_sum": "79940949"
+              },
+              {
+                "principal_sum": "82097009",
+                "repayment_date": "2024-04-08",
+                "remaining_principal_sum": "3423480112",
+                "percent_sum": "83562373"
+              },
+              {
+                "principal_sum": "84048646",
+                "repayment_date": "2024-05-08",
+                "remaining_principal_sum": "3339431466",
+                "percent_sum": "81538781"
+              },
+              {
+                "principal_sum": "87288759",
+                "repayment_date": "2024-06-06",
+                "remaining_principal_sum": "3252142707",
+                "percent_sum": "76906761"
+              },
+              {
+                "principal_sum": "1318760",
+                "repayment_date": "2024-06-07",
+                "remaining_principal_sum": "3250823947",
+                "percent_sum": "1213"
+              },
+              {
+                "principal_sum": "90645977",
+                "repayment_date": "2024-07-08",
+                "remaining_principal_sum": "3160177970",
+                "percent_sum": "75037007"
+              },
+              {
+                "principal_sum": "90307951",
+                "repayment_date": "2024-08-06",
+                "remaining_principal_sum": "3069870019",
+                "percent_sum": "75207892"
+              }
+            ]
+          },
+          "contract_end_date": "2026-09-04",
+          "balances": {
+            "balance": [
+              {
+                "month": "12/2023",
+                "begin_sum": "0",
+                "end_sum": "3745739169"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "3669351371"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "3669351371",
+                "end_sum": "3591147657"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "3591147657",
+                "end_sum": "3505577121"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "3505577121",
+                "end_sum": "3423480112"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "3423480112",
+                "end_sum": "3339431466"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "3339431466",
+                "end_sum": "3250823947"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "3250823947",
+                "end_sum": "3160177970"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "3160177970",
+                "end_sum": "3069870019"
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "",
+                "end_sum": ""
+              }
+            ]
+          },
+          "contract_date": "2023-09-15",
+          "total_debt_sum": "3126369085",
+          "currency": "000",
+          "immediate_principal_sum": "3069870019",
+          "org_name": "ТОШКЕНТ Ш., \"ASIA ALLIANCE BANK\" АТ БАНКИ",
+          "amount": "4000000000",
+          "org": "055",
+          "overdue_procents": {
+            "overdue_procent": [
+              {
+                "overdue_principal_sum": "89044943",
+                "overdue_date": "2024-01-05",
+                "overdue_principal_change": "2024-01-08",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "87229027",
+                "overdue_date": "2024-02-05",
+                "overdue_principal_change": "2024-02-07",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "79862205",
+                "overdue_date": "2024-03-05",
+                "overdue_principal_change": "2024-03-07",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "83335731",
+                "overdue_date": "2024-04-05",
+                "overdue_principal_change": "2024-04-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "81384095",
+                "overdue_date": "2024-05-06",
+                "overdue_principal_change": "2024-05-10",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "76825222",
+                "overdue_date": "2024-06-05",
+                "overdue_principal_change": "2024-06-07",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "74786764",
+                "overdue_date": "2024-07-05",
+                "overdue_principal_change": "2024-07-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "75124789",
+                "overdue_date": "2024-08-05",
+                "overdue_principal_change": "2024-08-07",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "org_type": "БАНК",
+          "amount_issued": "3745739169",
+          "revised_principal_sum_change": "",
+          "lawsuit_principal_sum": "",
+          "juridical_status": "08",
+          "overdue_percent_sum_change": "2024-08-06",
+          "class_asset_quality_change": "2023-12-15"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2023-12-15",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "534373",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "497554",
+          "branch": "01099",
+          "claim_id_change": "2023-09-15",
+          "percent": "27.99",
+          "amount_change": "2023-09-15",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2026-09-04",
+          "balances": {
+            "balance": [
+              {
+                "month": "09/2023",
+                "begin_sum": "0",
+                "end_sum": "4000000000"
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "4000000000",
+                "end_sum": "3895915204"
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "3895915204",
+                "end_sum": "3826085020"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "3745739169",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2023-09-15",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2024-08-29",
+          "contract_end_date_change": "2023-09-15",
+          "currency": "000",
+          "ID": "3",
+          "org_name": "КАРШИ Ш., \"ASIA ALLIANCE BANK\" АТБ КАРШИ ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "104084796",
+                "overdue_date": "2023-10-05",
+                "overdue_principal_change": "2023-10-11",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "69830184",
+                "overdue_date": "2023-11-06",
+                "overdue_principal_change": "2023-11-09",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "80345851",
+                "overdue_date": "2023-12-05",
+                "overdue_principal_change": "2023-12-07",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "percent_change": "2023-09-15",
+          "amount_issued_change": "2023-12-15",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "4000000000",
+          "contract_date_change": "2023-09-15",
+          "org": "055",
+          "overdue_procents": {
+            "overdue_procent": [
+              {
+                "overdue_principal_sum": "61347945",
+                "overdue_date": "2023-10-05",
+                "overdue_principal_change": "2023-10-11",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "95602557",
+                "overdue_date": "2023-11-06",
+                "overdue_principal_change": "2023-11-09",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "85086890",
+                "overdue_date": "2023-12-05",
+                "overdue_principal_change": "2023-12-07",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "4000000000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2023-09-15",
+          "class_asset_quality_change": "2023-09-15"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2020-08-29",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "480679",
+          "security_qty": "1",
+          "contract_status": "2",
+          "claim_id": "304527",
+          "branch": "00194",
+          "claim_id_change": "2017-09-12",
+          "percent": "14",
+          "amount_change": "2017-09-12",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2020-08-11",
+          "balances": {
+            "balance": [
+              {
+                "month": "08/2017",
+                "begin_sum": "0",
+                "end_sum": "2362175000"
+              },
+              {
+                "month": "09/2017",
+                "begin_sum": "0",
+                "end_sum": "2362175000"
+              },
+              {
+                "month": "10/2017",
+                "begin_sum": "0",
+                "end_sum": "2362175000"
+              },
+              {
+                "month": "11/2017",
+                "begin_sum": "0",
+                "end_sum": "2362175000"
+              },
+              {
+                "month": "12/2017",
+                "begin_sum": "2290575000",
+                "end_sum": "2290575000"
+              },
+              {
+                "month": "01/2018",
+                "begin_sum": "2290575000",
+                "end_sum": "2218975000"
+              },
+              {
+                "month": "02/2018",
+                "begin_sum": "2218975000",
+                "end_sum": "2147375000"
+              },
+              {
+                "month": "03/2018",
+                "begin_sum": "2147375000",
+                "end_sum": "2075775000"
+              },
+              {
+                "month": "04/2018",
+                "begin_sum": "2075775000",
+                "end_sum": "2004175000"
+              },
+              {
+                "month": "05/2018",
+                "begin_sum": "2004175000",
+                "end_sum": "1932575000"
+              },
+              {
+                "month": "06/2018",
+                "begin_sum": "1932575000",
+                "end_sum": "1860975000"
+              },
+              {
+                "month": "07/2018",
+                "begin_sum": "1860975000",
+                "end_sum": "1789375000"
+              },
+              {
+                "month": "08/2018",
+                "begin_sum": "1789375000",
+                "end_sum": "1717775000"
+              },
+              {
+                "month": "09/2018",
+                "begin_sum": "1717775000",
+                "end_sum": "1646175000"
+              },
+              {
+                "month": "10/2018",
+                "begin_sum": "1646175000",
+                "end_sum": "1574575000"
+              },
+              {
+                "month": "11/2018",
+                "begin_sum": "1574575000",
+                "end_sum": "1502975000"
+              },
+              {
+                "month": "12/2018",
+                "begin_sum": "1431375000",
+                "end_sum": "1431375000"
+              },
+              {
+                "month": "01/2019",
+                "begin_sum": "1359775000",
+                "end_sum": "1359371205"
+              },
+              {
+                "month": "02/2019",
+                "begin_sum": "1359371205",
+                "end_sum": "1288175000"
+              },
+              {
+                "month": "03/2019",
+                "begin_sum": "1216575000",
+                "end_sum": "1215437774"
+              },
+              {
+                "month": "04/2019",
+                "begin_sum": "1215437774",
+                "end_sum": "1144975000"
+              },
+              {
+                "month": "05/2019",
+                "begin_sum": "1144975000",
+                "end_sum": "1073375000"
+              },
+              {
+                "month": "06/2019",
+                "begin_sum": "1073375000",
+                "end_sum": "1001775000"
+              },
+              {
+                "month": "07/2019",
+                "begin_sum": "1001775000",
+                "end_sum": "930175000"
+              },
+              {
+                "month": "08/2019",
+                "begin_sum": "930175000",
+                "end_sum": "858575000"
+              },
+              {
+                "month": "09/2019",
+                "begin_sum": "858575000",
+                "end_sum": "786975000"
+              },
+              {
+                "month": "10/2019",
+                "begin_sum": "786975000",
+                "end_sum": "715375000"
+              },
+              {
+                "month": "11/2019",
+                "begin_sum": "715375000",
+                "end_sum": "643775000"
+              },
+              {
+                "month": "12/2019",
+                "begin_sum": "643775000",
+                "end_sum": "572175000"
+              },
+              {
+                "month": "01/2020",
+                "begin_sum": "572175000",
+                "end_sum": "500575000"
+              },
+              {
+                "month": "02/2020",
+                "begin_sum": "500575000",
+                "end_sum": "428975000"
+              },
+              {
+                "month": "03/2020",
+                "begin_sum": "428975000",
+                "end_sum": "357375000"
+              },
+              {
+                "month": "04/2020",
+                "begin_sum": "357375000",
+                "end_sum": "286763936"
+              },
+              {
+                "month": "05/2020",
+                "begin_sum": "357375000",
+                "end_sum": "286763936"
+              },
+              {
+                "month": "06/2020",
+                "begin_sum": "286763936",
+                "end_sum": "213093660"
+              },
+              {
+                "month": "07/2020",
+                "begin_sum": "138899573",
+                "end_sum": "62665104"
+              },
+              {
+                "month": "08/2020",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2020",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2020",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2020",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2020",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2021",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2022",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2024",
+                "begin_sum": "62665104",
+                "end_sum": "0"
+              }
+            ]
+          },
+          "contract_date": "2017-08-12",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2024-08-29",
+          "contract_end_date_change": "2017-09-12",
+          "currency": "000",
+          "ID": "4",
+          "org_name": "КАРШИ Ш., \"АСАКАБАНК\" АЖ КАРШИ ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2017-12-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-01-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-02-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "47"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-03-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-04-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-05-07",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-06-05",
+                "overdue_principal_change": "2018-07-27",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-07-05",
+                "overdue_principal_change": "2018-07-27",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-08-06",
+                "overdue_principal_change": "2018-09-07",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-09-05",
+                "overdue_principal_change": "2018-10-05",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-10-05",
+                "overdue_principal_change": "2018-11-08",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-11-05",
+                "overdue_principal_change": "2018-12-05",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2018-12-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-01-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "71196205",
+                "overdue_date": "2019-02-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-03-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "70462774",
+                "overdue_date": "2019-04-05",
+                "overdue_principal_change": "2019-04-29",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-05-06",
+                "overdue_principal_change": "2019-05-24",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-06-07",
+                "overdue_principal_change": "2019-06-28",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-07-05",
+                "overdue_principal_change": "2019-08-01",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-08-05",
+                "overdue_principal_change": "2019-09-09",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-09-05",
+                "overdue_principal_change": "2019-10-09",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-10-07",
+                "overdue_principal_change": "2019-11-15",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-11-05",
+                "overdue_principal_change": "2019-12-05",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2019-12-05",
+                "overdue_principal_change": "2020-01-20",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2020-01-06",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2020-02-05",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "71600000",
+                "overdue_date": "2020-03-05",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "21"
+              }
+            ]
+          },
+          "percent_change": "2017-09-12",
+          "amount_issued_change": "2020-08-29",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "2362175000",
+          "contract_date_change": "2017-09-12",
+          "org": "013",
+          "overdue_procents": {
+            "overdue_procent": [
+              {
+                "overdue_principal_sum": "19026834",
+                "overdue_date": "2017-09-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "79"
+              },
+              {
+                "overdue_principal_sum": "27181192",
+                "overdue_date": "2017-10-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "49"
+              },
+              {
+                "overdue_principal_sum": "28087231",
+                "overdue_date": "2017-11-06",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "27124144",
+                "overdue_date": "2017-12-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "27578270",
+                "overdue_date": "2018-01-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "26343919",
+                "overdue_date": "2018-02-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "47"
+              },
+              {
+                "overdue_principal_sum": "24061873",
+                "overdue_date": "2018-03-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "24639623",
+                "overdue_date": "2018-04-05",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "22317510",
+                "overdue_date": "2018-05-07",
+                "overdue_principal_change": "2018-07-24",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "20099956",
+                "overdue_date": "2018-06-05",
+                "overdue_principal_change": "2018-07-27",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "21429952",
+                "overdue_date": "2018-07-05",
+                "overdue_principal_change": "2018-07-27",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "22026124",
+                "overdue_date": "2018-08-06",
+                "overdue_principal_change": "2018-09-07",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "18055436",
+                "overdue_date": "2018-09-05",
+                "overdue_principal_change": "2018-10-05",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "2635490",
+                "overdue_date": "2018-09-06",
+                "overdue_principal_change": "2018-10-05",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "19558436",
+                "overdue_date": "2018-10-05",
+                "overdue_principal_change": "2018-11-08",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "18751768",
+                "overdue_date": "2018-11-05",
+                "overdue_principal_change": "2018-12-05",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "17226441",
+                "overdue_date": "2018-12-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "16151718",
+                "overdue_date": "2019-01-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "16167199",
+                "overdue_date": "2019-02-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "13283074",
+                "overdue_date": "2019-03-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "14460778",
+                "overdue_date": "2019-04-05",
+                "overdue_principal_change": "2019-04-29",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "12140116",
+                "overdue_date": "2019-05-06",
+                "overdue_principal_change": "2019-05-24",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "11643763",
+                "overdue_date": "2019-06-07",
+                "overdue_principal_change": "2019-06-28",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "11278186",
+                "overdue_date": "2019-07-05",
+                "overdue_principal_change": "2019-08-01",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "10424931",
+                "overdue_date": "2019-08-05",
+                "overdue_principal_change": "2019-09-09",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "9748531",
+                "overdue_date": "2019-09-05",
+                "overdue_principal_change": "2019-10-09",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "8349493",
+                "overdue_date": "2019-10-07",
+                "overdue_principal_change": "2019-11-15",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "7723705",
+                "overdue_date": "2019-11-05",
+                "overdue_principal_change": "2019-12-05",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "5630316",
+                "overdue_date": "2019-12-05",
+                "overdue_principal_change": "2020-01-20",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "5877692",
+                "overdue_date": "2020-01-06",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "5111949",
+                "overdue_date": "2020-02-05",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "3881467",
+                "overdue_date": "2020-03-05",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "245204",
+                "overdue_date": "2020-06-05",
+                "overdue_principal_change": "2021-02-02",
+                "overdue_principal_days": "25"
+              }
+            ]
+          },
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "3578750000",
+          "credit_type": "30",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2017-08-11",
+          "class_asset_quality_change": "2017-09-12"
+        }
+      ]
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": {
+        "period": "08.2024",
+        "score_point": "283",
+        "score_date": "2024-08-29 14:34"
+      }
+    }
+  }
+}

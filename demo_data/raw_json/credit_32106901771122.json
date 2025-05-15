@@ -1,0 +1,618 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "0",
+        "overdue_debt_sum": "0",
+        "contract_closing_date": "2021-08-23",
+        "contract_id": "477606",
+        "contract_status": "0",
+        "security_amount": "25000000000",
+        "max_current_uninter_overdue_percent": "0",
+        "branch": "00934",
+        "amount_change": "2020-09-24",
+        "percent": "26",
+        "contract_end_date": "2021-08-19",
+        "contract_date": "2019-09-04",
+        "total_debt_sum": "0",
+        "currency": "000",
+        "max_current_overdue_change": "2023-12-13",
+        "org_name": "САРИОСИЁ Т., АТБ \"КИШЛОК КУРИЛИШ БАНК\"НИНГ САРИОСИЁ ФИЛИАЛИ",
+        "percent_change": "2020-09-24",
+        "max_overdue_principal_change": "2021-08-24",
+        "amount": "20000000000",
+        "subject_type": "21",
+        "org": "009",
+        "overdue_debt_sum_change": "2021-08-23",
+        "credit_type": "Кредиты, выданные без открытия кредитной линии",
+        "max_overdue_principal": "14",
+        "max_current_overdue": "0",
+        "max_current_uninter_overdue_percent_change": "2023-12-13",
+        "max_uninter_overdue_percent_change": "2023-12-13",
+        "total_debt_sum_change": "2021-08-19",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "1",
+      "max_overdue_principal_sum": "100000000",
+      "max_uninter_overdue_percent_days": "47",
+      "max_overdue_principal_days": "44",
+      "total_overdue_percent_sum": "584035142",
+      "credit_request_qty": "12",
+      "claims_qty": "7",
+      "average_monthly_payment": "128677514",
+      "subscriptions_qty": "0",
+      "contracts_qty": "2",
+      "overdue_principal_qty": "24",
+      "actual_average_monthly_payment": "53781847.5"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "274",
+      "scoring_class": "C3",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "3f932c247d7344958f2d",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2023347769709",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2023- 12-13",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2023-12-13 11:09",
+      "consent_id": "0",
+      "claim_date": "2023- 12-13"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "3f932c247d7344958f2d",
+          "report_type": "077",
+          "consent_date": "2023-12-13",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2023-12-13 11:09",
+          "branch": "40004",
+          "consent_id": "0"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1578789",
+          "report_type": "023",
+          "consent_date": "2023-08-29",
+          "org_name": "AXIOM PLAN",
+          "demand_date_time": "2023-08-29 18:42",
+          "branch": "20185",
+          "consent_id": "1578789"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1578789",
+          "report_type": "039",
+          "consent_date": "2023-08-29",
+          "org_name": "AXIOM PLAN",
+          "demand_date_time": "2023-08-29 18:42",
+          "branch": "20185",
+          "consent_id": "1578789"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1578789",
+          "report_type": "048",
+          "consent_date": "2023-08-29",
+          "org_name": "AXIOM PLAN",
+          "demand_date_time": "2023-08-29 18:42",
+          "branch": "20185",
+          "consent_id": "1578789"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1578789",
+          "report_type": "074",
+          "consent_date": "2023-08-29",
+          "org_name": "AXIOM PLAN",
+          "demand_date_time": "2023-08-29 18:42",
+          "branch": "20185",
+          "consent_id": "1578789"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01164109",
+          "report_type": "008",
+          "consent_date": "2023-08-29",
+          "org_name": "ТОШКЕНТ Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ БОШ ОФИСИ",
+          "demand_date_time": "2023-08-29 18:42",
+          "branch": "00444",
+          "consent_id": "F01164109"
+        },
+        {
+          "org": "003",
+          "user_id": "System S.S.",
+          "claim_id": "1782276",
+          "report_type": "008",
+          "consent_date": "2023-08-10",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "demand_date_time": "2023-08-10 19:03",
+          "branch": "00440",
+          "consent_id": "2"
+        },
+        {
+          "org": "003",
+          "user_id": "System S.S.",
+          "claim_id": "1782276",
+          "report_type": "022",
+          "consent_date": "2023-08-10",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "demand_date_time": "2023-08-10 19:03",
+          "branch": "00440",
+          "consent_id": "2"
+        },
+        {
+          "org": "003",
+          "user_id": "System S.S.",
+          "claim_id": "1782276",
+          "report_type": "077",
+          "consent_date": "2023-08-10",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "demand_date_time": "2023-08-10 19:03",
+          "branch": "00440",
+          "consent_id": "2"
+        },
+        {
+          "org": "003",
+          "user_id": "System S.S.",
+          "claim_id": "1510465",
+          "report_type": "008",
+          "consent_date": "2022-10-27",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "demand_date_time": "2022-10-27 08:39",
+          "branch": "00440",
+          "consent_id": "1"
+        },
+        {
+          "org": "003",
+          "user_id": "System S.S.",
+          "claim_id": "1510465",
+          "report_type": "022",
+          "consent_date": "2022-10-27",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "demand_date_time": "2022-10-27 08:39",
+          "branch": "00440",
+          "consent_id": "1"
+        },
+        {
+          "org": "006",
+          "user_id": "Jamshid T.A.",
+          "claim_id": "9006xb828965",
+          "report_type": "022",
+          "consent_date": "2021-04-15",
+          "org_name": "САРИОСИЁ Т., АТ ХАЛК БАНКИ САРИОСИЁ ФИЛИАЛИ",
+          "demand_date_time": "2021-04-15 16:49",
+          "branch": "00757",
+          "consent_id": "LDP-001"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "32106901771122",
+      "live_address": "",
+      "registration_region": "22",
+      "gender": "M",
+      "registration_district": "106",
+      "birth_date": "1990-06-21",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "9982959889",
+            "phone_number_change": "2023-10-23"
+          },
+          {
+            "phone_number": "9989299717",
+            "phone_number_change": "2021-04-15"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2023-12-13",
+      "katm_sir": "P4000420231213058147",
+      "juridical_status": "2",
+      "name": "SALOMOV RUSTAMBEK XUSHVAKTOVICH",
+      "live_address_change": "2023-12-13",
+      "registration_address": "saraosiypo tumani",
+      "email": "н/д",
+      "registration_address_change": "2023-12-13"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "128677514",
+      "open_contract": {
+        "monthly_average_payment": "128677514",
+        "overdue_debt_sum": "0",
+        "org": "006",
+        "contract_id": "4725627",
+        "total_debt_sum": "505369863",
+        "currency": "000",
+        "org_name": "ТОШКЕНТ Ш., АТ ХАЛК БАНКИ БОШ АМАЛИЁТЛАР БОШКАРМАСИ",
+        "branch": "01125"
+      },
+      "all_debt_sum": "505369863",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "003",
+          "claim_id": "1510465",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "branch": "00440",
+          "claim_date": "2022-10-27"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "003",
+          "claim_id": "1782276",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"УЗСАНОАТКУРИЛИШБАНКИ\" АТБ БОШ ОФИСИ",
+          "branch": "00440",
+          "claim_date": "2023-08-10"
+        },
+        {
+          "rejection_date": "2023-09-29",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F01164109",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ БОШ ОФИСИ",
+          "branch": "00444",
+          "claim_date": "2023-08-29"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "1578789",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "AXIOM PLAN",
+          "branch": "20185",
+          "claim_date": "2023-08-29"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": [
+        {
+          "reserve_bal_change": "",
+          "contract_id": "4725627",
+          "security_qty": "1",
+          "contract_status": "1",
+          "revised_principal_sum": "",
+          "offbalance_princial_sum_change": "",
+          "branch": "01125",
+          "securities": {
+            "security": {
+              "pinfl": "",
+              "amount": "3750000000",
+              "subject_type": "3",
+              "contract_id": "1",
+              "inn": "207 119 228",
+              "security_change": "2023-10-23",
+              "contract_date": "",
+              "juridical_status": "1",
+              "name": "Халк сугурта МЧЖ",
+              "currency": "000",
+              "consent_date": "20210415",
+              "security_type": "51",
+              "consent_id": "1"
+            }
+          },
+          "class_asset_quality": "1",
+          "forecasted_schedule": "",
+          "contract_end_date_change": "2023-10-23",
+          "remaining_limit_sum": "0",
+          "ID": "1",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2023-10-20",
+                "overdue_principal_change": "2023-11-29",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "91893571",
+                "overdue_date": "2023-11-15",
+                "overdue_principal_change": "2023-12-05",
+                "overdue_principal_days": "19"
+              }
+            ]
+          },
+          "percent_change": "2023-10-23",
+          "immediate_percent_sum": "5369863",
+          "amount_issued_change": "2023-11-15",
+          "overdue_principal_sum": "0",
+          "contract_date_change": "2023-10-23",
+          "reserve_bal_sum": "",
+          "credit_type": "25",
+          "offbalance_percent_sum": "",
+          "immediate_percent_sum_change": "2023-12-12",
+          "offbalance_princial_sum": "",
+          "lawsuit_principal_sum_change": "",
+          "total_debt_sum_change": "2023-11-15",
+          "claim_date": "2021-04-15",
+          "contract_closing_date": "",
+          "claim_id": "5198707",
+          "overdue_principal_sum_change": "2023-12-04",
+          "offbalance_percent_sum_change": "",
+          "overdue_percent_sum": "0",
+          "claim_id_change": "2023-10-23",
+          "percent": "14",
+          "amount_change": "2023-10-23",
+          "immediate_principal_sum_change": "2023-11-15",
+          "actual_schedule": {
+            "actual_schedule_change": "2023-12-04",
+            "actual_repayment": [
+              {
+                "principal_sum": "8106429",
+                "repayment_date": "2023-11-15",
+                "remaining_principal_sum": "591893571",
+                "percent_sum": "6904110"
+              },
+              {
+                "principal_sum": "34644449",
+                "repayment_date": "2023-11-28",
+                "remaining_principal_sum": "557249122",
+                "percent_sum": "549851"
+              },
+              {
+                "principal_sum": "12073650",
+                "repayment_date": "2023-11-29",
+                "remaining_principal_sum": "545175472",
+                "percent_sum": "26350"
+              },
+              {
+                "principal_sum": "11179207",
+                "repayment_date": "2023-11-30",
+                "remaining_principal_sum": "533996265",
+                "percent_sum": "20793"
+              },
+              {
+                "principal_sum": "33996265",
+                "repayment_date": "2023-12-04",
+                "remaining_principal_sum": "500000000",
+                "percent_sum": "62591"
+              }
+            ]
+          },
+          "contract_end_date": "2024-04-14",
+          "contract_date": "2021-04-20",
+          "total_debt_sum": "505369863",
+          "currency": "000",
+          "immediate_principal_sum": "500000000",
+          "org_name": "ТОШКЕНТ Ш., АТ ХАЛК БАНКИ БОШ АМАЛИЁТЛАР БОШКАРМАСИ",
+          "amount": "3000000000",
+          "org": "006",
+          "org_type": "БАНК",
+          "amount_issued": "600000000",
+          "revised_principal_sum_change": "",
+          "lawsuit_principal_sum": "",
+          "juridical_status": "08",
+          "overdue_percent_sum_change": "2023-10-31",
+          "class_asset_quality_change": "2023-10-23"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2023-10-20",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "2930845",
+          "security_qty": "1",
+          "contract_status": "2",
+          "claim_id": "3218468",
+          "branch": "00757",
+          "claim_id_change": "2021-04-15",
+          "percent": "14",
+          "amount_change": "2021-04-20",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2024-04-14",
+          "contract_date": "2021-04-20",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2023-12-13",
+          "contract_end_date_change": "2021-04-20",
+          "currency": "000",
+          "ID": "2",
+          "org_name": "САРИОСИЁ Т., АТ ХАЛК БАНКИ САРИОСИЁ ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "93071681",
+                "overdue_date": "2021-11-15",
+                "overdue_principal_change": "2021-11-29",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2021-12-15",
+                "overdue_principal_change": "2021-12-21",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-01-17",
+                "overdue_principal_change": "2022-01-25",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-02-15",
+                "overdue_principal_change": "2022-02-28",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-03-15",
+                "overdue_principal_change": "2022-03-29",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-04-15",
+                "overdue_principal_change": "2022-04-29",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-05-16",
+                "overdue_principal_change": "2022-06-01",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-06-15",
+                "overdue_principal_change": "2022-08-01",
+                "overdue_principal_days": "44"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-07-15",
+                "overdue_principal_change": "2022-08-01",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-08-15",
+                "overdue_principal_change": "2022-09-05",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-09-15",
+                "overdue_principal_change": "2022-09-30",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-10-17",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-11-15",
+                "overdue_principal_change": "2022-12-01",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2022-12-15",
+                "overdue_principal_change": "2023-01-04",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "86522409",
+                "overdue_date": "2023-01-16",
+                "overdue_principal_change": "2023-02-01",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "74380043",
+                "overdue_date": "2023-02-15",
+                "overdue_principal_change": "2023-02-17",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "86658087",
+                "overdue_date": "2023-05-15",
+                "overdue_principal_change": "2023-05-18",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "79452",
+                "overdue_date": "2023-06-15",
+                "overdue_principal_change": "2023-07-05",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "2354120",
+                "overdue_date": "2023-07-17",
+                "overdue_principal_change": "2023-07-26",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2023-08-15",
+                "overdue_principal_change": "2023-09-22",
+                "overdue_principal_days": "37"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2023-09-15",
+                "overdue_principal_change": "2023-09-22",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2023-10-16",
+                "overdue_principal_change": "2023-11-06",
+                "overdue_principal_days": "4"
+              }
+            ]
+          },
+          "percent_change": "2021-04-20",
+          "amount_issued_change": "2023-10-20",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "3000000000",
+          "contract_date_change": "2021-04-20",
+          "org": "006",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "3000000000",
+          "credit_type": "25",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2021-04-15",
+          "class_asset_quality_change": "2021-04-20"
+        }
+      ]
+    }
+  }
+}

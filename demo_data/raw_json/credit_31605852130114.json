@@ -1,0 +1,743 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "83333333",
+      "max_uninter_overdue_percent_days": "269",
+      "max_overdue_principal_days": "319",
+      "total_overdue_percent_sum": "39713684",
+      "credit_request_qty": "24",
+      "claims_qty": "14",
+      "average_monthly_payment": "0",
+      "subscriptions_qty": "0",
+      "contracts_qty": "1",
+      "overdue_principal_qty": "25",
+      "actual_average_monthly_payment": "0"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "222",
+      "scoring_class": "C1",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "cb414c40091f4ea9b707",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2023345382935",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2023- 12-11",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2023-12-11 12:33",
+      "consent_id": "0",
+      "claim_date": "2023- 12-11"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "cb414c40091f4ea9b707",
+          "report_type": "077",
+          "consent_date": "2023-12-11",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2023-12-11 12:33",
+          "branch": "40004",
+          "consent_id": "0"
+        },
+        {
+          "org": "005",
+          "user_id": "System S.S.",
+          "claim_id": "vSKJOZyQ_UpKyiXxDAT1",
+          "report_type": "022",
+          "consent_date": "2023-08-01",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "demand_date_time": "2023-08-01 10:08",
+          "branch": "00260",
+          "consent_id": "5058530587"
+        },
+        {
+          "org": "005",
+          "user_id": "System S.S.",
+          "claim_id": "1Ks_h0v-3NcrdHVQTOcz",
+          "report_type": "022",
+          "consent_date": "2023-07-25",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-25 11:28",
+          "branch": "00260",
+          "consent_id": "4657644587"
+        },
+        {
+          "org": "005",
+          "user_id": "System S.S.",
+          "claim_id": "VYU0zF8pIhd1VEsizyt3",
+          "report_type": "022",
+          "consent_date": "2023-07-25",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-25 11:29",
+          "branch": "00260",
+          "consent_id": "9619063999"
+        },
+        {
+          "org": "005",
+          "user_id": "System S.S.",
+          "claim_id": "Gr1Eh8NWqXnSjMuBFfOw",
+          "report_type": "022",
+          "consent_date": "2023-07-20",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "demand_date_time": "2023-07-20 10:37",
+          "branch": "00260",
+          "consent_id": "0440647285"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F01033172",
+          "report_type": "008",
+          "consent_date": "2023-07-18",
+          "org_name": "НАМАНГАН Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ НАМАНГАН ФИЛИАЛИ",
+          "demand_date_time": "2023-07-18 16:25",
+          "branch": "01054",
+          "consent_id": "F01033172"
+        },
+        {
+          "org": "004",
+          "user_id": "Abdulaziz R.A.",
+          "claim_id": "99025",
+          "report_type": "021",
+          "consent_date": "2023-03-17",
+          "org_name": "ТУРАКУРГОН Т., \"АГРОБАНК\" АТБ ТУРАКУРГОН ФИЛИАЛИ",
+          "demand_date_time": "2023-03-17 19:20",
+          "branch": "00241",
+          "consent_id": "99025"
+        },
+        {
+          "org": "004",
+          "user_id": "Abdulaziz R.A.",
+          "claim_id": "99025",
+          "report_type": "024",
+          "consent_date": "2023-03-17",
+          "org_name": "ТУРАКУРГОН Т., \"АГРОБАНК\" АТБ ТУРАКУРГОН ФИЛИАЛИ",
+          "demand_date_time": "2023-03-17 19:24",
+          "branch": "00241",
+          "consent_id": "99025"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "552257140",
+          "report_type": "008",
+          "consent_date": "2023-02-18",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-02-18 15:36",
+          "branch": "01183",
+          "consent_id": "552257140"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "552257140",
+          "report_type": "039",
+          "consent_date": "2023-02-18",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-02-18 15:36",
+          "branch": "01183",
+          "consent_id": "552257140"
+        },
+        {
+          "org": "014",
+          "user_id": "System S.S.",
+          "claim_id": "F00679149",
+          "report_type": "008",
+          "consent_date": "2023-02-18",
+          "org_name": "ТОШКЕНТ Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ БОШ ОФИСИ",
+          "demand_date_time": "2023-02-18 17:02",
+          "branch": "00444",
+          "consent_id": "F00679149"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "its129888",
+          "report_type": "123",
+          "consent_date": "2023-02-06",
+          "org_name": "IMKON TRADE SENTR",
+          "demand_date_time": "2023-02-06 15:31",
+          "branch": "20059",
+          "consent_id": "its129887"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "its129888",
+          "report_type": "125",
+          "consent_date": "2023-02-06",
+          "org_name": "IMKON TRADE SENTR",
+          "demand_date_time": "2023-02-06 15:31",
+          "branch": "20059",
+          "consent_id": "its129887"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "its129888",
+          "report_type": "177",
+          "consent_date": "2023-02-06",
+          "org_name": "IMKON TRADE SENTR",
+          "demand_date_time": "2023-02-06 15:32",
+          "branch": "20059",
+          "consent_id": "its129887"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac1022999a1146373",
+          "report_type": "007",
+          "consent_date": "2022-11-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2022-11-18 15:02",
+          "branch": "20038",
+          "consent_id": "1146373"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac1022999a1146373",
+          "report_type": "022",
+          "consent_date": "2022-11-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2022-11-18 15:02",
+          "branch": "20038",
+          "consent_id": "1146373"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac1022999a1146373",
+          "report_type": "039",
+          "consent_date": "2022-11-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2022-11-18 15:01",
+          "branch": "20038",
+          "consent_id": "1146373"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac1022999a1146373",
+          "report_type": "077",
+          "consent_date": "2022-11-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2022-11-18 15:01",
+          "branch": "20038",
+          "consent_id": "1146373"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac1022999a1146373",
+          "report_type": "177",
+          "consent_date": "2022-11-18",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2022-11-18 15:01",
+          "branch": "20038",
+          "consent_id": "1146373"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "P000189310",
+          "report_type": "008",
+          "consent_date": "2022-11-15",
+          "org_name": "TBC FIN SERVICE",
+          "demand_date_time": "2022-11-15 16:27",
+          "branch": "20002",
+          "consent_id": "P000189310"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "P000189310",
+          "report_type": "039",
+          "consent_date": "2022-11-15",
+          "org_name": "TBC FIN SERVICE",
+          "demand_date_time": "2022-11-15 16:27",
+          "branch": "20002",
+          "consent_id": "P000189310"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "551784928",
+          "report_type": "008",
+          "consent_date": "2022-11-15",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2022-11-15 16:26",
+          "branch": "01183",
+          "consent_id": "551784928"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "551784928",
+          "report_type": "039",
+          "consent_date": "2022-11-15",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2022-11-15 16:26",
+          "branch": "01183",
+          "consent_id": "551784928"
+        },
+        {
+          "org": "004",
+          "user_id": "(система)",
+          "claim_id": "19593",
+          "report_type": "001",
+          "consent_date": "2019-04-10",
+          "org_name": "ТУРАКУРГОН Т., \"АГРОБАНК\" АТБ ТУРАКУРГОН ФИЛИАЛИ",
+          "demand_date_time": "2019-05-04 17:25",
+          "branch": "00241",
+          "consent_id": "19593"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "31605852130114",
+      "live_address": "",
+      "registration_region": "14",
+      "gender": "M",
+      "registration_district": "73",
+      "birth_date": "1985-05-16",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "998941758668",
+            "phone_number_change": "2022-11-15"
+          },
+          {
+            "phone_number": "998995555555",
+            "phone_number_change": "2023-02-06"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2023-12-11",
+      "katm_sir": "P4000420231211836437",
+      "juridical_status": "2",
+      "name": "TURSUNOV AVAZJON ABDUKAXOROVICH",
+      "live_address_change": "2023-12-11",
+      "registration_address": "Дукат МФЙ",
+      "email": "н/д",
+      "registration_address_change": "2023-12-11"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "0",
+      "all_debt_sum": "0",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "107881",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "ТУРАКУРГОН Т., \"АГРОБАНК\" АТБ ТУРАКУРГОН ФИЛИАЛИ",
+          "branch": "00241",
+          "claim_date": "2023-08-14"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "99025",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "ТУРАКУРГОН Т., \"АГРОБАНК\" АТБ ТУРАКУРГОН ФИЛИАЛИ",
+          "branch": "00241",
+          "claim_date": "2023-03-17"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "005",
+          "claim_id": "1Ks_h0v-3NcrdHVQTOcz",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "branch": "00260",
+          "claim_date": "2023-07-25"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "005",
+          "claim_id": "Gr1Eh8NWqXnSjMuBFfOw",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "branch": "00260",
+          "claim_date": "2023-07-20"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "005",
+          "claim_id": "VYU0zF8pIhd1VEsizyt3",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "branch": "00260",
+          "claim_date": "2023-07-25"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "005",
+          "claim_id": "vSKJOZyQ_UpKyiXxDAT1",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"МИКРОКРЕДИТБАНК\" АТБ НАМАНГАН ВИЛОЯТИ ФИЛИАЛИ",
+          "branch": "00260",
+          "claim_date": "2023-08-01"
+        },
+        {
+          "rejection_date": "2023-03-21",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F00679149",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ БОШ ОФИСИ",
+          "branch": "00444",
+          "claim_date": "2023-02-18"
+        },
+        {
+          "rejection_date": "2023-08-18",
+          "summa": "",
+          "org": "014",
+          "claim_id": "F01033172",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"ИПАК ЙУЛИ\" АИТ БАНКИНИНГ НАМАНГАН ФИЛИАЛИ",
+          "branch": "01054",
+          "claim_date": "2023-07-18"
+        },
+        {
+          "rejection_date": "2022-11-15",
+          "summa": "",
+          "org": "063",
+          "claim_id": "551784928",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01183",
+          "claim_date": "2022-11-15"
+        },
+        {
+          "rejection_date": "2023-02-18",
+          "summa": "",
+          "org": "063",
+          "claim_id": "552257140",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01183",
+          "claim_date": "2023-02-18"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "P000189310",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "TBC FIN SERVICE",
+          "branch": "20002",
+          "claim_date": "2022-11-15"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "ac1022999a1146373",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Alif Moliya",
+          "branch": "20038",
+          "claim_date": "2022-11-18"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "its129888",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "IMKON TRADE SENTR",
+          "branch": "20059",
+          "claim_date": "2023-02-06"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": {
+        "closed_lawsuit_principal_sum": "0",
+        "actual_monthly_average_payment": "",
+        "contract_closing_date": "2022-11-16",
+        "closed_offbalance_percent_sum_change": "",
+        "contract_id": "19593",
+        "security_qty": "1",
+        "contract_status": "2",
+        "claim_id": "19593",
+        "branch": "00241",
+        "claim_id_change": "2019-04-11",
+        "percent": "8",
+        "amount_change": "2019-07-20",
+        "closed_offbalance_percent_sum": "0",
+        "actual_schedule": "",
+        "contract_end_date": "2022-03-22",
+        "contract_date": "2019-04-10",
+        "class_asset_quality": "1",
+        "actual_monthly_average_payment_change": "2023-12-11",
+        "contract_end_date_change": "2019-07-20",
+        "currency": "000",
+        "ID": "1",
+        "org_name": "ТУРАКУРГОН Т., \"АГРОБАНК\" АТБ ТУРАКУРГОН ФИЛИАЛИ",
+        "overdue_principals": {
+          "overdue_principal": [
+            {
+              "overdue_principal_sum": "10000",
+              "overdue_date": "2019-08-26",
+              "overdue_principal_change": "2019-09-02",
+              "overdue_principal_days": "4"
+            },
+            {
+              "overdue_principal_sum": "10000",
+              "overdue_date": "2019-09-24",
+              "overdue_principal_change": "2019-09-27",
+              "overdue_principal_days": "2"
+            },
+            {
+              "overdue_principal_sum": "73333333",
+              "overdue_date": "2019-10-08",
+              "overdue_principal_change": "2019-10-26",
+              "overdue_principal_days": "17"
+            },
+            {
+              "overdue_principal_sum": "10000",
+              "overdue_date": "2019-11-14",
+              "overdue_principal_change": "2020-10-26",
+              "overdue_principal_days": "4"
+            },
+            {
+              "overdue_principal_sum": "73248884",
+              "overdue_date": "2020-02-10",
+              "overdue_principal_change": "2020-10-26",
+              "overdue_principal_days": "8"
+            },
+            {
+              "overdue_principal_sum": "73333333",
+              "overdue_date": "2020-03-06",
+              "overdue_principal_change": "2020-10-26",
+              "overdue_principal_days": "41"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2020-10-12",
+              "overdue_principal_change": "2020-12-01",
+              "overdue_principal_days": "49"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2020-11-06",
+              "overdue_principal_change": "2021-02-07",
+              "overdue_principal_days": "91"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2020-12-03",
+              "overdue_principal_change": "2021-10-19",
+              "overdue_principal_days": "319"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-01-06",
+              "overdue_principal_change": "2021-10-20",
+              "overdue_principal_days": "286"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-03-01",
+              "overdue_principal_change": "2021-11-01",
+              "overdue_principal_days": "242"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-03-11",
+              "overdue_principal_change": "2021-11-07",
+              "overdue_principal_days": "239"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-04-08",
+              "overdue_principal_change": "2021-11-07",
+              "overdue_principal_days": "211"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-05-12",
+              "overdue_principal_change": "2021-12-01",
+              "overdue_principal_days": "202"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-06-04",
+              "overdue_principal_change": "2021-12-01",
+              "overdue_principal_days": "179"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-07-08",
+              "overdue_principal_change": "2021-12-09",
+              "overdue_principal_days": "152"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-08-05",
+              "overdue_principal_change": "2021-12-09",
+              "overdue_principal_days": "124"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-09-09",
+              "overdue_principal_change": "2022-01-17",
+              "overdue_principal_days": "127"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-10-05",
+              "overdue_principal_change": "2022-02-05",
+              "overdue_principal_days": "122"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-11-04",
+              "overdue_principal_change": "2022-02-05",
+              "overdue_principal_days": "92"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2021-12-03",
+              "overdue_principal_change": "2022-02-05",
+              "overdue_principal_days": "63"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2022-01-06",
+              "overdue_principal_change": "2022-02-05",
+              "overdue_principal_days": "29"
+            },
+            {
+              "overdue_principal_sum": "83333333",
+              "overdue_date": "2022-02-03",
+              "overdue_principal_change": "2022-02-05",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "82940069",
+              "overdue_date": "2022-03-03",
+              "overdue_principal_change": "2022-03-05",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "83303333",
+              "overdue_date": "2022-07-20",
+              "overdue_principal_change": "2022-08-05",
+              "overdue_principal_days": "15"
+            }
+          ]
+        },
+        "percent_change": "2019-07-20",
+        "amount_issued_change": "2022-11-16",
+        "closed_lawsuit_principal_sum_change": "",
+        "amount": "2200000000",
+        "contract_date_change": "2019-07-20",
+        "org": "004",
+        "closed_offbalance_princial_sum": "0",
+        "org_type": "БАНК",
+        "amount_issued": "4336636667",
+        "credit_type": "25",
+        "closed_offbalance_princial_sum_change": "",
+        "juridical_status": "08",
+        "claim_date": "2019-04-10",
+        "class_asset_quality_change": "2019-07-20"
+      }
+    }
+  }
+}

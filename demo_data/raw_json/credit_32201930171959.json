@@ -1,0 +1,830 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "0",
+      "max_uninter_overdue_percent_days": "0",
+      "max_overdue_principal_days": "0",
+      "total_overdue_percent_sum": "0",
+      "credit_request_qty": "17",
+      "claims_qty": "10",
+      "average_monthly_payment": "0",
+      "subscriptions_qty": "0",
+      "contracts_qty": "1",
+      "overdue_principal_qty": "0",
+      "actual_average_monthly_payment": "0"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.7",
+      "scoring_grade": "293",
+      "scoring_class": "C3",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "RET",
+      "claim_id": "a7ae58da5354414fba7c",
+      "report_type": "077",
+      "branch": "20531",
+      "demand_id": "RET2025093014419",
+      "user_id": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi (20531), System S.S",
+      "consent_date": "2025-04-03",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+      "demand_date_time": "2025-04-03 01:29",
+      "consent_id": "0",
+      "claim_date": "2025-04-03"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "a7ae58da5354414fba7c",
+          "report_type": "077",
+          "consent_date": "2025-04-03",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "demand_date_time": "2025-04-03 13:29",
+          "branch": "20531",
+          "consent_id": "0"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "671420",
+          "report_type": "055",
+          "consent_date": "2025-01-15",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2025-01-15 18:44",
+          "branch": "01041",
+          "consent_id": "LDP1394169"
+        },
+        {
+          "org": "002",
+          "user_id": "System S.S.",
+          "claim_id": "N728418418Q",
+          "report_type": "177",
+          "consent_date": "2024-10-09",
+          "org_name": "ТОШКЕНТ Ш., ТИФ МИЛЛИЙ БАНКИНИНГ БОШ ОФИСИ",
+          "demand_date_time": "2024-10-09 13:38",
+          "branch": "00450",
+          "consent_id": "418418"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "346585",
+          "report_type": "025",
+          "consent_date": "2024-04-17",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2024-04-17 16:18",
+          "branch": "01041",
+          "consent_id": "LDP1059002"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "346585",
+          "report_type": "055",
+          "consent_date": "2024-04-17",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2024-04-17 16:17",
+          "branch": "01041",
+          "consent_id": "LDP1059002"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "259407",
+          "report_type": "025",
+          "consent_date": "2024-01-25",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2024-01-25 17:48",
+          "branch": "01041",
+          "consent_id": "LDP-969242"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "259407",
+          "report_type": "055",
+          "consent_date": "2024-01-25",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2024-01-25 17:47",
+          "branch": "01041",
+          "consent_id": "LDP-969242"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "211246",
+          "report_type": "025",
+          "consent_date": "2023-12-09",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-12-09 11:42",
+          "branch": "01041",
+          "consent_id": "LDP-919888"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "211246",
+          "report_type": "055",
+          "consent_date": "2023-12-09",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-12-09 11:16",
+          "branch": "01041",
+          "consent_id": "LDP-919888"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "190797",
+          "report_type": "025",
+          "consent_date": "2023-11-19",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-11-19 08:40",
+          "branch": "01041",
+          "consent_id": "LDP-899012"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "190797",
+          "report_type": "055",
+          "consent_date": "2023-11-19",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-11-19 08:37",
+          "branch": "01041",
+          "consent_id": "LDP-899012"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "180507",
+          "report_type": "025",
+          "consent_date": "2023-11-08",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-11-08 16:20",
+          "branch": "01041",
+          "consent_id": "LDP-888545"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "180507",
+          "report_type": "055",
+          "consent_date": "2023-11-08",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-11-08 15:38",
+          "branch": "01041",
+          "consent_id": "LDP-888545"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "155743",
+          "report_type": "025",
+          "consent_date": "2023-10-14",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-10-14 08:14",
+          "branch": "01041",
+          "consent_id": "LDP-862782"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "155743",
+          "report_type": "055",
+          "consent_date": "2023-10-14",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-10-14 08:10",
+          "branch": "01041",
+          "consent_id": "LDP-862782"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "123042",
+          "report_type": "025",
+          "consent_date": "2023-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-09-09 12:01",
+          "branch": "01041",
+          "consent_id": "LDP-828656"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "123042",
+          "report_type": "055",
+          "consent_date": "2023-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-09-09 11:59",
+          "branch": "01041",
+          "consent_id": "LDP-828656"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "32201930171959",
+      "live_address": "",
+      "registration_region": "26",
+      "gender": "M",
+      "registration_district": "198",
+      "birth_date": "1993-01-22",
+      "inn": "",
+      "phones": {
+        "phone": {
+          "phone_number": "998998193996",
+          "phone_number_change": "2023-09-12"
+        }
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2025-04-03",
+      "katm_sir": "P2053120250403930740",
+      "juridical_status": "2",
+      "name": "MAJITOV RAXMATJON SHAVKAT O‘G‘LI",
+      "live_address_change": "2025-04-03",
+      "registration_address": "Toshkent shahri",
+      "email": "н/д",
+      "registration_address_change": "2025-04-03"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "0",
+      "all_debt_sum": "0",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "2024-10-09",
+          "summa": "",
+          "org": "002",
+          "claim_id": "N728418418Q",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., ТИФ МИЛЛИЙ БАНКИНИНГ БОШ ОФИСИ",
+          "branch": "00450",
+          "claim_date": "2024-10-09"
+        },
+        {
+          "rejection_date": "2023-09-11",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "123042",
+          "credit_duration": "",
+          "rejection_reason": "04",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2023-09-09"
+        },
+        {
+          "rejection_date": "2025-02-18",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "155743",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2023-10-14"
+        },
+        {
+          "rejection_date": "2025-02-18",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "180507",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2023-11-08"
+        },
+        {
+          "rejection_date": "2025-02-18",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "190797",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2023-11-19"
+        },
+        {
+          "rejection_date": "2025-02-18",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "211246",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2023-12-09"
+        },
+        {
+          "rejection_date": "2025-02-18",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "259407",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2024-01-25"
+        },
+        {
+          "rejection_date": "2025-02-18",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "346585",
+          "credit_duration": "",
+          "rejection_reason": "08",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2024-04-17"
+        },
+        {
+          "rejection_date": "",
+          "summa": "50000000",
+          "org": "053",
+          "claim_id": "671420",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2025-01-15"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "a7ae58da5354414fba7c",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Energetika Vazirligi huzuridagi energiyani tejash jamg'armasi",
+          "branch": "20531",
+          "claim_date": "2025-04-03"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": {
+        "closed_lawsuit_principal_sum": "0",
+        "actual_monthly_average_payment": "",
+        "contract_closing_date": "2021-05-31",
+        "closed_offbalance_percent_sum_change": "",
+        "contract_id": "5185",
+        "security_qty": "1",
+        "contract_status": "2",
+        "claim_id": "5185",
+        "branch": "01165",
+        "claim_id_change": "2019-08-08",
+        "percent": "30",
+        "amount_change": "2020-05-06",
+        "closed_offbalance_percent_sum": "0",
+        "actual_schedule": "",
+        "contract_end_date": "2020-10-09",
+        "balances": {
+          "balance": [
+            {
+              "month": "08/2019",
+              "begin_sum": "490072252",
+              "end_sum": "415191252"
+            },
+            {
+              "month": "09/2019",
+              "begin_sum": "460000000",
+              "end_sum": "322104000"
+            },
+            {
+              "month": "10/2019",
+              "begin_sum": "267576688",
+              "end_sum": "273346614"
+            },
+            {
+              "month": "11/2019",
+              "begin_sum": "166095643",
+              "end_sum": "166232160"
+            },
+            {
+              "month": "12/2019",
+              "begin_sum": "340000000",
+              "end_sum": "246000000"
+            },
+            {
+              "month": "01/2020",
+              "begin_sum": "300000000",
+              "end_sum": "167248307"
+            },
+            {
+              "month": "02/2020",
+              "begin_sum": "260000000",
+              "end_sum": "112424000"
+            },
+            {
+              "month": "03/2020",
+              "begin_sum": "220131102",
+              "end_sum": "220000000"
+            },
+            {
+              "month": "04/2020",
+              "begin_sum": "96387036",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2020",
+              "begin_sum": "96387036",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2020",
+              "begin_sum": "96387036",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2020",
+              "begin_sum": "73861887",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2020",
+              "begin_sum": "92236163",
+              "end_sum": "92311973"
+            },
+            {
+              "month": "09/2020",
+              "begin_sum": "136730006",
+              "end_sum": "0"
+            },
+            {
+              "month": "10/2020",
+              "begin_sum": "136730006",
+              "end_sum": "0"
+            },
+            {
+              "month": "11/2020",
+              "begin_sum": "136730006",
+              "end_sum": "0"
+            },
+            {
+              "month": "12/2020",
+              "begin_sum": "136730006",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "04/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "09/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "10/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "11/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "12/2021",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "04/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "09/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "10/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "11/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "12/2022",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "04/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "09/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "10/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "11/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "12/2023",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "04/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "05/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "06/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "07/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "08/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "09/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "10/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "11/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "12/2024",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "01/2025",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "02/2025",
+              "begin_sum": "0",
+              "end_sum": "0"
+            },
+            {
+              "month": "03/2025",
+              "begin_sum": "0",
+              "end_sum": "0"
+            }
+          ]
+        },
+        "contract_date": "2019-08-12",
+        "class_asset_quality": "1",
+        "actual_monthly_average_payment_change": "2025-04-03",
+        "contract_end_date_change": "2020-05-06",
+        "currency": "000",
+        "ID": "1",
+        "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АЖ УЧТЕПА ФИЛИАЛИ",
+        "overdue_principals": "",
+        "percent_change": "2020-05-06",
+        "amount_issued_change": "2021-05-31",
+        "closed_lawsuit_principal_sum_change": "",
+        "amount": "500000000",
+        "contract_date_change": "2020-05-06",
+        "org": "053",
+        "overdue_procents": "",
+        "closed_offbalance_princial_sum": "0",
+        "org_type": "БАНК",
+        "amount_issued": "1845016982",
+        "credit_type": "54",
+        "closed_offbalance_princial_sum_change": "",
+        "juridical_status": "08",
+        "claim_date": "2019-08-08",
+        "class_asset_quality_change": "2020-05-06"
+      }
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": [
+        {
+          "period": "10.2024",
+          "score_point": "293",
+          "score_date": "2024-10-09 13:38"
+        },
+        {
+          "period": "04.2025",
+          "score_point": "293",
+          "score_date": "2025-04-01 17:46"
+        }
+      ]
+    }
+  }
+}

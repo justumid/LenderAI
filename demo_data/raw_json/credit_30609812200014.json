@@ -1,0 +1,1700 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "158333335",
+      "max_uninter_overdue_percent_days": "115",
+      "max_overdue_principal_days": "102",
+      "total_overdue_percent_sum": "453626846",
+      "credit_request_qty": "62",
+      "claims_qty": "28",
+      "average_monthly_payment": "202713105",
+      "subscriptions_qty": "0",
+      "contracts_qty": "5",
+      "overdue_principal_qty": "44",
+      "actual_average_monthly_payment": "69969994.81"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "234",
+      "scoring_class": "C2",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "5cacaf6837d0464face3",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2023340558530",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2023- 12-06",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2023-12-06 02:49",
+      "consent_id": "0",
+      "claim_date": "2023- 12-06"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "5cacaf6837d0464face3",
+          "report_type": "077",
+          "consent_date": "2023-12-06",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2023-12-06 14:49",
+          "branch": "40004",
+          "consent_id": "0"
+        },
+        {
+          "org": "006",
+          "user_id": "(система)",
+          "claim_id": "4954659",
+          "report_type": "022",
+          "consent_date": "2023-09-29",
+          "org_name": "ТОШКЕНТ Ш., АТ ХАЛК БАНКИ БОШ АМАЛИЁТЛАР БОШКАРМАСИ",
+          "demand_date_time": "2023-11-26 07:23",
+          "branch": "01125",
+          "consent_id": "2737929"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "2737929",
+          "report_type": "077",
+          "consent_date": "2023-09-13",
+          "org_name": "Оила Кредит",
+          "demand_date_time": "2023-09-13 15:12",
+          "branch": "40003",
+          "consent_id": "28e46bd6"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "2717246",
+          "report_type": "077",
+          "consent_date": "2023-09-07",
+          "org_name": "Оила Кредит",
+          "demand_date_time": "2023-09-07 15:14",
+          "branch": "40003",
+          "consent_id": "5fa480b2"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "105442",
+          "report_type": "025",
+          "consent_date": "2023-08-18",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-08-18 10:29",
+          "branch": "01041",
+          "consent_id": "LDP-809930"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "105442",
+          "report_type": "055",
+          "consent_date": "2023-08-18",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2023-08-18 10:26",
+          "branch": "01041",
+          "consent_id": "LDP-809930"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "2563287",
+          "report_type": "077",
+          "consent_date": "2023-08-08",
+          "org_name": "Оила Кредит",
+          "demand_date_time": "2023-08-08 15:33",
+          "branch": "40003",
+          "consent_id": "19490581"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13915272",
+          "report_type": "008",
+          "consent_date": "2023-07-17",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-07-16 14:21",
+          "branch": "01180",
+          "consent_id": "13915272"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13915272",
+          "report_type": "039",
+          "consent_date": "2023-07-17",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-07-16 14:29",
+          "branch": "01180",
+          "consent_id": "13915272"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "13915272",
+          "report_type": "077",
+          "consent_date": "2023-07-17",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-07-16 14:21",
+          "branch": "01180",
+          "consent_id": "13915272"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1878371",
+          "report_type": "039",
+          "consent_date": "2023-06-10",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-06-10 05:01",
+          "branch": "20111",
+          "consent_id": "1686355304"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1749968",
+          "report_type": "039",
+          "consent_date": "2023-06-05",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-06-05 13:11",
+          "branch": "20111",
+          "consent_id": "1685952659"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1709546",
+          "report_type": "039",
+          "consent_date": "2023-06-03",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-06-03 11:38",
+          "branch": "20111",
+          "consent_id": "1685774336"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1504222",
+          "report_type": "039",
+          "consent_date": "2023-05-27",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-05-27 09:48",
+          "branch": "20111",
+          "consent_id": "1685162894"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1121084",
+          "report_type": "039",
+          "consent_date": "2023-04-13",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-04-13 11:54",
+          "branch": "20111",
+          "consent_id": "1681368887"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1121084",
+          "report_type": "039",
+          "consent_date": "2023-04-13",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-04-24 12:35",
+          "branch": "20111",
+          "consent_id": "1681368887"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "1121084",
+          "report_type": "039",
+          "consent_date": "2023-04-13",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-04-28 09:47",
+          "branch": "20111",
+          "consent_id": "1681368887"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "44993",
+          "report_type": "025",
+          "consent_date": "2023-04-13",
+          "org_name": "НАМАНГАН Ш., \"INVEST FINANCE BANK\" АЖ НАМАНГАН ВИЛОЯТ ФИЛИАЛИ",
+          "demand_date_time": "2023-04-13 09:36",
+          "branch": "01113",
+          "consent_id": "LDP-752179"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "44993",
+          "report_type": "055",
+          "consent_date": "2023-04-13",
+          "org_name": "НАМАНГАН Ш., \"INVEST FINANCE BANK\" АЖ НАМАНГАН ВИЛОЯТ ФИЛИАЛИ",
+          "demand_date_time": "2023-04-13 09:28",
+          "branch": "01113",
+          "consent_id": "LDP-752179"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "12779866",
+          "report_type": "008",
+          "consent_date": "2023-04-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-04-07 20:02",
+          "branch": "01180",
+          "consent_id": "12779866"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "12779866",
+          "report_type": "039",
+          "consent_date": "2023-04-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-04-07 20:15",
+          "branch": "01180",
+          "consent_id": "12779866"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "12779866",
+          "report_type": "077",
+          "consent_date": "2023-04-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2023-04-07 20:03",
+          "branch": "01180",
+          "consent_id": "12779866"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "44773",
+          "report_type": "025",
+          "consent_date": "2023-04-05",
+          "org_name": "НАМАНГАН Ш., \"INVEST FINANCE BANK\" АЖ НАМАНГАН ВИЛОЯТ ФИЛИАЛИ",
+          "demand_date_time": "2023-04-05 17:06",
+          "branch": "01113",
+          "consent_id": "LDP-747693"
+        },
+        {
+          "org": "053",
+          "user_id": "System S.S.",
+          "claim_id": "44773",
+          "report_type": "055",
+          "consent_date": "2023-04-05",
+          "org_name": "НАМАНГАН Ш., \"INVEST FINANCE BANK\" АЖ НАМАНГАН ВИЛОЯТ ФИЛИАЛИ",
+          "demand_date_time": "2023-04-05 17:04",
+          "branch": "01113",
+          "consent_id": "LDP-747693"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43913",
+          "report_type": "021",
+          "consent_date": "2023-03-06",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-06 18:51",
+          "branch": "00232",
+          "consent_id": "43913"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43913",
+          "report_type": "024",
+          "consent_date": "2023-03-06",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-06 18:52",
+          "branch": "00232",
+          "consent_id": "43913"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43916",
+          "report_type": "148",
+          "consent_date": "2023-03-06",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-08 08:04",
+          "branch": "00232",
+          "consent_id": "43916"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "43916",
+          "report_type": "024",
+          "consent_date": "2023-03-06",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-06 19:48",
+          "branch": "00232",
+          "consent_id": "43916"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "43916",
+          "report_type": "077",
+          "consent_date": "2023-03-06",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-06 19:48",
+          "branch": "00232",
+          "consent_id": "43916"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "43916",
+          "report_type": "177",
+          "consent_date": "2023-03-06",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-06 19:48",
+          "branch": "00232",
+          "consent_id": "43916"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43681",
+          "report_type": "021",
+          "consent_date": "2023-03-03",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-03 10:50",
+          "branch": "00232",
+          "consent_id": "43681"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43681",
+          "report_type": "024",
+          "consent_date": "2023-03-03",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-03 10:59",
+          "branch": "00232",
+          "consent_id": "43681"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43681",
+          "report_type": "024",
+          "consent_date": "2023-03-03",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-03-06 15:09",
+          "branch": "00232",
+          "consent_id": "43681"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43019",
+          "report_type": "021",
+          "consent_date": "2023-02-23",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-02-23 10:51",
+          "branch": "00232",
+          "consent_id": "43019"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "43019",
+          "report_type": "024",
+          "consent_date": "2023-02-23",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2023-02-23 10:51",
+          "branch": "00232",
+          "consent_id": "43019"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-06 08:12",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-08 13:42",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-11 05:06",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-14 17:27",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-17 01:48",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-19 01:27",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-21 11:53",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-24 05:27",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-26 03:01",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-27 13:21",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-29 11:38",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-01-30 04:15",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-02-02 19:57",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "638253",
+          "report_type": "039",
+          "consent_date": "2023-01-06",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2023-02-05 06:57",
+          "branch": "20111",
+          "consent_id": "1672974764"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "36694",
+          "report_type": "007",
+          "consent_date": "2022-08-08",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2022-08-08 15:58",
+          "branch": "00232",
+          "consent_id": "36694"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "36694",
+          "report_type": "021",
+          "consent_date": "2022-08-08",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2022-08-08 16:00",
+          "branch": "00232",
+          "consent_id": "36694"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "551177686",
+          "report_type": "008",
+          "consent_date": "2022-07-28",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2022-07-28 10:45",
+          "branch": "01183",
+          "consent_id": "551177686"
+        },
+        {
+          "org": "063",
+          "user_id": "System S.S.",
+          "claim_id": "551177686",
+          "report_type": "039",
+          "consent_date": "2022-07-28",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "demand_date_time": "2022-07-28 10:45",
+          "branch": "01183",
+          "consent_id": "551177686"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "131906",
+          "report_type": "039",
+          "consent_date": "2022-07-27",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2022-07-27 08:25",
+          "branch": "20111",
+          "consent_id": "1658892355"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "131906",
+          "report_type": "039",
+          "consent_date": "2022-07-27",
+          "org_name": "PRIZMA GROUP CO",
+          "demand_date_time": "2022-08-04 12:34",
+          "branch": "20111",
+          "consent_id": "1658892355"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "743494",
+          "report_type": "077",
+          "consent_date": "2022-06-03",
+          "org_name": "Оила Кредит",
+          "demand_date_time": "2022-06-03 10:57",
+          "branch": "40003",
+          "consent_id": "8bddf5e6"
+        },
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "614058",
+          "report_type": "077",
+          "consent_date": "2022-04-30",
+          "org_name": "Оила Кредит",
+          "demand_date_time": "2022-04-30 17:45",
+          "branch": "40003",
+          "consent_id": "7ffbeaf3"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "30061",
+          "report_type": "003",
+          "consent_date": "2021-09-08",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2021-09-08 16:15",
+          "branch": "00232",
+          "consent_id": "30061"
+        },
+        {
+          "org": "004",
+          "user_id": "Rovshanbek A.Y.",
+          "claim_id": "30061",
+          "report_type": "021",
+          "consent_date": "2021-09-08",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2021-09-08 16:14",
+          "branch": "00232",
+          "consent_id": "30061"
+        },
+        {
+          "org": "004",
+          "user_id": "(система)",
+          "claim_id": "17589",
+          "report_type": "001",
+          "consent_date": "2019-02-19",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2019-02-26 13:13",
+          "branch": "00232",
+          "consent_id": "17589"
+        },
+        {
+          "org": "004",
+          "user_id": "(система)",
+          "claim_id": "17589",
+          "report_type": "001",
+          "consent_date": "2019-02-19",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2019-03-13 15:54",
+          "branch": "00232",
+          "consent_id": "17589"
+        },
+        {
+          "org": "004",
+          "user_id": "(система)",
+          "claim_id": "16719",
+          "report_type": "001",
+          "consent_date": "2018-07-27",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "demand_date_time": "2018-12-26 18:27",
+          "branch": "00232",
+          "consent_id": "16719"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "30609812200014",
+      "live_address": "",
+      "registration_region": "14",
+      "gender": "M",
+      "registration_district": "69",
+      "birth_date": "1981-09-06",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "998991427878",
+            "phone_number_change": "2022-04-30"
+          },
+          {
+            "phone_number": "998941738666",
+            "phone_number_change": "2022-06-03"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2023-12-06",
+      "katm_sir": "P4000420231206360374",
+      "juridical_status": "2",
+      "name": "INAMOV XABIBULLO O‘KTAMOVICH",
+      "live_address_change": "2023-12-06",
+      "registration_address": "Маданият МФЙ",
+      "email": "н/д",
+      "registration_address_change": "2023-12-06"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "202713106",
+      "open_contract": [
+        {
+          "monthly_average_payment": "118199704",
+          "overdue_debt_sum": "4299722",
+          "org": "006",
+          "contract_id": "4495521",
+          "total_debt_sum": "3305565475",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., АТ ХАЛК БАНКИ БОШ АМАЛИЁТЛАР БОШКАРМАСИ",
+          "branch": "01125"
+        },
+        {
+          "monthly_average_payment": "84513402",
+          "overdue_debt_sum": "138679121",
+          "org": "004",
+          "contract_id": "139",
+          "total_debt_sum": "2200104124",
+          "currency": "000",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232"
+        }
+      ],
+      "all_debt_sum": "5505669599",
+      "all_overdue_debt_sum": "142978843"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "22566",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2019-10-08"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "23021",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2019-11-22"
+        },
+        {
+          "rejection_date": "2021-12-29",
+          "summa": "",
+          "org": "004",
+          "claim_id": "30061",
+          "credit_duration": "",
+          "rejection_reason": "02",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2021-09-08"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "36694",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2022-08-08"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "43019",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2023-02-23"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "43681",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2023-03-03"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "43910",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2023-03-06"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "43913",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2023-03-06"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "43916",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2023-03-06"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "44060",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "branch": "00232",
+          "claim_date": "2023-03-09"
+        },
+        {
+          "rejection_date": "",
+          "summa": "15000000",
+          "org": "053",
+          "claim_id": "105442",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"INVEST FINANCE BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01041",
+          "claim_date": "2023-08-18"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "053",
+          "claim_id": "44773",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"INVEST FINANCE BANK\" АЖ НАМАНГАН ВИЛОЯТ ФИЛИАЛИ",
+          "branch": "01113",
+          "claim_date": "2023-04-05"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "053",
+          "claim_id": "44993",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "НАМАНГАН Ш., \"INVEST FINANCE BANK\" АЖ НАМАНГАН ВИЛОЯТ ФИЛИАЛИ",
+          "branch": "01113",
+          "claim_date": "2023-04-13"
+        },
+        {
+          "rejection_date": "2023-04-07",
+          "summa": "",
+          "org": "062",
+          "claim_id": "12779866",
+          "credit_duration": "",
+          "rejection_reason": "01",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2023-04-07"
+        },
+        {
+          "rejection_date": "",
+          "summa": "5000000000",
+          "org": "062",
+          "claim_id": "13915272",
+          "credit_duration": "036.05",
+          "rejection_reason": "",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2023-07-17"
+        },
+        {
+          "rejection_date": "2022-07-28",
+          "summa": "",
+          "org": "063",
+          "claim_id": "551177686",
+          "credit_duration": "",
+          "rejection_reason": "09",
+          "currency": "н\\д",
+          "org_name": "ТОШКЕНТ Ш., \"ANOR BANK\" АКЦИЯДОРЛИК ЖАМИЯТИ",
+          "branch": "01183",
+          "claim_date": "2022-07-28"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "1121084",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2023-04-13"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "131906",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2022-07-27"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "1504222",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2023-05-27"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "1709546",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2023-06-03"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "1749968",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2023-06-05"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "1878371",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2023-06-10"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "638253",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "PRIZMA GROUP CO",
+          "branch": "20111",
+          "claim_date": "2023-01-06"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": [
+        {
+          "reserve_bal_change": "",
+          "contract_id": "4495521",
+          "security_qty": "0",
+          "contract_status": "1",
+          "revised_principal_sum": "",
+          "offbalance_princial_sum_change": "",
+          "branch": "01125",
+          "securities": "",
+          "class_asset_quality": "1",
+          "forecasted_schedule": "",
+          "contract_end_date_change": "2023-11-17",
+          "remaining_limit_sum": "0",
+          "ID": "1",
+          "overdue_principals": "",
+          "percent_change": "2023-11-17",
+          "immediate_percent_sum": "1265753",
+          "amount_issued_change": "2023-10-03",
+          "overdue_principal_sum": "",
+          "contract_date_change": "2023-11-17",
+          "reserve_bal_sum": "",
+          "credit_type": "25",
+          "offbalance_percent_sum": "",
+          "immediate_percent_sum_change": "2023-12-05",
+          "offbalance_princial_sum": "",
+          "lawsuit_principal_sum_change": "",
+          "total_debt_sum_change": "2023-10-03",
+          "claim_date": "2023-09-29",
+          "contract_closing_date": "",
+          "claim_id": "4954659",
+          "overdue_principal_sum_change": "",
+          "offbalance_percent_sum_change": "",
+          "overdue_percent_sum": "4299722",
+          "claim_id_change": "2023-09-29",
+          "percent": "14",
+          "amount_change": "2023-11-17",
+          "immediate_principal_sum_change": "2023-10-03",
+          "actual_schedule": {
+            "actual_schedule_change": "2023-12-05",
+            "actual_repayment": [
+              {
+                "principal_sum": "",
+                "repayment_date": "2023-10-25",
+                "remaining_principal_sum": "3300000000",
+                "percent_sum": "2531507"
+              },
+              {
+                "principal_sum": "",
+                "repayment_date": "2023-11-06",
+                "remaining_principal_sum": "3300000000",
+                "percent_sum": "27443178"
+              },
+              {
+                "principal_sum": "",
+                "repayment_date": "2023-11-30",
+                "remaining_principal_sum": "3300000000",
+                "percent_sum": "12580291"
+              },
+              {
+                "principal_sum": "",
+                "repayment_date": "2023-12-05",
+                "remaining_principal_sum": "3300000000",
+                "percent_sum": "32407128"
+              }
+            ]
+          },
+          "contract_end_date": "2026-09-18",
+          "contract_date": "2023-09-29",
+          "total_debt_sum": "3305565475",
+          "currency": "000",
+          "immediate_principal_sum": "3300000000",
+          "org_name": "ТОШКЕНТ Ш., АТ ХАЛК БАНКИ БОШ АМАЛИЁТЛАР БОШКАРМАСИ",
+          "amount": "3300000000",
+          "org": "006",
+          "org_type": "БАНК",
+          "amount_issued": "3300000000",
+          "revised_principal_sum_change": "",
+          "lawsuit_principal_sum": "",
+          "juridical_status": "08",
+          "overdue_percent_sum_change": "2023-12-05",
+          "class_asset_quality_change": "2023-11-17"
+        },
+        {
+          "reserve_bal_change": "2023-08-30",
+          "contract_id": "44122",
+          "security_qty": "0",
+          "contract_status": "1",
+          "revised_principal_sum": "",
+          "offbalance_princial_sum_change": "",
+          "branch": "00232",
+          "securities": "",
+          "class_asset_quality": "1",
+          "forecasted_schedule": "",
+          "contract_end_date_change": "2023-03-11",
+          "remaining_limit_sum": "0",
+          "ID": "2",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "89583333",
+                "overdue_date": "2023-04-05",
+                "overdue_principal_change": "2023-04-26",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "89278437",
+                "overdue_date": "2023-05-05",
+                "overdue_principal_change": "2023-05-25",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "85825040",
+                "overdue_date": "2023-06-05",
+                "overdue_principal_change": "2023-07-03",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "85871850",
+                "overdue_date": "2023-07-05",
+                "overdue_principal_change": "2023-07-28",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "89192272",
+                "overdue_date": "2023-08-07",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "88811943",
+                "overdue_date": "2023-09-05",
+                "overdue_principal_change": "2023-09-12",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "87831806",
+                "overdue_date": "2023-10-05",
+                "overdue_principal_change": "2023-10-25",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "87684766",
+                "overdue_date": "2023-11-06",
+                "overdue_principal_change": "2023-11-21",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "88510744",
+                "overdue_date": "2023-12-04",
+                "overdue_principal_change": "2023-12-06",
+                "overdue_principal_days": "2"
+              }
+            ]
+          },
+          "percent_change": "2023-03-11",
+          "immediate_percent_sum": "0",
+          "amount_issued_change": "2023-12-04",
+          "overdue_principal_sum": "88510744",
+          "contract_date_change": "2023-03-11",
+          "reserve_bal_sum": "0",
+          "credit_type": "60",
+          "offbalance_percent_sum": "",
+          "immediate_percent_sum_change": "2023-12-05",
+          "offbalance_princial_sum": "",
+          "lawsuit_principal_sum_change": "",
+          "total_debt_sum_change": "2023-12-04",
+          "claim_date": "2023-03-10",
+          "contract_closing_date": "",
+          "claim_id": "44122",
+          "overdue_principal_sum_change": "2023-12-04",
+          "offbalance_percent_sum_change": "",
+          "overdue_percent_sum": "50168377",
+          "claim_id_change": "2023-03-10",
+          "percent": "27.99",
+          "amount_change": "2023-03-11",
+          "immediate_principal_sum_change": "2023-12-04",
+          "actual_schedule": {
+            "actual_schedule_change": "2023-11-20",
+            "actual_repayment": [
+              {
+                "principal_sum": "89888229",
+                "repayment_date": "2023-04-25",
+                "remaining_principal_sum": "2777786771",
+                "percent_sum": ""
+              },
+              {
+                "principal_sum": "89278437",
+                "repayment_date": "2023-05-24",
+                "remaining_principal_sum": "2688508334",
+                "percent_sum": ""
+              },
+              {
+                "principal_sum": "3758293",
+                "repayment_date": "2023-05-25",
+                "remaining_principal_sum": "2684750041",
+                "percent_sum": ""
+              },
+              {
+                "principal_sum": "89536523",
+                "repayment_date": "2023-06-27",
+                "remaining_principal_sum": "2595213518",
+                "percent_sum": ""
+              },
+              {
+                "principal_sum": "86262911",
+                "repayment_date": "2023-07-27",
+                "remaining_principal_sum": "2508950607",
+                "percent_sum": ""
+              },
+              {
+                "principal_sum": "89963662",
+                "repayment_date": "2023-08-30",
+                "remaining_principal_sum": "2418986945",
+                "percent_sum": "52779232"
+              },
+              {
+                "principal_sum": "90563470",
+                "repayment_date": "2023-09-11",
+                "remaining_principal_sum": "2328423475",
+                "percent_sum": "48072171"
+              },
+              {
+                "principal_sum": "89730373",
+                "repayment_date": "2023-10-24",
+                "remaining_principal_sum": "2238693102",
+                "percent_sum": "51925606"
+              },
+              {
+                "principal_sum": "88757355",
+                "repayment_date": "2023-11-20",
+                "remaining_principal_sum": "2149935747",
+                "percent_sum": "49104711"
+              }
+            ]
+          },
+          "contract_end_date": "2027-03-05",
+          "contract_date": "2023-03-10",
+          "total_debt_sum": "2200104124",
+          "currency": "000",
+          "immediate_principal_sum": "2061425003",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "amount": "2150000000",
+          "org": "004",
+          "org_type": "БАНК",
+          "amount_issued": "2867675000",
+          "revised_principal_sum_change": "",
+          "lawsuit_principal_sum": "",
+          "juridical_status": "08",
+          "overdue_percent_sum_change": "2023-12-05",
+          "class_asset_quality_change": "2023-03-11"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2021-01-14",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "23034",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "23034",
+          "branch": "00232",
+          "claim_id_change": "2019-11-25",
+          "percent": "34",
+          "amount_change": "2020-03-23",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2020-11-05",
+          "contract_date": "2019-11-23",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2023-12-06",
+          "contract_end_date_change": "2020-03-23",
+          "currency": "000",
+          "ID": "3",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "58051249",
+                "overdue_date": "2020-08-20",
+                "overdue_principal_change": "2020-10-17",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "58333333",
+                "overdue_date": "2020-09-03",
+                "overdue_principal_change": "2020-10-17",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "58333333",
+                "overdue_date": "2020-10-05",
+                "overdue_principal_change": "2020-10-26",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "58333333",
+                "overdue_date": "2020-11-03",
+                "overdue_principal_change": "2020-12-16",
+                "overdue_principal_days": "42"
+              },
+              {
+                "overdue_principal_sum": "58333333",
+                "overdue_date": "2020-12-03",
+                "overdue_principal_change": "2020-12-16",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "158333335",
+                "overdue_date": "2021-01-05",
+                "overdue_principal_change": "2021-01-15",
+                "overdue_principal_days": "9"
+              }
+            ]
+          },
+          "percent_change": "2020-03-23",
+          "amount_issued_change": "2021-01-14",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "600000000",
+          "contract_date_change": "2020-03-23",
+          "org": "004",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "50000000",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2019-11-23",
+          "class_asset_quality_change": "2020-03-23"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2019-11-20",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "17589",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "17589",
+          "branch": "00232",
+          "claim_id_change": "2019-02-20",
+          "percent": "36",
+          "amount_change": "2019-02-20",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2020-02-18",
+          "contract_date": "2019-02-19",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2023-12-06",
+          "contract_end_date_change": "2019-02-20",
+          "currency": "000",
+          "ID": "4",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2019-05-20",
+                "overdue_principal_change": "2019-05-22",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "100000000",
+                "overdue_date": "2019-11-05",
+                "overdue_principal_change": "2019-11-21",
+                "overdue_principal_days": "15"
+              }
+            ]
+          },
+          "percent_change": "2019-02-20",
+          "amount_issued_change": "2019-11-05",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "100000000",
+          "contract_date_change": "2019-02-20",
+          "org": "004",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "100000000",
+          "credit_type": "58",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2019-02-19",
+          "class_asset_quality_change": "2019-02-20"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2021-12-17",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "16719",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "16719",
+          "branch": "00232",
+          "claim_id_change": "2018-08-15",
+          "percent": "24",
+          "amount_change": "2018-09-29",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2021-07-05",
+          "contract_date": "2018-07-30",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2023-12-06",
+          "contract_end_date_change": "2018-09-29",
+          "currency": "000",
+          "ID": "5",
+          "org_name": "МИНГБУЛОК Т., \"АГРОБАНК\" АТБ МИНГБУЛОК ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2018-08-06",
+                "overdue_principal_change": "2019-01-05",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "22987227",
+                "overdue_date": "2019-01-07",
+                "overdue_principal_change": "2019-01-10",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-03-05",
+                "overdue_principal_change": "2019-03-25",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-04-05",
+                "overdue_principal_change": "2019-04-12",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-05-06",
+                "overdue_principal_change": "2019-05-23",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-07-05",
+                "overdue_principal_change": "2019-07-23",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-08-05",
+                "overdue_principal_change": "2019-08-14",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-09-05",
+                "overdue_principal_change": "2019-10-01",
+                "overdue_principal_days": "25"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-10-07",
+                "overdue_principal_change": "2019-10-17",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-11-05",
+                "overdue_principal_change": "2019-11-29",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2019-12-05",
+                "overdue_principal_change": "2019-12-07",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10760005",
+                "overdue_date": "2020-01-06",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2020-02-05",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2020-03-03",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "23888888",
+                "overdue_date": "2020-04-06",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2020-08-20",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2020-09-03",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2020-10-05",
+                "overdue_principal_change": "2020-11-14",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "22027558",
+                "overdue_date": "2020-11-03",
+                "overdue_principal_change": "2020-11-27",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2020-12-03",
+                "overdue_principal_change": "2020-12-16",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "24235857",
+                "overdue_date": "2021-01-05",
+                "overdue_principal_change": "2021-01-15",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2021-02-02",
+                "overdue_principal_change": "2021-02-28",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "15262120",
+                "overdue_date": "2021-03-02",
+                "overdue_principal_change": "2021-03-18",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2021-04-05",
+                "overdue_principal_change": "2021-04-23",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2021-05-04",
+                "overdue_principal_change": "2021-05-16",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "25595237",
+                "overdue_date": "2021-06-03",
+                "overdue_principal_change": "2021-06-23",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "48137070",
+                "overdue_date": "2021-09-06",
+                "overdue_principal_change": "2021-12-20",
+                "overdue_principal_days": "102"
+              }
+            ]
+          },
+          "percent_change": "2018-09-29",
+          "amount_issued_change": "2021-12-17",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "860000000",
+          "contract_date_change": "2018-09-29",
+          "org": "004",
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "905916446",
+          "credit_type": "30",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2018-07-27",
+          "class_asset_quality_change": "2018-09-29"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "7912883",
+      "max_uninter_overdue_percent_days": "4",
+      "max_overdue_principal_days": "4",
+      "total_overdue_percent_sum": "3613007",
+      "credit_request_qty": "41",
+      "claims_qty": "20",
+      "average_monthly_payment": "10643829",
+      "subscriptions_qty": "0",
+      "contracts_qty": "1",
+      "overdue_principal_qty": "4",
+      "actual_average_monthly_payment": "15305301"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "251",
+      "scoring_class": "C2",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "d47cba0caade4704aa94",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2024304553454",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2024- 10-30",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2024-10-30 12:02",
+      "consent_id": "842",
+      "claim_date": "2024- 10-30"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "d47cba0caade4704aa94",
+          "report_type": "077",
+          "consent_date": "2024-10-30",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2024-10-30 12:02",
+          "branch": "40004",
+          "consent_id": "842"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "59982",
+          "report_type": "055",
+          "consent_date": "2024-09-28",
+          "org_name": "ПЕШКУ Т., \"АГРОБАНК\" АТБ ПЕШКУ ФИЛИАЛИ",
+          "demand_date_time": "2024-09-28 18:33",
+          "branch": "00098",
+          "consent_id": "2757895633"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac3016143a3448734",
+          "report_type": "022",
+          "consent_date": "2024-09-25",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-09-25 11:59",
+          "branch": "20038",
+          "consent_id": "3448734"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "ac3016143a3448734",
+          "report_type": "077",
+          "consent_date": "2024-09-25",
+          "org_name": "Alif Moliya",
+          "demand_date_time": "2024-09-25 12:00",
+          "branch": "20038",
+          "consent_id": "3448734"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25271248",
+          "report_type": "008",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 08:28",
+          "branch": "01180",
+          "consent_id": "2758d"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25275307",
+          "report_type": "008",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 10:46",
+          "branch": "01180",
+          "consent_id": "6cf63"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25273770",
+          "report_type": "008",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 10:02",
+          "branch": "01180",
+          "consent_id": "dbe06"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25275570",
+          "report_type": "008",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 10:52",
+          "branch": "01180",
+          "consent_id": "f7dc2"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25271248",
+          "report_type": "077",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 08:29",
+          "branch": "01180",
+          "consent_id": "2758d"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25275307",
+          "report_type": "077",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 10:47",
+          "branch": "01180",
+          "consent_id": "6cf63"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25273770",
+          "report_type": "077",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 10:04",
+          "branch": "01180",
+          "consent_id": "dbe06"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "25275570",
+          "report_type": "077",
+          "consent_date": "2024-09-09",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-09-09 10:53",
+          "branch": "01180",
+          "consent_id": "f7dc2"
+        },
+        {
+          "org": "RET",
+          "user_id": "System S.S.",
+          "claim_id": "LA2156489",
+          "report_type": "077",
+          "consent_date": "2024-08-24",
+          "org_name": "ORIENTSWISS TASHKENT",
+          "demand_date_time": "2024-08-24 16:34",
+          "branch": "20174",
+          "consent_id": "2134164"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24692440",
+          "report_type": "008",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:17",
+          "branch": "01180",
+          "consent_id": "01f06"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24691975",
+          "report_type": "008",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:10",
+          "branch": "01180",
+          "consent_id": "58968"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24688829",
+          "report_type": "008",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 09:22",
+          "branch": "01180",
+          "consent_id": "68c57"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24691417",
+          "report_type": "008",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:02",
+          "branch": "01180",
+          "consent_id": "82671"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24692231",
+          "report_type": "008",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:14",
+          "branch": "01180",
+          "consent_id": "9229a"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24692440",
+          "report_type": "077",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:17",
+          "branch": "01180",
+          "consent_id": "01f06"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24691975",
+          "report_type": "077",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:11",
+          "branch": "01180",
+          "consent_id": "58968"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24688829",
+          "report_type": "077",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 09:23",
+          "branch": "01180",
+          "consent_id": "68c57"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24691417",
+          "report_type": "077",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:03",
+          "branch": "01180",
+          "consent_id": "82671"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24692231",
+          "report_type": "077",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 11:14",
+          "branch": "01180",
+          "consent_id": "9229a"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24688829",
+          "report_type": "315",
+          "consent_date": "2024-08-23",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-23 09:26",
+          "branch": "01180",
+          "consent_id": "68c57"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24674696",
+          "report_type": "008",
+          "consent_date": "2024-08-22",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-22 18:28",
+          "branch": "01180",
+          "consent_id": "68e04"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24674696",
+          "report_type": "077",
+          "consent_date": "2024-08-22",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-22 18:29",
+          "branch": "01180",
+          "consent_id": "68e04"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24623299",
+          "report_type": "008",
+          "consent_date": "2024-08-21",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-21 15:07",
+          "branch": "01180",
+          "consent_id": "581ba"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "24623299",
+          "report_type": "077",
+          "consent_date": "2024-08-21",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-08-21 15:08",
+          "branch": "01180",
+          "consent_id": "581ba"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "19635491",
+          "report_type": "008",
+          "consent_date": "2024-04-08",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-04-06 13:28",
+          "branch": "01180",
+          "consent_id": "241dc"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "19635491",
+          "report_type": "077",
+          "consent_date": "2024-04-08",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-04-06 13:29",
+          "branch": "01180",
+          "consent_id": "241dc"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "19635491",
+          "report_type": "315",
+          "consent_date": "2024-04-08",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-04-06 13:38",
+          "branch": "01180",
+          "consent_id": "241dc"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "19517201",
+          "report_type": "008",
+          "consent_date": "2024-04-03",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-04-03 16:51",
+          "branch": "01180",
+          "consent_id": "f601f"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "19517201",
+          "report_type": "077",
+          "consent_date": "2024-04-03",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-04-03 16:52",
+          "branch": "01180",
+          "consent_id": "f601f"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18842045",
+          "report_type": "008",
+          "consent_date": "2024-03-18",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-18 10:12",
+          "branch": "01180",
+          "consent_id": "e4d10"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18842045",
+          "report_type": "077",
+          "consent_date": "2024-03-18",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-18 10:13",
+          "branch": "01180",
+          "consent_id": "e4d10"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18842813",
+          "report_type": "315",
+          "consent_date": "2024-03-18",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-18 10:36",
+          "branch": "01180",
+          "consent_id": "cd905"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18842045",
+          "report_type": "315",
+          "consent_date": "2024-03-18",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-18 10:28",
+          "branch": "01180",
+          "consent_id": "e4d10"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18428094",
+          "report_type": "008",
+          "consent_date": "2024-03-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-07 11:08",
+          "branch": "01180",
+          "consent_id": "2d33b"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18428094",
+          "report_type": "077",
+          "consent_date": "2024-03-07",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-07 11:09",
+          "branch": "01180",
+          "consent_id": "2d33b"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18341958",
+          "report_type": "008",
+          "consent_date": "2024-03-05",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-05 11:58",
+          "branch": "01180",
+          "consent_id": "3c409"
+        },
+        {
+          "org": "062",
+          "user_id": "System S.S.",
+          "claim_id": "18341958",
+          "report_type": "077",
+          "consent_date": "2024-03-05",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "demand_date_time": "2024-03-05 11:59",
+          "branch": "01180",
+          "consent_id": "3c409"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "50312055330012",
+      "live_address": "",
+      "registration_region": "06",
+      "gender": "M",
+      "registration_district": "027",
+      "birth_date": "2005-12-03",
+      "inn": "",
+      "phones": {
+        "phone": [
+          {
+            "phone_number": "998910820890",
+            "phone_number_change": "2024-08-29"
+          },
+          {
+            "phone_number": "998937738813",
+            "phone_number_change": "2024-08-24"
+          }
+        ]
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2024-10-30",
+      "katm_sir": "P4000420241030932591",
+      "juridical_status": "2",
+      "name": "NARZIYEV BOBIR TOJIDDIN O‘G‘LI",
+      "live_address_change": "2024-10-30",
+      "registration_address": "Бухарская область, Пешкунский район, Гулистан МСГ, Ниёзбек, дом 54",
+      "email": "н/д",
+      "registration_address_change": "2024-10-30"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "10643829",
+      "open_contract": {
+        "monthly_average_payment": "10643829",
+        "overdue_debt_sum": "0",
+        "org": "062",
+        "contract_id": "18842813",
+        "total_debt_sum": "48230173",
+        "currency": "000",
+        "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+        "branch": "01180"
+      },
+      "all_debt_sum": "48230173",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "2024-03-05",
+          "summa": "500000000",
+          "org": "062",
+          "claim_id": "18341958",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-03-05"
+        },
+        {
+          "rejection_date": "2024-03-07",
+          "summa": "30000000",
+          "org": "062",
+          "claim_id": "18428094",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-03-07"
+        },
+        {
+          "rejection_date": "2024-03-18",
+          "summa": "100000000",
+          "org": "062",
+          "claim_id": "18842045",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-03-18"
+        },
+        {
+          "rejection_date": "2024-04-03",
+          "summa": "1102150000",
+          "org": "062",
+          "claim_id": "19517201",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-04-03"
+        },
+        {
+          "rejection_date": "2024-04-08",
+          "summa": "402550000",
+          "org": "062",
+          "claim_id": "19635491",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-04-08"
+        },
+        {
+          "rejection_date": "2024-08-21",
+          "summa": "214384900",
+          "org": "062",
+          "claim_id": "24623299",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-21"
+        },
+        {
+          "rejection_date": "2024-08-22",
+          "summa": "264470600",
+          "org": "062",
+          "claim_id": "24674696",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-22"
+        },
+        {
+          "rejection_date": "2024-08-23",
+          "summa": "164556400",
+          "org": "062",
+          "claim_id": "24688829",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-23"
+        },
+        {
+          "rejection_date": "2024-08-23",
+          "summa": "264556400",
+          "org": "062",
+          "claim_id": "24691417",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-23"
+        },
+        {
+          "rejection_date": "2024-08-23",
+          "summa": "264556400",
+          "org": "062",
+          "claim_id": "24691975",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-23"
+        },
+        {
+          "rejection_date": "2024-08-23",
+          "summa": "264556400",
+          "org": "062",
+          "claim_id": "24692231",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-23"
+        },
+        {
+          "rejection_date": "2024-08-23",
+          "summa": "264556400",
+          "org": "062",
+          "claim_id": "24692440",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-08-23"
+        },
+        {
+          "rejection_date": "2024-09-09",
+          "summa": "126014000",
+          "org": "062",
+          "claim_id": "25271248",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-09-09"
+        },
+        {
+          "rejection_date": "2024-09-09",
+          "summa": "134014000",
+          "org": "062",
+          "claim_id": "25273770",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-09-09"
+        },
+        {
+          "rejection_date": "2024-09-09",
+          "summa": "126014000",
+          "org": "062",
+          "claim_id": "25275307",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-09-09"
+        },
+        {
+          "rejection_date": "2024-09-09",
+          "summa": "166014000",
+          "org": "062",
+          "claim_id": "25275570",
+          "credit_duration": "",
+          "rejection_reason": "07",
+          "currency": "000",
+          "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+          "branch": "01180",
+          "claim_date": "2024-09-09"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "ac3016143a3448734",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "Alif Moliya",
+          "branch": "20038",
+          "claim_date": "2024-09-25"
+        },
+        {
+          "rejection_date": "2024-10-15",
+          "summa": "",
+          "org": "RET",
+          "claim_id": "LA2156489",
+          "credit_duration": "",
+          "rejection_reason": "4",
+          "currency": "н\\д",
+          "org_name": "ORIENTSWISS TASHKENT",
+          "branch": "20174",
+          "claim_date": "2024-08-24"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": {
+        "reserve_bal_change": "",
+        "contract_id": "18842813",
+        "security_qty": "0",
+        "contract_status": "1",
+        "revised_principal_sum": "0",
+        "offbalance_princial_sum_change": "",
+        "branch": "01180",
+        "securities": "",
+        "class_asset_quality": "1",
+        "forecasted_schedule": "",
+        "contract_end_date_change": "2024-03-19",
+        "remaining_limit_sum": "0",
+        "ID": "1",
+        "overdue_principals": {
+          "overdue_principal": [
+            {
+              "overdue_principal_sum": "6358103",
+              "overdue_date": "2024-05-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "2"
+            },
+            {
+              "overdue_principal_sum": "7912883",
+              "overdue_date": "2024-07-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "7708613",
+              "overdue_date": "2024-08-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "4"
+            },
+            {
+              "overdue_principal_sum": "7529155",
+              "overdue_date": "2024-09-16",
+              "overdue_principal_change": "2024-09-18",
+              "overdue_principal_days": "1"
+            }
+          ]
+        },
+        "percent_change": "2024-03-19",
+        "immediate_percent_sum": "952039",
+        "amount_issued_change": "2024-10-04",
+        "overdue_principal_sum": "0",
+        "contract_date_change": "2024-03-19",
+        "reserve_bal_sum": "0",
+        "credit_type": "32",
+        "offbalance_percent_sum": "0",
+        "immediate_percent_sum_change": "2024-10-29",
+        "offbalance_princial_sum": "0",
+        "lawsuit_principal_sum_change": "",
+        "total_debt_sum_change": "2024-10-04",
+        "claim_date": "2024-03-18",
+        "contract_closing_date": "",
+        "claim_id": "18842813",
+        "overdue_principal_sum_change": "2024-09-17",
+        "offbalance_percent_sum_change": "",
+        "overdue_percent_sum": "0",
+        "claim_id_change": "2024-03-18",
+        "percent": "49",
+        "amount_change": "2024-03-19",
+        "immediate_principal_sum_change": "2024-10-04",
+        "actual_schedule": {
+          "actual_schedule_change": "2024-10-16",
+          "actual_repayment": [
+            {
+              "principal_sum": "7509589",
+              "repayment_date": "2024-04-13",
+              "remaining_principal_sum": "92490411",
+              "percent_sum": "3490411"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-04-15",
+              "remaining_principal_sum": "92490411",
+              "percent_sum": "248330"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-05-15",
+              "remaining_principal_sum": "92490411",
+              "percent_sum": "111949"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-05-16",
+              "remaining_principal_sum": "92490411",
+              "percent_sum": "1795000"
+            },
+            {
+              "principal_sum": "7626844",
+              "repayment_date": "2024-05-17",
+              "remaining_principal_sum": "84863567",
+              "percent_sum": "2093772"
+            },
+            {
+              "principal_sum": "5371696",
+              "repayment_date": "2024-06-19",
+              "remaining_principal_sum": "79491871",
+              "percent_sum": "3759573"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-07-15",
+              "remaining_principal_sum": "79491871",
+              "percent_sum": "93796"
+            },
+            {
+              "principal_sum": "7912883",
+              "repayment_date": "2024-07-16",
+              "remaining_principal_sum": "71578988",
+              "percent_sum": "2708492"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-08-15",
+              "remaining_principal_sum": "71578988",
+              "percent_sum": "78625"
+            },
+            {
+              "principal_sum": "7708613",
+              "repayment_date": "2024-08-19",
+              "remaining_principal_sum": "63870375",
+              "percent_sum": "3008158"
+            },
+            {
+              "principal_sum": "414520",
+              "repayment_date": "2024-09-16",
+              "remaining_principal_sum": "63455855",
+              "percent_sum": "2743801"
+            },
+            {
+              "principal_sum": "7529155",
+              "repayment_date": "2024-09-17",
+              "remaining_principal_sum": "55926700",
+              "percent_sum": "26352"
+            },
+            {
+              "principal_sum": "8648566",
+              "repayment_date": "2024-10-04",
+              "remaining_principal_sum": "47278134",
+              "percent_sum": "1351434"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-10-15",
+              "remaining_principal_sum": "47278134",
+              "percent_sum": "36093"
+            },
+            {
+              "principal_sum": "",
+              "repayment_date": "2024-10-16",
+              "remaining_principal_sum": "47278134",
+              "percent_sum": "662069"
+            }
+          ]
+        },
+        "contract_end_date": "2025-03-17",
+        "balances": {
+          "balance": [
+            {
+              "month": "03/2024",
+              "begin_sum": "0",
+              "end_sum": "100000000"
+            },
+            {
+              "month": "04/2024",
+              "begin_sum": "100000000",
+              "end_sum": "92490411"
+            },
+            {
+              "month": "05/2024",
+              "begin_sum": "86132308",
+              "end_sum": "84863567"
+            },
+            {
+              "month": "06/2024",
+              "begin_sum": "84863567",
+              "end_sum": "79491871"
+            },
+            {
+              "month": "07/2024",
+              "begin_sum": "79491871",
+              "end_sum": "71578988"
+            },
+            {
+              "month": "08/2024",
+              "begin_sum": "71578988",
+              "end_sum": "63870375"
+            },
+            {
+              "month": "09/2024",
+              "begin_sum": "63870375",
+              "end_sum": "55926700"
+            },
+            {
+              "month": "10/2024",
+              "begin_sum": "55926700",
+              "end_sum": "47278134"
+            }
+          ]
+        },
+        "contract_date": "2024-03-18",
+        "total_debt_sum": "48230173",
+        "currency": "000",
+        "immediate_principal_sum": "47278134",
+        "org_name": "ТОШКЕНТ Ш., \"TBC BANK\" АКЦИЯДОРЛИК ТИЖОРАТ БАНКИ",
+        "amount": "100000000",
+        "org": "062",
+        "overdue_procents": {
+          "overdue_procent": [
+            {
+              "overdue_principal_sum": "3613007",
+              "overdue_date": "2024-05-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "2"
+            },
+            {
+              "overdue_principal_sum": "2680797",
+              "overdue_date": "2024-07-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "2900238",
+              "overdue_date": "2024-08-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "4"
+            },
+            {
+              "overdue_principal_sum": "662069",
+              "overdue_date": "2024-10-15",
+              "overdue_principal_change": "2024-10-20",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "22253",
+              "overdue_date": "2024-05-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "22253",
+              "overdue_date": "2024-05-16",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "27695",
+              "overdue_date": "2024-07-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "1"
+            },
+            {
+              "overdue_principal_sum": "26980",
+              "overdue_date": "2024-08-15",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "4"
+            },
+            {
+              "overdue_principal_sum": "26980",
+              "overdue_date": "2024-08-16",
+              "overdue_principal_change": "2024-09-10",
+              "overdue_principal_days": "3"
+            },
+            {
+              "overdue_principal_sum": "26352",
+              "overdue_date": "2024-09-16",
+              "overdue_principal_change": "2024-09-18",
+              "overdue_principal_days": "1"
+            }
+          ]
+        },
+        "org_type": "БАНК",
+        "amount_issued": "100000000",
+        "revised_principal_sum_change": "",
+        "lawsuit_principal_sum": "0",
+        "juridical_status": "08",
+        "overdue_percent_sum_change": "2024-10-16",
+        "class_asset_quality_change": "2024-03-19"
+      }
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": [
+        {
+          "period": "03.2024",
+          "score_point": "268",
+          "score_date": "2024-03-05 11:59"
+        },
+        {
+          "period": "04.2024",
+          "score_point": "246",
+          "score_date": "2024-04-03 16:52"
+        },
+        {
+          "period": "08.2024",
+          "score_point": "246",
+          "score_date": "2024-08-21 15:08"
+        },
+        {
+          "period": "09.2024",
+          "score_point": "246",
+          "score_date": "2024-09-09 08:29"
+        },
+        {
+          "period": "10.2024",
+          "score_point": "251",
+          "score_date": "2024-10-30 12:02"
+        }
+      ]
+    }
+  }
+}

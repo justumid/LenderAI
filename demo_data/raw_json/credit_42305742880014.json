@@ -1,0 +1,3076 @@
+{
+  "report": {
+    "contingent_liabilities": {
+      "contingent_liability": {
+        "max_uninter_overdue_percent": "",
+        "overdue_debt_sum": "",
+        "contract_closing_date": "",
+        "contract_id": "",
+        "contract_status": "",
+        "max_current_uninter_overdue_percent": "",
+        "branch": "",
+        "amount_change": "",
+        "percent": "",
+        "contract_end_date": "",
+        "contract_date": "",
+        "total_debt_sum": "",
+        "currency": "",
+        "max_current_overdue_change": "",
+        "org_name": "",
+        "percent_change": "",
+        "max_overdue_principal_change": "",
+        "amount": "",
+        "subject_type": "",
+        "org": "",
+        "overdue_debt_sum_change": "",
+        "max_overdue_principal": "",
+        "max_current_overdue": "",
+        "max_current_uninter_overdue_percent_change": "",
+        "max_uninter_overdue_percent_change": "",
+        "total_debt_sum_change": "",
+        "loan_sibject": ""
+      }
+    },
+    "overview": {
+      "contingent_liabilities_qty": "0",
+      "max_overdue_principal_sum": "12725563",
+      "max_uninter_overdue_percent_days": "26",
+      "max_overdue_principal_days": "34",
+      "total_overdue_percent_sum": "6940232",
+      "credit_request_qty": "7",
+      "claims_qty": "7",
+      "average_monthly_payment": "0",
+      "subscriptions_qty": "0",
+      "contracts_qty": "2",
+      "overdue_principal_qty": "38",
+      "actual_average_monthly_payment": "0"
+    },
+    "subscriptions": {
+      "subscription": {
+        "org": "",
+        "user_id": "",
+        "claim_id": "",
+        "subscription_period": "",
+        "consent_date": "",
+        "org_name": "",
+        "branch": "",
+        "consent_id": ""
+      }
+    },
+    "scorring": {
+      "scoring_version": "1.6",
+      "scoring_grade": "294",
+      "scoring_class": "C3",
+      "scoring_level": "СРЕДНИЙ"
+    },
+    "sysinfo": {
+      "notes": "1.\tПредоставление и использование кредитной информации регулируется законом № ЗРУ-301 «Об обмене кредитной информацией» от 04.10.2011 г.\n2.\tКредитное бюро не проставляет запрета на кредитование, не вносит субъекта кредитной информации в «чёрный» список и не осуществляет никаких корректировок, исправлений, удалений в кредитную информацию, отражённой в кредитном отчёте. Внести изменения вправе, организация, предоставившая информацию, и только в случае, если данные переданы неверно или ошибочно.\n3.\tЕсли субъект кредитной информации не согласен с какой-либо информацией, содержащейся в кредитном отчёте, субъекту кредитной информации необходимо обратиться сперва к поставщику информации, а затем в кредитное бюро с заявлением об оспаривании информации.\n4.\tСкоринговый балл имеет рекомендательный характер и может быть основанием для выдачи или отказа кредитов только по усмотрению кредитора.\n5.\tНегативные факторы во время льготного периода в период пандемии с 01.03.2020-01.10.2020 не влияют на скоринговый балл.\n6.\tСреднемесячный платёж включает в себя расчёт исходя из остатков основного долга и прогнозного платежа по процентам (аннуитетный).\n7.\tКредиты в иностранной валюте в совокупных суммах рассчитывается в сумовом эквиваленте по курсу ЦБ РУз на дату формирования кредитного отчёта.\n8.\tПри изменениях расчётов меняется версия скорингового балла.",
+      "subject_type": "1",
+      "org": "ORG",
+      "claim_id": "5fe131e429a842b593cc",
+      "report_type": "077",
+      "branch": "40004",
+      "demand_id": "ORG2024186012918",
+      "user_id": "Минэнерго (40004), System S.S",
+      "consent_date": "2024- 07-04",
+      "report_name": "InfoScore (XML)",
+      "org_name": "Минэнерго",
+      "demand_date_time": "2024-07-04 01:36",
+      "consent_id": "0",
+      "claim_date": "2024- 07-04"
+    },
+    "credit_requests": {
+      "credit_request": [
+        {
+          "org": "ORG",
+          "user_id": "System S.S.",
+          "claim_id": "5fe131e429a842b593cc",
+          "report_type": "077",
+          "consent_date": "2024-07-04",
+          "org_name": "Минэнерго",
+          "demand_date_time": "2024-07-04 13:36",
+          "branch": "40004",
+          "consent_id": "0"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "52692",
+          "report_type": "021",
+          "consent_date": "2022-02-25",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "demand_date_time": "2022-02-26 16:42",
+          "branch": "00388",
+          "consent_id": "52692"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "52692",
+          "report_type": "024",
+          "consent_date": "2022-02-25",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "demand_date_time": "2022-02-26 16:43",
+          "branch": "00388",
+          "consent_id": "52692"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "52158",
+          "report_type": "021",
+          "consent_date": "2022-02-18",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "demand_date_time": "2022-02-19 17:44",
+          "branch": "00388",
+          "consent_id": "52158"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "51688",
+          "report_type": "021",
+          "consent_date": "2022-02-16",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "demand_date_time": "2022-02-16 09:41",
+          "branch": "00388",
+          "consent_id": "51688"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "50783",
+          "report_type": "021",
+          "consent_date": "2022-02-02",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "demand_date_time": "2022-02-02 11:09",
+          "branch": "00388",
+          "consent_id": "50783"
+        },
+        {
+          "org": "004",
+          "user_id": "System S.S.",
+          "claim_id": "50784",
+          "report_type": "021",
+          "consent_date": "2022-02-02",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "demand_date_time": "2022-02-02 11:10",
+          "branch": "00388",
+          "consent_id": "50784"
+        }
+      ]
+    },
+    "client": {
+      "pinfl": "42305742880014",
+      "live_address": "",
+      "registration_region": "24",
+      "gender": "Ж",
+      "registration_district": "123",
+      "birth_date": "1974-05-23",
+      "inn": "",
+      "phones": {
+        "phone": {
+          "phone_number": "998938347788",
+          "phone_number_change": "2024-07-04"
+        }
+      },
+      "client_type": "08",
+      "founders": "",
+      "oked": "",
+      "email_change": "2024-07-04",
+      "katm_sir": "P4000420240704358843",
+      "juridical_status": "2",
+      "name": "NORMIRZAYEVA ZUXRA KURBANBAYEVNA",
+      "live_address_change": "2024-07-04",
+      "registration_address": "sayxunobod tumani",
+      "email": "н/д",
+      "registration_address_change": "2024-07-04"
+    },
+    "blacklist": "",
+    "open_contracts": {
+      "average_monthly_payment": "0",
+      "all_debt_sum": "0",
+      "all_overdue_debt_sum": "0"
+    },
+    "claims_wo_contracts": {
+      "claim_wo_contract": [
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "33255",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "branch": "00388",
+          "claim_date": "2020-05-26"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "50783",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "branch": "00388",
+          "claim_date": "2022-02-02"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "50784",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "branch": "00388",
+          "claim_date": "2022-02-02"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "51688",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "branch": "00388",
+          "claim_date": "2022-02-16"
+        },
+        {
+          "rejection_date": "",
+          "summa": "",
+          "org": "004",
+          "claim_id": "52158",
+          "credit_duration": "",
+          "rejection_reason": "",
+          "currency": "н\\д",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "branch": "00388",
+          "claim_date": "2022-02-18"
+        }
+      ]
+    },
+    "contracts": {
+      "contract": [
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2023-11-29",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "52692",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "52692",
+          "branch": "00388",
+          "claim_id_change": "2022-02-26",
+          "percent": "26.99",
+          "amount_change": "2022-03-01",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2024-02-28",
+          "balances": {
+            "balance": [
+              {
+                "month": "03/2022",
+                "begin_sum": "305413500",
+                "end_sum": "292687937"
+              },
+              {
+                "month": "04/2022",
+                "begin_sum": "292687937",
+                "end_sum": "279962374"
+              },
+              {
+                "month": "05/2022",
+                "begin_sum": "279962374",
+                "end_sum": "267236811"
+              },
+              {
+                "month": "06/2022",
+                "begin_sum": "267236811",
+                "end_sum": "254511248"
+              },
+              {
+                "month": "07/2022",
+                "begin_sum": "254511248",
+                "end_sum": "241785685"
+              },
+              {
+                "month": "08/2022",
+                "begin_sum": "241785685",
+                "end_sum": "229060122"
+              },
+              {
+                "month": "09/2022",
+                "begin_sum": "229060122",
+                "end_sum": "216334559"
+              },
+              {
+                "month": "10/2022",
+                "begin_sum": "203608996",
+                "end_sum": "202090596"
+              },
+              {
+                "month": "11/2022",
+                "begin_sum": "202090596",
+                "end_sum": "190883433"
+              },
+              {
+                "month": "12/2022",
+                "begin_sum": "178157870",
+                "end_sum": "178111100"
+              },
+              {
+                "month": "01/2023",
+                "begin_sum": "178111100",
+                "end_sum": "165432307"
+              },
+              {
+                "month": "02/2023",
+                "begin_sum": "165432307",
+                "end_sum": "152706744"
+              },
+              {
+                "month": "03/2023",
+                "begin_sum": "152706744",
+                "end_sum": "139981181"
+              },
+              {
+                "month": "04/2023",
+                "begin_sum": "139981181",
+                "end_sum": "127255618"
+              },
+              {
+                "month": "05/2023",
+                "begin_sum": "127255618",
+                "end_sum": "114530055"
+              },
+              {
+                "month": "06/2023",
+                "begin_sum": "101804492",
+                "end_sum": "101721331"
+              },
+              {
+                "month": "07/2023",
+                "begin_sum": "101721331",
+                "end_sum": "89008125"
+              },
+              {
+                "month": "08/2023",
+                "begin_sum": "76353366",
+                "end_sum": "75732375"
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "63627803",
+                "end_sum": "63490768"
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "50902240",
+                "end_sum": "50606420"
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "38176677",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2022",
+                "begin_sum": "",
+                "end_sum": ""
+              }
+            ]
+          },
+          "contract_date": "2022-02-28",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2024-07-04",
+          "contract_end_date_change": "2022-03-01",
+          "currency": "000",
+          "ID": "1",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-03-04",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "34"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-04-05",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "12645300",
+                "overdue_date": "2022-05-07",
+                "overdue_principal_change": "2022-05-12",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-06-03",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-07-05",
+                "overdue_principal_change": "2022-07-14",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-08-08",
+                "overdue_principal_change": "2022-08-10",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-09-05",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-10-05",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "26"
+              },
+              {
+                "overdue_principal_sum": "11207163",
+                "overdue_date": "2022-11-04",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2022-12-05",
+                "overdue_principal_change": "2022-12-20",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "12678793",
+                "overdue_date": "2023-01-05",
+                "overdue_principal_change": "2023-01-10",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2023-02-03",
+                "overdue_principal_change": "2023-02-08",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2023-03-03",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2023-05-05",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "12725563",
+                "overdue_date": "2023-06-05",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "12654759",
+                "overdue_date": "2023-08-04",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "26"
+              },
+              {
+                "overdue_principal_sum": "12104572",
+                "overdue_date": "2023-09-05",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "12588528",
+                "overdue_date": "2023-10-05",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "25"
+              },
+              {
+                "overdue_principal_sum": "12429743",
+                "overdue_date": "2023-11-03",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "13"
+              }
+            ]
+          },
+          "percent_change": "2022-03-01",
+          "amount_issued_change": "2023-11-29",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "305413500",
+          "contract_date_change": "2022-03-01",
+          "org": "004",
+          "overdue_procents": {
+            "overdue_procent": [
+              {
+                "overdue_principal_sum": "6940232",
+                "overdue_date": "2022-03-04",
+                "overdue_principal_change": "2022-03-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "6229382",
+                "overdue_date": "2022-04-05",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "5693016",
+                "overdue_date": "2022-06-03",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "489317",
+                "overdue_date": "2022-07-05",
+                "overdue_principal_change": "2022-07-14",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "4959040",
+                "overdue_date": "2022-10-05",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "26"
+              },
+              {
+                "overdue_principal_sum": "193118",
+                "overdue_date": "2022-11-04",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "3213866",
+                "overdue_date": "2022-12-05",
+                "overdue_principal_change": "2022-12-13",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "3828325",
+                "overdue_date": "2023-01-05",
+                "overdue_principal_change": "2023-01-10",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "3172084",
+                "overdue_date": "2023-02-03",
+                "overdue_principal_change": "2023-02-08",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "3255841",
+                "overdue_date": "2023-03-03",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "2672424",
+                "overdue_date": "2023-05-05",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "2286616",
+                "overdue_date": "2023-06-05",
+                "overdue_principal_change": "2023-06-08",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "1786512",
+                "overdue_date": "2023-08-04",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "26"
+              },
+              {
+                "overdue_principal_sum": "1417083",
+                "overdue_date": "2023-09-05",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "1222478",
+                "overdue_date": "2023-10-05",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "25"
+              },
+              {
+                "overdue_principal_sum": "28230",
+                "overdue_date": "2022-03-04",
+                "overdue_principal_change": "2022-03-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "743",
+                "overdue_date": "2022-03-14",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-15",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-16",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-17",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "7615",
+                "overdue_date": "2022-03-18",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-24",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "3808",
+                "overdue_date": "2022-03-25",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-28",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-29",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-30",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-03-31",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "3808",
+                "overdue_date": "2022-04-01",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "1269",
+                "overdue_date": "2022-04-04",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10679",
+                "overdue_date": "2022-04-05",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10679",
+                "overdue_date": "2022-04-06",
+                "overdue_principal_change": "2022-04-08",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "28052",
+                "overdue_date": "2022-05-07",
+                "overdue_principal_change": "2022-05-12",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "9351",
+                "overdue_date": "2022-05-10",
+                "overdue_principal_change": "2022-05-12",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "28229",
+                "overdue_date": "2022-06-03",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-06-06",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-06-07",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-06-08",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-06-09",
+                "overdue_principal_change": "2022-06-10",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-07-05",
+                "overdue_principal_change": "2022-07-14",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-07-06",
+                "overdue_principal_change": "2022-07-14",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-07-07",
+                "overdue_principal_change": "2022-07-14",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "47050",
+                "overdue_date": "2022-07-08",
+                "overdue_principal_change": "2022-07-14",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-08-08",
+                "overdue_principal_change": "2022-08-10",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "5991",
+                "overdue_date": "2022-09-05",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "5991",
+                "overdue_date": "2022-09-06",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "5991",
+                "overdue_date": "2022-09-07",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "5992",
+                "overdue_date": "2022-09-08",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "17974",
+                "overdue_date": "2022-09-09",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "5991",
+                "overdue_date": "2022-09-12",
+                "overdue_principal_change": "2022-09-14",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-05",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "26"
+              },
+              {
+                "overdue_principal_sum": "37640",
+                "overdue_date": "2022-10-07",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-10",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "9409",
+                "overdue_date": "2022-10-11",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-12",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-13",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "28230",
+                "overdue_date": "2022-10-14",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-17",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-18",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-19",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-20",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "28230",
+                "overdue_date": "2022-10-21",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-24",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-25",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-26",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-10-27",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "28229",
+                "overdue_date": "2022-10-28",
+                "overdue_principal_change": "2022-11-01",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "24862",
+                "overdue_date": "2022-11-04",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "8287",
+                "overdue_date": "2022-11-07",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "8287",
+                "overdue_date": "2022-11-08",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "8287",
+                "overdue_date": "2022-11-09",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "8288",
+                "overdue_date": "2022-11-10",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "24861",
+                "overdue_date": "2022-11-11",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "8287",
+                "overdue_date": "2022-11-14",
+                "overdue_principal_change": "2022-11-16",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-12-05",
+                "overdue_principal_change": "2022-12-13",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2022-12-06",
+                "overdue_principal_change": "2022-12-13",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "18820",
+                "overdue_date": "2022-12-07",
+                "overdue_principal_change": "2022-12-13",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "28230",
+                "overdue_date": "2022-12-09",
+                "overdue_principal_change": "2022-12-13",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "2",
+                "overdue_date": "2022-12-12",
+                "overdue_principal_change": "2022-12-20",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "3",
+                "overdue_date": "2022-12-13",
+                "overdue_principal_change": "2022-12-20",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "2",
+                "overdue_date": "2022-12-14",
+                "overdue_principal_change": "2022-12-20",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "2",
+                "overdue_date": "2022-12-15",
+                "overdue_principal_change": "2022-12-20",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "7",
+                "overdue_date": "2022-12-16",
+                "overdue_principal_change": "2022-12-20",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "9376",
+                "overdue_date": "2023-01-05",
+                "overdue_principal_change": "2023-01-10",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "9375",
+                "overdue_date": "2023-01-06",
+                "overdue_principal_change": "2023-01-10",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "18751",
+                "overdue_date": "2023-01-07",
+                "overdue_principal_change": "2023-01-10",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "28230",
+                "overdue_date": "2023-02-03",
+                "overdue_principal_change": "2023-02-08",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-02-06",
+                "overdue_principal_change": "2023-02-08",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "28229",
+                "overdue_date": "2023-03-03",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-03-06",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "18820",
+                "overdue_date": "2023-03-07",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-03-09",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-03-10",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "18820",
+                "overdue_date": "2023-03-11",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-03-13",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-03-14",
+                "overdue_principal_change": "2023-03-16",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "28230",
+                "overdue_date": "2023-05-05",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "18820",
+                "overdue_date": "2023-05-08",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-05-10",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-05-11",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "28229",
+                "overdue_date": "2023-05-12",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-05-15",
+                "overdue_principal_change": "2023-05-17",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-06-05",
+                "overdue_principal_change": "2023-06-08",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "9410",
+                "overdue_date": "2023-06-06",
+                "overdue_principal_change": "2023-06-08",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-07",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "9360",
+                "overdue_date": "2023-06-08",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "28077",
+                "overdue_date": "2023-06-09",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "9360",
+                "overdue_date": "2023-06-12",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-13",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-14",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-15",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "28078",
+                "overdue_date": "2023-06-16",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-19",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-20",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "9360",
+                "overdue_date": "2023-06-21",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "9359",
+                "overdue_date": "2023-06-22",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "28078",
+                "overdue_date": "2023-06-23",
+                "overdue_principal_change": "2023-06-27",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "28072",
+                "overdue_date": "2023-08-04",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "26"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-07",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-08",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "9357",
+                "overdue_date": "2023-08-09",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-10",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "28072",
+                "overdue_date": "2023-08-11",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-14",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-15",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "9357",
+                "overdue_date": "2023-08-16",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-17",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "28073",
+                "overdue_date": "2023-08-18",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "9357",
+                "overdue_date": "2023-08-21",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-22",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "9357",
+                "overdue_date": "2023-08-23",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-24",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "28073",
+                "overdue_date": "2023-08-25",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "9357",
+                "overdue_date": "2023-08-28",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "9358",
+                "overdue_date": "2023-08-29",
+                "overdue_principal_change": "2023-09-02",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-05",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "8950",
+                "overdue_date": "2023-09-06",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-07",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "26852",
+                "overdue_date": "2023-09-08",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-11",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-12",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-13",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "8950",
+                "overdue_date": "2023-09-14",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "26853",
+                "overdue_date": "2023-09-15",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "8950",
+                "overdue_date": "2023-09-18",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-19",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-20",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-21",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "26852",
+                "overdue_date": "2023-09-22",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-25",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "8950",
+                "overdue_date": "2023-09-26",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-27",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "8951",
+                "overdue_date": "2023-09-28",
+                "overdue_principal_change": "2023-10-03",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "19333",
+                "overdue_date": "2023-10-06",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "24"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-09",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-10",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "9308",
+                "overdue_date": "2023-10-11",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-12",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "27926",
+                "overdue_date": "2023-10-13",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "9308",
+                "overdue_date": "2023-10-16",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-17",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "9308",
+                "overdue_date": "2023-10-18",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-19",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "27926",
+                "overdue_date": "2023-10-20",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-23",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "9308",
+                "overdue_date": "2023-10-24",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "9309",
+                "overdue_date": "2023-10-25",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "9308",
+                "overdue_date": "2023-10-26",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "27926",
+                "overdue_date": "2023-10-27",
+                "overdue_principal_change": "2023-10-31",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "27574",
+                "overdue_date": "2023-11-03",
+                "overdue_principal_change": "2023-11-09",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "9191",
+                "overdue_date": "2023-11-06",
+                "overdue_principal_change": "2023-11-09",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "9191",
+                "overdue_date": "2023-11-07",
+                "overdue_principal_change": "2023-11-09",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "8911",
+                "overdue_date": "2023-11-08",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "8910",
+                "overdue_date": "2023-11-09",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "26731",
+                "overdue_date": "2023-11-10",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "8910",
+                "overdue_date": "2023-11-13",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "8911",
+                "overdue_date": "2023-11-14",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "8910",
+                "overdue_date": "2023-11-15",
+                "overdue_principal_change": "2023-11-17",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "305413500",
+          "credit_type": "32",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2022-02-25",
+          "class_asset_quality_change": "2022-03-01"
+        },
+        {
+          "closed_lawsuit_principal_sum": "0",
+          "actual_monthly_average_payment": "",
+          "contract_closing_date": "2022-05-20",
+          "closed_offbalance_percent_sum_change": "",
+          "contract_id": "33358",
+          "security_qty": "0",
+          "contract_status": "2",
+          "claim_id": "33358",
+          "branch": "00388",
+          "claim_id_change": "2020-06-01",
+          "percent": "32",
+          "amount_change": "2021-06-15",
+          "closed_offbalance_percent_sum": "0",
+          "actual_schedule": "",
+          "contract_end_date": "2022-05-05",
+          "balances": {
+            "balance": [
+              {
+                "month": "06/2020",
+                "begin_sum": "149480000",
+                "end_sum": "149480000"
+              },
+              {
+                "month": "07/2020",
+                "begin_sum": "139280000",
+                "end_sum": "139280000"
+              },
+              {
+                "month": "08/2020",
+                "begin_sum": "148703100",
+                "end_sum": "149903100"
+              },
+              {
+                "month": "09/2020",
+                "begin_sum": "149381700",
+                "end_sum": "149381700"
+              },
+              {
+                "month": "10/2020",
+                "begin_sum": "149791831",
+                "end_sum": "149791831"
+              },
+              {
+                "month": "11/2020",
+                "begin_sum": "149960568",
+                "end_sum": "149960568"
+              },
+              {
+                "month": "12/2020",
+                "begin_sum": "149938877",
+                "end_sum": "149938877"
+              },
+              {
+                "month": "01/2021",
+                "begin_sum": "149536616",
+                "end_sum": "149536616"
+              },
+              {
+                "month": "02/2021",
+                "begin_sum": "149065589",
+                "end_sum": "149065589"
+              },
+              {
+                "month": "03/2021",
+                "begin_sum": "148984380",
+                "end_sum": "149984380"
+              },
+              {
+                "month": "04/2021",
+                "begin_sum": "149599381",
+                "end_sum": "149599381"
+              },
+              {
+                "month": "05/2021",
+                "begin_sum": "137100093",
+                "end_sum": "137100093"
+              },
+              {
+                "month": "06/2021",
+                "begin_sum": "132833100",
+                "end_sum": "132613509"
+              },
+              {
+                "month": "07/2021",
+                "begin_sum": "132613509",
+                "end_sum": "120333100"
+              },
+              {
+                "month": "08/2021",
+                "begin_sum": "107833100",
+                "end_sum": "107833100"
+              },
+              {
+                "month": "09/2021",
+                "begin_sum": "107833100",
+                "end_sum": "100200000"
+              },
+              {
+                "month": "10/2021",
+                "begin_sum": "87700000",
+                "end_sum": "87596846"
+              },
+              {
+                "month": "11/2021",
+                "begin_sum": "87596846",
+                "end_sum": "75200000"
+              },
+              {
+                "month": "12/2021",
+                "begin_sum": "75200000",
+                "end_sum": "62700000"
+              },
+              {
+                "month": "01/2022",
+                "begin_sum": "50200000",
+                "end_sum": "50095884"
+              },
+              {
+                "month": "02/2022",
+                "begin_sum": "37700000",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2022",
+                "begin_sum": "37700000",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2022",
+                "begin_sum": "37700000",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2022",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "07/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "08/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "09/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "10/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "11/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "12/2023",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "01/2024",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "02/2024",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "03/2024",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "04/2024",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2024",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "06/2024",
+                "begin_sum": "0",
+                "end_sum": "0"
+              },
+              {
+                "month": "05/2020",
+                "begin_sum": "",
+                "end_sum": ""
+              }
+            ]
+          },
+          "contract_date": "2020-05-29",
+          "class_asset_quality": "1",
+          "actual_monthly_average_payment_change": "2024-07-04",
+          "contract_end_date_change": "2021-06-15",
+          "currency": "000",
+          "ID": "2",
+          "org_name": "САЙХУНОБОД Т., \"АГРОБАНК\" АТБ САЙХУНОБОД ФИЛИАЛИ",
+          "overdue_principals": {
+            "overdue_principal": [
+              {
+                "overdue_principal_sum": "12500000",
+                "overdue_date": "2020-07-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "12500000",
+                "overdue_date": "2020-09-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "12358600",
+                "overdue_date": "2020-10-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "12468731",
+                "overdue_date": "2020-11-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "12437468",
+                "overdue_date": "2020-12-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "12315777",
+                "overdue_date": "2021-01-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "12293516",
+                "overdue_date": "2021-02-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "12202489",
+                "overdue_date": "2021-03-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "12471280",
+                "overdue_date": "2021-04-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "12466281",
+                "overdue_date": "2021-05-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "12466993",
+                "overdue_date": "2021-06-03",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "12280409",
+                "overdue_date": "2021-07-02",
+                "overdue_principal_change": "2021-07-06",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "12500000",
+                "overdue_date": "2021-08-03",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "7633100",
+                "overdue_date": "2021-09-06",
+                "overdue_principal_change": "2021-09-13",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "12500000",
+                "overdue_date": "2021-10-05",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "12396846",
+                "overdue_date": "2021-11-02",
+                "overdue_principal_change": "2021-11-09",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "12500000",
+                "overdue_date": "2021-12-03",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "12500000",
+                "overdue_date": "2022-01-05",
+                "overdue_principal_change": "2022-01-23",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "12395884",
+                "overdue_date": "2022-02-07",
+                "overdue_principal_change": "2022-02-09",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "percent_change": "2021-06-15",
+          "amount_issued_change": "2022-05-20",
+          "closed_lawsuit_principal_sum_change": "",
+          "amount": "150000000",
+          "contract_date_change": "2021-06-15",
+          "org": "004",
+          "overdue_procents": {
+            "overdue_procent": [
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2020-07-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2020-07-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2020-07-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10958",
+                "overdue_date": "2020-07-08",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2020-07-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2020-07-10",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2020-09-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2020-09-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2020-09-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10958",
+                "overdue_date": "2020-09-08",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-08",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "32505",
+                "overdue_date": "2020-10-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-13",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-14",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10835",
+                "overdue_date": "2020-10-15",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10931",
+                "overdue_date": "2020-11-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "10932",
+                "overdue_date": "2020-11-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "32794",
+                "overdue_date": "2020-11-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10932",
+                "overdue_date": "2020-11-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10931",
+                "overdue_date": "2020-11-10",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10932",
+                "overdue_date": "2020-11-11",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10931",
+                "overdue_date": "2020-11-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10904",
+                "overdue_date": "2020-12-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "32713",
+                "overdue_date": "2020-12-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "21808",
+                "overdue_date": "2020-12-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10904",
+                "overdue_date": "2020-12-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10797",
+                "overdue_date": "2021-01-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "10798",
+                "overdue_date": "2021-01-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "32392",
+                "overdue_date": "2021-01-08",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "10797",
+                "overdue_date": "2021-01-11",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10798",
+                "overdue_date": "2021-01-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10797",
+                "overdue_date": "2021-01-13",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10797",
+                "overdue_date": "2021-01-14",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "32392",
+                "overdue_date": "2021-01-15",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10798",
+                "overdue_date": "2021-01-18",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "32333",
+                "overdue_date": "2021-02-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-08",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-10",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-11",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "32334",
+                "overdue_date": "2021-02-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "10777",
+                "overdue_date": "2021-02-15",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-16",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-17",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-18",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "32334",
+                "overdue_date": "2021-02-19",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10778",
+                "overdue_date": "2021-02-22",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "42792",
+                "overdue_date": "2021-03-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-10",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-11",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "32094",
+                "overdue_date": "2021-03-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-15",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-16",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "10699",
+                "overdue_date": "2021-03-17",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-18",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "42792",
+                "overdue_date": "2021-03-19",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-23",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-24",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10698",
+                "overdue_date": "2021-03-25",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "10933",
+                "overdue_date": "2021-04-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-08",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "32801",
+                "overdue_date": "2021-04-09",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-13",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "10933",
+                "overdue_date": "2021-04-14",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-15",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "32801",
+                "overdue_date": "2021-04-16",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-19",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10934",
+                "overdue_date": "2021-04-20",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10933",
+                "overdue_date": "2021-04-21",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-05-04",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-06",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "32789",
+                "overdue_date": "2021-05-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "19"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-10",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-11",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "54647",
+                "overdue_date": "2021-05-12",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-17",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-05-18",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-19",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-20",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "32788",
+                "overdue_date": "2021-05-21",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-05-24",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-05-25",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-03",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "32790",
+                "overdue_date": "2021-06-04",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-07",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-08",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-09",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-10",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "12"
+              },
+              {
+                "overdue_principal_sum": "32790",
+                "overdue_date": "2021-06-11",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-14",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-15",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-16",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10929",
+                "overdue_date": "2021-06-17",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "32790",
+                "overdue_date": "2021-06-18",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10930",
+                "overdue_date": "2021-06-21",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "32300",
+                "overdue_date": "2021-07-02",
+                "overdue_principal_change": "2021-07-06",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10766",
+                "overdue_date": "2021-07-05",
+                "overdue_principal_change": "2021-07-06",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-08-03",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-08-04",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-08-05",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "32876",
+                "overdue_date": "2021-08-06",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-08-09",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "6692",
+                "overdue_date": "2021-09-07",
+                "overdue_principal_change": "2021-09-13",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "6692",
+                "overdue_date": "2021-09-08",
+                "overdue_principal_change": "2021-09-13",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "6692",
+                "overdue_date": "2021-09-09",
+                "overdue_principal_change": "2021-09-13",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-05",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-06",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "22"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-07",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2021-10-08",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "20"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-11",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-12",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "16"
+              },
+              {
+                "overdue_principal_sum": "10958",
+                "overdue_date": "2021-10-13",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-14",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "14"
+              },
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2021-10-15",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "13"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-18",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "10"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-19",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "9"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-20",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-21",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "32876",
+                "overdue_date": "2021-10-22",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-25",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-26",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-10-27",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10868",
+                "overdue_date": "2021-11-03",
+                "overdue_principal_change": "2021-11-09",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "10869",
+                "overdue_date": "2021-11-04",
+                "overdue_principal_change": "2021-11-09",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "32605",
+                "overdue_date": "2021-11-05",
+                "overdue_principal_change": "2021-11-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2021-12-03",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-12-06",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "21917",
+                "overdue_date": "2021-12-07",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-12-09",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "32877",
+                "overdue_date": "2021-12-10",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10959",
+                "overdue_date": "2021-12-13",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "10620",
+                "overdue_date": "2022-01-06",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "10620",
+                "overdue_date": "2022-01-07",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "21241",
+                "overdue_date": "2022-01-08",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "6"
+              },
+              {
+                "overdue_principal_sum": "10620",
+                "overdue_date": "2022-01-10",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "10620",
+                "overdue_date": "2022-01-11",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "10620",
+                "overdue_date": "2022-01-12",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "10620",
+                "overdue_date": "2022-01-13",
+                "overdue_principal_change": "2022-01-15",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "25869",
+                "overdue_date": "2022-01-14",
+                "overdue_principal_change": "2022-01-23",
+                "overdue_principal_days": "7"
+              },
+              {
+                "overdue_principal_sum": "8623",
+                "overdue_date": "2022-01-17",
+                "overdue_principal_change": "2022-01-23",
+                "overdue_principal_days": "4"
+              },
+              {
+                "overdue_principal_sum": "8623",
+                "overdue_date": "2022-01-18",
+                "overdue_principal_change": "2022-01-23",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "8623",
+                "overdue_date": "2022-01-19",
+                "overdue_principal_change": "2022-01-23",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "8622",
+                "overdue_date": "2022-01-20",
+                "overdue_principal_change": "2022-01-23",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "32603",
+                "overdue_date": "2022-02-07",
+                "overdue_principal_change": "2022-02-09",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "2914347",
+                "overdue_date": "2020-09-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "2"
+              },
+              {
+                "overdue_principal_sum": "3890946",
+                "overdue_date": "2020-10-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "11"
+              },
+              {
+                "overdue_principal_sum": "3770354",
+                "overdue_date": "2020-11-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "3901980",
+                "overdue_date": "2020-12-07",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "3504193",
+                "overdue_date": "2021-02-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "18"
+              },
+              {
+                "overdue_principal_sum": "3833434",
+                "overdue_date": "2021-03-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "3676878",
+                "overdue_date": "2021-04-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "17"
+              },
+              {
+                "overdue_principal_sum": "3560266",
+                "overdue_date": "2021-05-05",
+                "overdue_principal_change": "2021-06-21",
+                "overdue_principal_days": "21"
+              },
+              {
+                "overdue_principal_sum": "3605747",
+                "overdue_date": "2021-06-07",
+                "overdue_principal_change": "2021-06-22",
+                "overdue_principal_days": "15"
+              },
+              {
+                "overdue_principal_sum": "292787",
+                "overdue_date": "2021-07-05",
+                "overdue_principal_change": "2021-07-06",
+                "overdue_principal_days": "1"
+              },
+              {
+                "overdue_principal_sum": "2869510",
+                "overdue_date": "2021-08-05",
+                "overdue_principal_change": "2021-08-11",
+                "overdue_principal_days": "5"
+              },
+              {
+                "overdue_principal_sum": "2723244",
+                "overdue_date": "2021-10-05",
+                "overdue_principal_change": "2021-10-29",
+                "overdue_principal_days": "23"
+              },
+              {
+                "overdue_principal_sum": "2007665",
+                "overdue_date": "2021-11-05",
+                "overdue_principal_change": "2021-11-09",
+                "overdue_principal_days": "3"
+              },
+              {
+                "overdue_principal_sum": "1623528",
+                "overdue_date": "2021-12-06",
+                "overdue_principal_change": "2021-12-15",
+                "overdue_principal_days": "8"
+              },
+              {
+                "overdue_principal_sum": "1228747",
+                "overdue_date": "2022-02-07",
+                "overdue_principal_change": "2022-02-09",
+                "overdue_principal_days": "1"
+              }
+            ]
+          },
+          "closed_offbalance_princial_sum": "0",
+          "org_type": "БАНК",
+          "amount_issued": "282833100",
+          "credit_type": "60",
+          "closed_offbalance_princial_sum_change": "",
+          "juridical_status": "08",
+          "claim_date": "2020-05-29",
+          "class_asset_quality_change": "2021-06-15"
+        }
+      ]
+    },
+    "dynamics_of_scoring_ball": {
+      "periods": {
+        "period": "07.2024",
+        "score_point": "294",
+        "score_date": "2024-07-04 13:36"
+      }
+    }
+  }
+}
